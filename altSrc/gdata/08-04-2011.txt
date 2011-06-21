@@ -1,0 +1,9 @@
+00:01:39 - GA 06 T 1707 has entered zone baina at 08 Apr 2011 00:01:39 Mobile  - ,http://www.myvaluefirst.com/smpp/sendsms,Ambica,ShastraAmbica123,ABS Trac,1
+06:17:57 - Venu Sir Car has entered zone new name at 08 Apr 2011 06:17:57 Email manivannan.k@shastrasoftech.com, - manivannan.k@shastrasoftech.com,,Dial Me Guru,mail.shastrasoftech.com,gpstrack@shastrasoftech.com,ssgpstrack123,gpstrack@shastrasoftech.com,1
+08:13:45 - GA 06 T 1707 has entered zone tisk at 08 Apr 2011 08:13:45 Mobile  - ,http://www.myvaluefirst.com/smpp/sendsms,Ambica,ShastraAmbica123,ABS Trac,1
+09:27:23 - Ace delivery vans 1 has left zone home at 08 Apr 2011 09:27:23 Email absgoa@gmail.com, - absgoa@gmail.com,,Ambica Buisness Solutions,mail.shastrasoftech.com,manivannan.k@shastrasoftech.com,ssmanivannank,manivannan.k@shastrasoftech.com,0
+09:28:00 - Ace delivery vans 2 has left zone home at 08 Apr 2011 09:28:00 Email absgoa@gmail.com, - absgoa@gmail.com,,Ambica Buisness Solutions,mail.shastrasoftech.com,manivannan.k@shastrasoftech.com,ssmanivannank,manivannan.k@shastrasoftech.com,0
+09:32:54 - Ace delivery vans 1 has entered zone colva beach at 08 Apr 2011 09:32:54 Email absgoa@gmail.com, - absgoa@gmail.com,,Ambica Buisness Solutions,mail.shastrasoftech.com,manivannan.k@shastrasoftech.com,ssmanivannank,manivannan.k@shastrasoftech.com,0
+10:38:21 - Aarti-1 has entered zone DMC jetty at 08 Apr 2011 10:38:21 Email kailash.sharma@synergytradex.com, - kailash.sharma@synergytradex.com,,Ambica Buisness Solutions,mail.shastrasoftech.com,manivannan.k@shastrasoftech.com,ssmanivannank,manivannan.k@shastrasoftech.com,0
+12:52:33 - GA 06 T 1707 has entered zone baina at 08 Apr 2011 12:52:33 Mobile  - ,http://www.myvaluefirst.com/smpp/sendsms,Ambica,ShastraAmbica123,ABS Trac,1
+13:34:47 - Tata 207 has entered zone baina at 08 Apr 2011 13:34:47 Mobile  - ,http://www.myvaluefirst.com/smpp/sendsms,Ambica,ShastraAmbica123,ABS Trac,1

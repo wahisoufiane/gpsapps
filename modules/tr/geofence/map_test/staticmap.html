@@ -1,0 +1,355 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<title>Static Map Wizard</title>
+<!--
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA-O3c-Om9OcvXMOJXreXHAxTZdFmpiU8vv3PBIA-hr88t-5BzzxSWLKKXiJcvC2EABsDlfXq6gJWAxA"
+      type="text/javascript"></script>
+-->
+<script type="text/javascript"
+      src="http://maps.google.com/maps?file=api&amp;&v=2&key=ABQIAAAAjU0EJWnWPMv7oQ-jjS7dYxSPW5CJgpdgO_s4yyMovOaVh_KvvhSfpvagV18eOyDWu7VytS6Bi1CWxw"></script>
+<style type="text/css">
+td {
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  height: 40px;
+  font-size: 11pt;
+}
+body {
+ font-family: Arial, sans serif;
+ font-size: 11pt;
+}
+</style>
+<script>
+
+var map;
+var polys = [];
+var markers = [];
+var editingNow = false;
+
+function updateImage() {
+   var baseUrl = "http://maps.google.com/staticmap?";
+
+   var params = [];
+   params.push("center=" + map.getCenter().lat().toFixed(6) + "," + map.getCenter().lng().toFixed(6));
+
+   var markerSize = document.getElementById("markerSizeSELECT").value;
+   var markerColor = document.getElementById("markerColorSELECT").value;
+   var markerLetter = document.getElementById("markerLetterSELECT").value;
+   var markerParams = markerSize + markerColor + markerLetter;
+   var markersArray = [];
+   for (var i = 0; i < markers.length; i++) {  
+     markersArray.push(markers[i].getLatLng().lat().toFixed(6) + "," + markers[i].getLatLng().lng().toFixed(6) + "," + markerParams);
+   }
+   if (markersArray.length) params.push("markers=" + markersArray.join("|"));
+
+   var polyColor = document.getElementById("polyColorSELECT").value;
+   var polyAlpha = document.getElementById("polyAlphaSELECT").value;
+   var polyWeight = document.getElementById("polyWeightSELECT").value;
+   var polyParams = "rgba:0x" + polyColor + polyAlpha + ",weight:" + polyWeight + "|";
+   for (var i = 0; i < polys.length; i++) {
+     var poly = polys[i];
+     var polyLatLngs = [];
+     for (var j = 0; j < poly.getVertexCount(); j++) {
+       polyLatLngs.push(poly.getVertex(j).lat().toFixed(5) + "," + poly.getVertex(j).lng().toFixed(5));
+     }
+     params.push("path=" + polyParams + polyLatLngs.join("|"));
+   }
+   if (map.getCurrentMapType() == G_SATELLITE_MAP) {
+     params.push("maptype=satellite");
+   }
+   if (map.getCurrentMapType() == G_HYBRID_MAP) {
+     params.push("maptype=hybrid");
+   }
+   if (map.getCurrentMapType() == G_PHYSICAL_MAP) {
+     params.push("maptype=terrain");
+   }
+
+   params.push("zoom=" + map.getZoom());
+   params.push("size=" + document.getElementById("mapWidthTEXT").value + "x" + document.getElementById("mapHeightTEXT").value);
+   var img = document.createElement("img");
+//   alert(params);
+   //img.src = baseUrl + params.join("&") + "&key=ABQIAAAA-O3c-Om9OcvXMOJXreXHAxTZdFmpiU8vv3PBIA-hr88t-5BzzxSWLKKXiJcvC2EABsDlfXq6gJWAxA";
+   img.src = baseUrl + params.join("&") + "&key=ABQIAAAAjU0EJWnWPMv7oQ-jjS7dYxSPW5CJgpdgO_s4yyMovOaVh_KvvhSfpvagV18eOyDWu7VytS6Bi1CWxw";
+   document.getElementById("staticMapIMG").innerHTML = "";
+   document.getElementById("staticMapIMG").appendChild(img);
+
+   document.getElementById("staticMapURL").innerHTML = baseUrl + params.join("&") + "&key=YOUR_KEY_HERE";
+}
+
+function load() {
+  if (GBrowserIsCompatible()) {
+    map = new GMap2(document.getElementById("map"));
+    map.setCenter(new GLatLng(37.400470,-122.072981), 13);
+    map.addMapType(G_PHYSICAL_MAP);
+    map.addControl(new GSmallMapControl());
+    map.addControl(new GMapTypeControl());
+    GEvent.addListener(map, "moveend", function(marker, point) {
+      updateImage();
+    });
+    GEvent.addListener(map, "maptypechanged", function(marker, point) {
+      updateImage();
+    });
+    GEvent.addListener(map, "click", function(overlay, latlng) {
+      if (latlng && !editingNow) {
+        createPolyAt(latlng);
+      }
+      updateImage();
+     });
+    geocoder = new GClientGeocoder();
+    updateImage();
+  }
+}
+
+
+function createPolyAt(latlng) {
+  var poly = new GPolyline([latlng]);
+  map.addOverlay(poly);
+  poly.enableDrawing();
+  editingNow = true;
+  GEvent.addListener(poly, "mouseover", function() {
+    poly.enableEditing();
+  });
+  GEvent.addListener(poly, "mouseout", function() {
+    poly.disableEditing();
+  });
+  GEvent.addListener(poly, "lineupdated", function() {
+    updateImage();
+  });
+  GEvent.addListener(poly, "endline", function() {
+    editingNow = false;
+  });
+  polys.push(poly);
+}
+
+function createMarkerAt(latlng) {
+  var marker = new GMarker(latlng, {draggable:true});
+  GEvent.addListener(marker, 'dragend', function() {
+    updateImage();
+  });
+  map.addOverlay(marker);
+  markers.push(marker);
+}
+
+function clearMarkers() {
+  for (var i = 0; i < markers.length; i++) {
+    map.removeOverlay(markers[i]);
+  }
+  markers = [];
+  updateImage();
+}
+
+function clearPolys() {
+  for (var i = 0; i < polys.length; i++) {
+    map.removeOverlay(polys[i]);
+  }
+  polys = [];
+  updateImage();
+}
+
+function showAddress() {
+  var address = document.getElementById("addressTEXT").value;
+  geocoder.getLatLng(
+    address,
+    function(latlng) {
+      if (!latlng) {
+        alert(address + " not found");
+      } else {
+        map.setCenter(latlng, 13);
+        createMarkerAt(latlng);
+        updateImage();
+      }
+    }
+  );
+}
+
+function disableSelects() {
+  document.getElementById("markerSizeSELECT").disabled = false;
+  document.getElementById("markerColorSELECT").disabled = false;
+  document.getElementById("markerLetterSELECT").disabled = false;
+
+  var markerColor = document.getElementById("markerColorSELECT").value;
+  var markerSize = document.getElementById("markerSizeSELECT").value;
+  if (markerSize == "small" || markerSize == "tiny") { 
+    document.getElementById("markerLetterSELECT").selectedIndex = 0;
+    document.getElementById("markerLetterSELECT").disabled = true;
+  } 
+}
+ 
+</script>
+<link rel="stylesheet" type="text/css" href="http://code.google.com/css/dev_docs.css">
+</head>
+<body onload="load()">
+<h2>Create a map with a marker and optional info window.</h2>
+
+  <p>
+  This wizard uses the <a href="http://code.google.com/apis/maps/documentation/staticmaps" target="_blank">Google Static Maps API</a>.
+  </p>
+
+<h3><img src="http://www.google.com/uds/solutions/wizards/img/1b.gif" 
+style="vertical-align:middle"/> Customize Map View, Marker Location, & Paths</h3>
+<br/>
+  <b>To change the map view:</b>
+  <p>
+
+  Use the map control to zoom in/out to the desired zoom level.
+  </p>
+<br/>
+   <b>To create a marker:</b>
+  <p>Enter the desired address/location in the box and press the button. If the marker is a little off, drag it around to where it should be.
+  <br/>
+  <input type="text" size="30" id="addressTEXT" value="Mountain View, CA" />
+  <input type="button" value="Create Marker Here" onclick="showAddress()"/>
+  </p>
+<br/>
+
+  <b>To add a path:</b>
+  <p>
+  You can optionally click on the map to indicate a starting point for a path. Clicking multiple times afterwards builds out the path.
+  </p>
+  <br/>
+  <div id="map" style="width: 500px; margin-left: 20px; height: 300px"></div>
+  <p>
+  <input type="button" value="Clear Marker" onclick="clearMarkers()"/>
+  <input type="button" value="Clear Poly" onclick="clearPolys();"/>
+
+  </p>
+<br clear="all"/>
+
+<h3><img src="http://www.google.com/uds/solutions/wizards/img/2b.gif" 
+style="vertical-align:middle"/>Customize Size & Preview</h3>
+  <p>
+  <table>
+  <tr>
+  <td><b>Map</b></td>
+  <td>width:
+  <input type="text" size="3" id="mapWidthTEXT" value="500" onkeyup="updateImage()" onkeypress="updateImage()" />
+
+  </td>
+  <td>height:
+  <input type="text" size="3" id="mapHeightTEXT" value="300" onkeyup="updateImage()" onkeypress="updateImage()" />
+  </td>
+  </tr> 
+  <tr>
+  <td><b>Marker</b></td>
+  <td>size: 
+  <select id="markerSizeSELECT" onchange="disableSelects(); updateImage();">
+    <option value="" SELECTED>normal</option>
+
+    <option value="mid">mid</option>
+    <option value="small">small</option>
+    <option value="tiny">tiny</option>
+  </select>
+  </td>
+  <td>Color:
+  <select id="markerColorSELECT" onchange="updateImage();">
+    <option value="black">black</option>
+
+    <option value="brown">brown</option>
+    <option value="green">green</option>
+    <option value="purple">purple</option>
+    <option value="yellow">yellow</option>
+    <option value="blue">blue</option>
+    <option value="gray">gray</option>
+
+    <option value="orange">orange</option>
+    <option value="red" SELECTED>red</option>
+    <option value="white">white</option>
+  </select>
+  </td>
+  <td>Letter:
+  <select id="markerLetterSELECT" onchange="updateImage();">
+    <option value="">None</option>
+
+    <option value="a">A</option>
+    <option value="b">B</option>
+    <option value="c">C</option>
+    <option value="d">D</option>
+    <option value="e">E</option>
+    <option value="f">F</option>
+
+    <option value="g">G</option>
+  </select>
+  </td>
+  </tr>
+  <tr>
+  <td><b>Path</b></td>
+  <td>Color:
+  <select id="polyColorSELECT" onchange="updateImage();">
+
+    <option value="000000">black</option>
+    <option value="8B4513">brown</option>
+    <option value="008000">green</option>
+    <option value="800080">purple</option>
+    <option value="FFCC00">yellow</option>
+    <option value="0000FF" SELECTED>blue</option> 
+    <option value="808080">gray</option>
+
+    <option value="ffa500">orange</option>
+    <option value="ff0000">red</option>
+    <option value="ffffff">white</option>
+  </select>
+  </td>
+  <td>
+  Alpha:
+  <select id="polyAlphaSELECT" onchange="updateImage();">
+
+    <option value="19">10%</option>
+    <option value="33">20%</option>
+    <option value="4d">30%</option>
+    <option value="66">40%</option>
+    <option value="80" SELECTED>50%</option>
+    <option value="99">60%</option>
+
+    <option value="b3">70%</option>
+    <option value="cc">80%</option>
+    <option value="e6">90%</option>
+    <option value="ff">100%</option>
+  </select>
+  </td>
+  <td>
+
+  Weight:
+  <select id="polyWeightSELECT" onchange="updateImage();">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5" SELECTED>5</option>
+
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+  </select>
+
+  </td>
+  </tr>
+  </table>
+  </p>
+  <div id="staticMapIMG" style="width: 500px; margin-left: 20px; height: 300px"></div>
+<br clear="all"/>
+
+<h3><img src="http://www.google.com/uds/solutions/wizards/img/3b.gif" 
+style="vertical-align:middle"/>Generate URL</h3>
+<p>The Static Maps API requires a free API key that's associated with your
+<a href="http://www.google.com/accounts/"> Google Account</a> and the URL of your web site.
+You can sign up for one <a
+href="http://code.google.com/apis/maps/signup.html">here</a>, and substitute it
+as the value of the "&key=" parameter in the URL below.
+
+<br/>
+<p>
+<!--<input id="keyBUTTON" type="button" onclick="generateKey();"
+value="Generate Key"/>-->
+</p>
+<pre id="staticMapURL" class="code">
+</pre>
+
+</body>
+</html>
+
+

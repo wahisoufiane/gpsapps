@@ -1,0 +1,14 @@
+
+/***************Map page Css*******************/
+.map_heading{font: bold 15px/40px Arial, Helvetica, sans-serif; color:#000; text-align:left;}
+/*.map_shad{background:#f5f5f5 url(../images/t_sha.gif) 25px 0px no-repeat;}*/
+.select_vehicle{background:#d4e8b4; border:1px solid #a2d84c; padding:2px; width:130px; margin:0px 5px;}
+#map{ width:810px; height:381px; border:2px solid #bbd78f; margin-left:1px;}
+.del_but1{background:#a2d84c; font:normal 12px/18px Arial, Helvetica, sans-serif; color:#000; border:0px; padding:2px;}
+.lt_border{border-left:1px solid #a2d84c;}
+.rt_border{border-right:1px solid #a2d84c;}
+.bt_border{border-bottom:1px solid #a2d84c;}
+
+.copy_r{font:normal 10px/18px Arial, Helvetica, sans-serif; color:#626262;}
+
+

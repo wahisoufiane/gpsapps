@@ -1,0 +1,289 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+
+<head>
+
+<!-- See also the official example at:
+  http://gmaps-samples.googlecode.com/svn/trunk/poly/area_length.html -->
+
+<title>Switch between Polylines and Polylgons</title>
+
+<style type="text/css">
+
+body { height: 600px; }
+
+h3 { margin-left: 10px; }
+
+#map { position: absolute;
+	top: 50px;
+	left: 15px;
+	width: 550px;
+	height: 400px;
+}
+
+#descr { position:absolute;
+	top:40px;
+	left: 580px;
+	width: 250px;
+}
+
+
+.button { display: block;
+	width: 180px;
+	border: 1px Solid #565;
+	background-color:#F5F5F5; 
+        padding: 3px;
+        text-decoration: none;
+	font-size:smaller;
+}
+
+.button:hover { background-color: white; }
+
+.tooltip { text-align: center;
+	opacity: .70;
+	-moz-opacity:.70;
+	filter:Alpha(opacity=70);
+	white-space: nowrap;
+	margin: 0;
+	padding: 2px 0.5ex;
+	border: 1px solid #000;
+	font-weight: bold;
+	font-size: 9pt;
+	font-family: Verdana;
+	background-color: #fff;
+}
+
+</style>
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;svgf=t" type="text/javascript">
+</script>
+
+</head>
+
+<body onload="buildMap()" onunload="GUnload()">
+
+<h3>Switch between Polylines and Polygons</h3>
+
+<div id="map"> </div>
+
+<form id="f" action="">
+<table id="descr" border="0" cellspacing="10" cellpadding="1">
+<tr><td>
+Click on the map to set markers and polylines or polygons. At least two markers are needed to draw a line. All markers are draggable and seperately removable.
+
+</td></tr>
+<tr><td id="status" style="height:70px">&nbsp; </td></tr>
+<tr><td>
+<div class="button"><input type="radio" name="mode" onclick="toggleMode()" /> Polyline Mode<br />
+
+<input type="radio" name="mode" checked="checked" onclick="toggleMode()" /> Polygon Mode
+</div>
+</td></tr><tr><td>
+
+<a href="#" class="button" style="text-align:center" onclick="clearMap();return false;">Clear Map</a>
+</td></tr><tr><td style="padding-right:19px; height:30px;">
+<span class="include"><a href="index.html">Back</a></span>
+
+</td></tr>
+</table></form>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+// Global variables
+var mapdiv = document.getElementById("map");
+var map;
+var poly;
+var count = 0;
+var points = new Array();
+var markers = new Array();
+var icon_url ="images/";
+var tooltip;
+var lineColor = "#0000af";
+var fillColor = "#335599";
+var lineWeight = 3;
+var lineOpacity = .8;
+var fillOpacity = .2;
+var report= document.getElementById("status");
+
+
+function addIcon(icon) { // Add icon attributes
+
+ icon.shadow= icon_url + "mm_20_shadow.png";
+ icon.iconSize = new GSize(12, 20);
+ icon.shadowSize = new GSize(22, 20);
+ icon.iconAnchor = new GPoint(6, 20);
+ icon.infoWindowAnchor = new GPoint(5, 1);
+}
+
+
+function showTooltip(marker) { // Display tooltips
+
+ tooltip.innerHTML = marker.tooltip;
+ tooltip.style.display = "block";
+
+ // Tooltip transparency specially for IE
+ if(typeof(tooltip.style.filter) == "string") {
+ tooltip.style.filter = "alpha(opacity:70)";
+ }
+
+ var currtype = map.getCurrentMapType().getProjection();
+ var point= currtype.fromLatLngToPixel(map.fromDivPixelToLatLng(new GPoint(0,0),true),map.getZoom());
+ var offset= currtype.fromLatLngToPixel(marker.getLatLng(),map.getZoom());
+ var anchor = marker.getIcon().iconAnchor;
+ var width = marker.getIcon().iconSize.width + 6;
+// var height = tooltip.clientHeight +18;
+ var height = 10;
+ var pos = new GControlPosition(G_ANCHOR_TOP_LEFT, new GSize(offset.x - point.x - anchor.x + width, offset.y - point.y -anchor.y - height)); 
+ pos.apply(tooltip);
+}
+
+
+function buildMap() {
+
+ map = new GMap2(mapdiv, {draggableCursor:"auto", draggingCursor:"move"});
+
+ // Add a div element for toolips
+ tooltip = document.createElement("div");
+ tooltip.className="tooltip";
+ map.getPane(G_MAP_MARKER_PANE).appendChild(tooltip);
+
+ // Load initial map and a bunch of controls
+ map.setCenter(new GLatLng(17.385652586418747, 78.49096298217773), 15);
+ map.addControl(new GLargeMapControl()); // Zoom control
+ map.addMapType(G_PHYSICAL_MAP);
+ // Create a hierarchical map type control
+ var hierarchy = new GHierarchicalMapTypeControl();
+ // make Hybrid the Satellite default
+ hierarchy.addRelationship(G_SATELLITE_MAP, G_HYBRID_MAP, "Labels", true);
+ // add the control to the map
+ map.addControl(hierarchy);
+
+ map.addControl(new GScaleControl()); // Scale bar
+ map.disableDoubleClickZoom();
+
+ // Add click listener
+ GEvent.addListener(map, "click", leftClick);
+}
+
+
+function leftClick(overlay, point) {
+
+ if(point) {
+  count++;
+
+ if(count%2 != 0) {
+
+  // Light blue marker icons
+  var icon = new GIcon();
+  icon.image =  icon_url +"lightblue.png";
+  addIcon(icon);
+ }
+  else {
+  // Purple marker icons
+  var icon = new GIcon();
+  icon.image = icon_url +"mm_20_purple.png";
+  addIcon(icon);
+ }
+
+  // Make markers draggable
+  var marker = new GMarker(point, {icon:icon, draggable:true, bouncy:false, dragCrossMove:true});
+  map.addOverlay(marker);
+  marker.content = count;
+  markers.push(marker);
+  marker.tooltip = "Point "+ count;
+
+  GEvent.addListener(marker, "mouseover", function() {
+   showTooltip(marker);
+  });
+
+  GEvent.addListener(marker, "mouseout", function() {
+   tooltip.style.display = "none";
+ });
+
+  // Drag listener
+  GEvent.addListener(marker, "drag", function() {
+   tooltip.style.display= "none";
+   drawOverlay();
+  });
+
+  // Second click listener
+  GEvent.addListener(marker, "click", function() {
+   tooltip.style.display = "none";
+
+  // Find out which marker to remove
+  for(var n = 0; n < markers.length; n++) {
+   if(markers[n] == marker) {
+    map.removeOverlay(markers[n]);
+    break;
+   }
+  }
+
+  // Shorten array of markers and adjust counter
+  markers.splice(n, 1);
+  if(markers.length == 0) {
+    count = 0;
+  }
+   else {
+    count = markers[markers.length-1].content;
+    drawOverlay();
+  }
+  });
+ drawOverlay();
+ }
+}
+
+
+function toggleMode() {
+
+ if(markers.length > 1) drawOverlay();
+}
+
+
+function drawOverlay(){
+
+ // Check radio button
+ var lineMode = document.forms["f"].elements["mode"][0].checked;
+
+ if(poly) { map.removeOverlay(poly); }
+ points.length = 0;
+
+ for(i = 0; i < markers.length; i++) {
+  points.push(markers[i].getLatLng());
+ }
+ if(lineMode) {
+   // Polyline mode
+   poly = new GPolyline(points, lineColor, lineWeight, lineOpacity);
+   var length = poly.getLength()/1000;
+   var unit = " km";
+   report.innerHTML = "Total line length:<br> " + length.toFixed(3) + unit;
+  }
+  else {
+   // Polygon mode
+   points.push(markers[0].getLatLng());
+   poly = new GPolygon(points, lineColor, lineWeight, lineOpacity, fillColor, fillOpacity);
+   var area = poly.getArea()/(1000*1000);
+   var unit = " km&sup2;";
+   report.innerHTML = "Area of polygon:<br> " + area.toFixed(3) + unit;
+  }
+  map.addOverlay(poly);
+}
+
+
+function clearMap() {
+
+ // Clear current map and reset arrays
+ map.clearOverlays();
+ points.length = 0;
+ markers.length = 0;
+ count = 0;
+ report.innerHTML = "&nbsp;";
+}
+
+//]]>
+</script>
+
+</body>
+</html>

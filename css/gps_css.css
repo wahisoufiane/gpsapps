@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {margin: 0;padding: 0; font-family:"Trebuchet MS";}
+
+.email, .pwd{border:none; padding: 5px 2px 5px 20px; -moz-border-radius:3px;}
+
+.email{background:url(../images/email_image.gif) 3px center  no-repeat;background-color:#FFFFFF;}
+.pwd{background:url(../images/password_image.gif) 3px center  no-repeat;background-color:#FFFFFF;}
+
+.table_headers{text-align:center;}
+
+.remember, .forgot{font-size:12px;}
+
+.forgot{text-decoration:none; color:#FF9900; margin-bottom:5px; padding-left:20px;}
+
+
+.chk_box{padding:0px; margin-left:0px;}
+.abc, .chk_box{vertical-align:middle; margin-bottom:5px;}
+
+.login{background:url(../images/login_button.png) no-repeat; border:none; width:88px; height:34px;}
+.login:hover{background:url(../images/login_button.png);}
+
+.footer{position:fixed; bottom:-10px; background:url(../images/footer_color.png) repeat-x; width:100%; height:32px; padding-top:6px;}
+
+.panel{background:url(../images/block.png); width:432px; height:255px; margin-top:100px;}
+
+.logo_holder{height:120px; vertical-align:middle;}
+
+.logo{margin-top:20px;}
+

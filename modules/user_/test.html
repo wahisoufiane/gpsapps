@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>GPS Application</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/object_validation.js" ></script>
+<script type="text/javascript">
+<!--
+
+
+
+//-->
+</script>
+
+</head>
+
+<body onload="datestr()">
+<div class="wrapper"><!-- wrapper div start from here -->
+	<div class="headerarea"><!-- headerarea div start here -->
+    	<div class="logoarea"><img src="images/logo.gif" width="198" height="69" /></div>
+        <div class="welcome_user">
+        	<p>Welcome User | <a href="#">Logout</a></p><br />
+            <p>Your last login is on dd/mm/yyyy, HH:MM</p>
+        </div>
+        
+        <div class="menuarea">
+        	 <ul>
+        	   <li class="active">Home</li>  
+               <li>Alerts</li>
+               <li>Settings</li>
+               <li>External Link</li>
+               <li>External Link</li>
+            </ul>
+            
+            <div class="datearea"><span id="DateDisplay"></span> <img src="images/calender.gif" width="27" height="26" /></div>
+            
+        </div>
+        
+      <div class="clear"></div>  
+    </div><!-- headerarea div END here -->
+	<div class="pagearea"><!-- Pagearea div start here -->
+    <div class="listofusers">List of Users / <a href="#">Add New</a></div>
+    <form name="frmUserRegister" id="frmUserRegister" action="gridlayout2.html" onSubmit="ValidateAll()">
+    	<table class="form1">
+     		<tr>
+            	<td width="41%" class="formtext">Username </td>
+            	<td width="2%" align="center">  : </td> 
+           	  <td width="57%" ><input type="text" size="20" value="" id="username" name="username" 
+              onblur="validfields('frmUserRegister','username','UserName','usererror','')"  />
+              <br /> <div id="usererror"></div></td>
+             
+          </tr>
+           
+          <tr>
+            	<td width="41%" class="formtext">Password </td>
+            	<td width="2%" align="center">  : </td> 
+           	  <td width="57%" ><input type="password" size="20" value="" id="password" name="password" 
+              onblur="validfields('frmUserRegister','password','PassWord','passerror','')"  />
+             <br /> <div id="passerror"></div></td>
+          </tr>
+          <tr>
+            	<td width="41%" class="formtext">Confirm Password </td>
+            	<td width="2%" align="center">  : </td> 
+           	  <td width="57%" ><input type="password" size="20" value="" id="confirm_password" name="confirm_password" 
+              onblur="validfields('frmUserRegister','confirm_password','ConfirmPassword','confirmerror','password')" />
+     		   <br /> <div id="confirmerror"></div></td>
+          </tr>
+          <tr>
+            	<td width="41%" class="formtext">Email </td>
+            	<td width="2%" align="center">  : </td> 
+           	  <td width="57%" ><input type="text" size="20" value="" id="email" name="email" 
+              onblur="validfields('frmUserRegister','email','Email','emailerror','')"  />
+              <br /><div id="emailerror"></div>
+              </td>
+          </tr>
+       	 <tr>
+            	<td width="41%" class="formtext">Gender </td>
+            	<td width="2%" align="center">  : </td> 
+           	  <td width="57%" ><input type="radio" value="" id="radio1" CHECKED onblur="Radio()"/> Male <input type="radio" id="radio2" onblur="Radio()"/> Female
+              <br /><div id="radioerror"></div></td>
+          </tr>
+          <tr>
+            	<td width="41%" class="formtext">Label </td>
+            	<td width="2%" align="center">  : </td> 
+           	  <td width="57%" >
+              <select size="1" id="menu" onblur="validfields('frmUserRegister','menu','DropDownMenu','selecterror','')">
+              <option value="">Select</option>
+              <option value="one">1</option>
+              <option value="two">1</option>
+              </select>
+              <br  /><div id="selecterror"></div></td>
+          </tr>
+          <tr><td colspan="3" align="center"><input type="submit" value="Submit" class="click_btn" />
+          									 <input type="reset" value="Reset" class="click_btn" /></td></tr>
+       
+        </table>
+        
+       
+        
+        </form>
+        
+    </div><!-- PAGEarea END here -->
+	<div class="footerarea"><!-- Footerarea div start here -->
+    <p align="right">All Rights Reserved to KEYSTONE UNIQUE INFO PRIVATE LIMITED. Copyrights 2010</p>
+    </div><!-- Footerarea div End here -->
+<div class="clear"></div>
+</div><!-- wrapper div END here -->
+</body>
+</html>
