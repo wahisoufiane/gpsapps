@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
+  <head> 
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/> 
+    <title>Google Maps JavaScript API Example</title> 
+    <script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAjU0EJWnWPMv7oQ-jjS7dYxSPW5CJgpdgO_s4yyMovOaVh_KvvhSfpvagV18eOyDWu7VytS6Bi1CWxw"
+            type="text/javascript"></script>
+    <script type="text/javascript"> 
+    //<![CDATA[ 
+    // Taken from Kip, Modified by Pamela Fox & Dave Parsons
+    var map;
+    var Cpoints = []; 
+    /**
+     * Add a circle to the global variable "map". This function won't work for circles that encompass
+     * the North or South Pole. Also, there is a slight distortion in the upper-left, upper-right,
+     * lower-left, and lower-right sections of the circle that worsens as it gets larger and/or closer
+     * to a pole.
+     * @param lat Latitude in degrees
+     * @param lng Longitude in degrees
+     * @param radius Radius of the circle in statute miles
+     * @param {String} strokeColor Color of the circle outline in HTML hex style, e.g. "#FF0000"
+     * @param strokeWidth Width of the circle outline in pixels
+     * @param strokeOpacity Opacity of the circle outline between 0.0 and 1.0
+     * @param {String} fillColor Color of the inside of the circle in HTML hex style, e.g. "#FF0000"
+     * @param fillOpacity Opacity of the inside of the circle between 0.0 and 1.0
+     */
+	 
+	 /*function drawCircle(centerMarker, radiusMarker, borderColour,fillColour) {
+
+    var normalProj = map.getCurrentMapType().getProjection();
+    var zoom = map.getZoom();
+
+    var centerPt = normalProj.fromLatLngToPixel(centerMarker, zoom);
+        var radiusPt = normalProj.fromLatLngToPixel(radiusMarker, zoom);
+
+        var circlePoints = Array();
+
+    with (Math) {
+        var radius = floor(sqrt(pow((centerPt.x-radiusPt.x),2) +
+pow((centerPt.y-radiusPt.y),2)));
+
+                        for (var a = 0 ; a < 361 ; a+=5 ) {
+                                var aRad = a*(PI/180);
+                                y = centerPt.y + radius * sin(aRad)
+                                x = centerPt.x + radius * cos(aRad)
+                                var p = new GPoint(x,y);
+                                circlePoints.push(normalProj.fromPixelToLatLng(p, zoom));
+                        }
+                        circleLine2 = new GPolygon(circlePoints,borderColour,0, 0,
+fillColour,0.5);
+                        map.addOverlay(circleLine2);
+
+    } 
+	 function drawCircle(center, radius, color, width, complexity) {
+    var points = [];
+    var radians = Math.PI / 180;
+    var longitudeOffset = radius / (Math.cos(center.y * radians) *
+111325);
+    var latitudeOffset = radius / 111325;
+    for (var i = 0; i < 360; i += complexity) {
+        var point = new GPoint(center.x + (longitudeOffset * Math.cos(i
+* radians)), center.y + (latitudeOffset * Math.sin(i * radians)));
+        points.push(point);
+    }
+    points.push(points[0]);// close the circle
+    var polygon = new GPolygon(points, true, "#F0F0F0",0.25, true);
+
+    map.addOverlay(polygon);
+
+} */
+    function drawCircle(lat, lng, radius, strokeColor, strokeWidth, strokeOpacity, fillColor, fillOpacity) {
+	
+	var ptArr= [];
+      var d2r = Math.PI/180;
+      var r2d = 180/Math.PI;
+      var Clat = radius * 0.014483;  // Convert statute miles into degrees latitude
+      var Clng = Clat/Math.cos(lat*d2r); 
+      //alert("d2r"+d2r+"r2d"+r2d+"Lat "+Clat+"CLng"+Clng+"\n");
+      for (var i=0; i < 33; i++) { 
+        var theta = Math.PI * (i/16); 
+        Cy = lat + (Clat * Math.sin(theta)); 
+        Cx = lng + (Clng * Math.cos(theta));
+		var p1=Cx+","+Cy;
+		ptArr.push(p1)
+        var P = new GPoint(Cx,Cy); 
+		//document.write(P+"<br>");
+        Cpoints.push(P); 
+      }
+	 // alert(ptArr);
+	  document.getElementById('pts').innerHTML = Cpoints;
+	 // alert(Cpoints.length);
+      var polygon = new GPolygon(Cpoints, strokeColor, strokeWidth, strokeOpacity, fillColor, fillOpacity);
+      map.addOverlay(polygon);
+     }
+	 
+    function inPoly1 (points,latlong)
+    {
+        // This code adapted from the following URL:
+        // http://msdn.microsoft.com/en-us/library/cc451895.aspx
+
+        var i;
+        var j=points.length-1;
+        var inPoly=false;
+        var lat = latlong.x;
+        var lon = latlong.y;
+
+        for (i=0; i<points.length; i++)
+        {
+            if (points[i].y<lon && points[j].y>=lon ||  points[j].y<lon && points[i].y>=lon)
+            {
+                if (points[i].x+(lon-points[i].y)/(points[j].y-points[i].y)*(points[j].x-points[i].x)<lat)
+                {
+                    inPoly=!inPoly;
+                }
+            }
+            j=i;
+        }
+
+        return inPoly;
+    };
+	 
+	function inPoly(poly,pt){
+	//alert(pt.x+" "+pt.y);
+		 var npoints = poly.length-1; // number of points in polygon
+		// this assumes that last point is same as first
+		 var xnew,ynew,xold,yold,x1,y1,x2,y2,i;
+		 var inside=false;
+	
+		 if (npoints < 3) { // points don't describe a polygon
+			  return false;
+		 }
+		 xold=poly[npoints-1].x; yold=poly[npoints-1].y;
+		 
+		 for (i=0 ; i < npoints ; i++) {
+			  xnew=poly[i].x; ynew=poly[i].y;
+			  
+			  if (xnew > xold) {
+				   x1=xold; x2=xnew; y1=yold; y2=ynew;
+			  }else{
+				   x1=xnew; x2=xold; y1=ynew; y2=yold;
+			  }
+			  if ((xnew < pt.x) == (pt.x <= xold) && ((pt.y-y1)*(x2-x1) < (y2-y1)*(pt.x-x1))) {
+				   inside=!inside;
+				   //document.write(xnew+" "+ynew+" "+npoints+" "+pt.x+" "+pt.y+"<br>");
+			  }
+			  xold=xnew; yold=ynew;
+		 }; // for
+	
+		 return inside;
+	}; // function inPoly
+    function load() { 
+      if (GBrowserIsCompatible()) { 
+        map = new GMap2(document.getElementById("map")); 
+        map.setCenter(new GLatLng(17.4172976,78.4569920), 13); 
+	        map.addControl(new GSmallMapControl());
+	        map.addControl(new GMenuMapTypeControl());
+			map.enableScrollWheelZoom();
+		    map.enableContinuousZoom();
+			map.addControl(new GScaleControl());
+
+        drawCircle(17.4236816,78.4591232,0.50, "#000080", 1, 0.5, "#0000FF",.5);   
+		
+      } 
+	    point= new GLatLng(17.4172976,78.4569920)
+           var polyside=inPoly(Cpoints,point);
+		   //alert(polyside);
+		      if (polyside) {
+                 map.openInfoWindowHtml(point,'Click Inside Green Polygon');
+			  }
+         GEvent.addListener(map, "click", function(overlay, point) {
+          if (point) {
+           var polyside=inPoly(Cpoints,point);
+		      if (polyside) {
+                 map.openInfoWindowHtml(point,'Click Inside Green Polygon');
+			  }
+          }
+		  else if(point=='undefined');
+		  {
+			 map.openInfoWindowHtml(point,'Click Outside Green Polygon');
+		  } 
+        });
+
+    } 
+    //]]> 
+    </script> 
+  </head> 
+  <body onload="load()" onunload="GUnload()"> 
+    <div id="map" style="width: 750px; height: 600px"></div> 
+    <div id="pts"></div>
+  </body> 
+</html> 
+

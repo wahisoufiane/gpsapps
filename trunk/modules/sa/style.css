@@ -1,0 +1,124 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td 
+{ margin: 0; padding: 0; border: 0; outline: 0; font-size: 95%; font-family:Arial, Helvetica, sans-serif; vertical-align: middle; background: transparent; text-decoration:none; }
+body { line-height: 1; }
+ol, ul { list-style: none; }
+blockquote, q { quotes: none; }
+
+/* remember to define focus styles! */
+:focus { outline: 0; }
+/* remember to highlight inserts somehow! */
+ins { text-decoration: none; }
+del { text-decoration: line-through; }
+table { border-collapse: collapse; border-spacing: 0; }
+.clear { clear:both; margin:0px; padding:0px;  }
+
+/* layout styles start Here */
+.wrapper
+{ width:100%; background:#FFFFFF; margin:0; min-height:250px;  }
+.headerarea
+{ width:99%; padding:5px; padding-bottom:0px; background:#FFFFFF; min-height:30px; }
+	.logoarea
+	{ width:200px; float:left; margin:5px;  }
+	.welcome_user
+	{ width:59%; float:right; display:inline-block; padding:5px; text-align:right;  }
+	.menuarea
+	{ width:100%;  min-height:40px; background:url(../images/menu_bg.gif) left top repeat-x; float:left; }
+		.menuarea ul
+		{ width:60%; float:left; }
+			.menuarea ul li
+			{ float:left; padding:12px 25px 12px 25px; font-size:110%; font-weight:bold; color:#FFFFFF; background:url(../images/menu_right.gif) right top no-repeat;  }
+			.menuarea ul li.active
+			{ background:url(../images/active_menu.gif) left top repeat-x; }
+			.menuarea ul li ul.sublist
+			{display:none; width:170px; position:absolute; margin-left:-25px; margin-top:18px; background-color:#0099FF; -moz-border-radius:0 0 10px 10px;}
+			.menuarea ul li.drop:hover ul.sublist, .menuarea ul li.drop2:hover ul.sublist
+			{display:block; position:absolute; }
+			.menuarea ul li.drop:hover
+			{ background:#0099FF; min-height:20px; -moz-border-radius:10px 10px 0 0; margin-top:-5px;}
+			.menuarea ul li ul.sublist li
+			{ padding:8px; color:#FFFFFF; clear:left; border-bottom:#FFF dotted 1px; background-image:none; font-size:12px; font-weight:normal; width:91%}
+			.menuarea ul li ul.sublist li:hover
+			{ background-color:#BB0000; color:#FFFFFF; cursor:pointer; }
+			
+			
+		.datearea
+		{ width:36%; float:right; min-height:20px; text-align:right; color:#FFFFFF; padding:5px;  }	
+		
+.pagearea
+{ width:99%; padding:5px; min-height:355px; *height:365px;}
+	.form1
+	{  width:95%; clear:both; font-size:120%; }
+	.form1 td.formtext
+	{ text-align:right; padding:10px;  }
+	.form1 td input[type='text'], .form1 td input[type='password']
+	{ width:48%; float:left; padding:5px; border:#CCCCCC solid 1px;  }
+	.form1 td select
+	{ width:50%; float:left; padding:5px; border:#CCCCCC solid 1px;  }
+	.form1 td input.click_btn
+	{ clear:both; margin-top:10px; padding:5px; background:url(../images/input_btn_bg.gif) left top repeat-x; border:#CCCCCC solid 1px;
+	 font-weight:600; font-size:80%; color:#0066FF; }
+
+
+	.gridform
+	{ width:60%; text-align:center; margin-bottom:10px;}
+	.gridform th
+	{ background:#0099FF; padding:12px; color:#FFFFFF; font-size:120%;  }
+	.gridform td
+	{ font-size:120%; padding:5px; background-color:#F3F3F3; border-bottom:#CCCCCC solid 1px; padding-top:10px; padding-bottom:10px; }
+
+	.gridform_final
+	{ width:90%; text-align:center; margin-bottom:10px; }
+	.gridform_final th
+	{ background:#0099FF; padding:12px; color:#FFFFFF; font-size:120%; }
+	.gridform_final td
+	{ font-size:120%; padding:5px; background-color:#F3F3F3; border-bottom:#CCCCCC solid 1px; padding-top:10px; padding-bottom:10px; }
+	.edit
+	{ display:none; }
+	
+
+
+.mapGrid
+	{ width:100%; margin-bottom:0px; margin-top:5px;}
+	.mapGrid th
+	{ background:#0099FF; padding:12px; color:#FFFFFF; font-size:120%; border-left:#006699 solid 1px;}
+	.mapGrid td
+	{ font-size:100%; padding:5px; background-color:#F3F3F3; border:#CCCCCC solid 1px; padding-top:5px; padding-bottom:10px; }
+	
+.detailsGrid
+	{ width:100%; margin-bottom:0px;}
+	.detailsGrid th
+	{ background:#0099FF; padding:6px; color:#FFFFFF; font-size:120%;}
+	.detailsGrid td
+	{ font-size:100%; padding:5px; background-color:#F3F3F3; border-bottom:#CCCCCC dotted 1px; padding-top:5px; padding-bottom:10px; }
+
+
+
+#usererror, #passerror, #confirmerror, #emailerror, #radioerror, #selecterror
+{ color:#0033FF; font-weight:bold; padding-left:10px; display:inline;}
+
+.footerarea
+{ width:98.5%; padding:10px; background:url(../images/menu_bg.gif) left top repeat-x;  color:#FFFFFF;}
+
+.details td{font-size:12px; padding:3px 1px;}
+
+.detailsBlock{float:left; margin-left:5px; width:19%;}
+
+.mapArea{float:left; width:80%; margin:0px; padding:0px;}
+
+.statusBlock{float:left; width:70%; background-color:#d4dff4; padding:10px 5px; margin-top:20px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* layout styles END Here */

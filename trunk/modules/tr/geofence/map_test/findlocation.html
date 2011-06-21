@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Find Postal Address of any Location on Google Maps</title>
+<meta name="Description" content="Find the Postal Address of any Location on Google Maps" />
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA6C4bndUCBastUbawfhKGURTPcAgFsBQ5lmS5najHkCztcsKGexSNpYrYB9Y276wTymXFY2BGeSHhFw" type="text/javascript"></script>
+<style> 
+.wText {
+	border: 1px solid gray;
+	padding: 5px;
+	margin: 2px;
+	font: normal 10px verdana;
+	width: 200px;
+}
+#map {
+	width: 740px;
+	height:320px;
+}
+</style>
+<script type="text/javascript">
+
+    var map = null;
+    var geocoder = null;
+
+    function initialize() {
+      if (GBrowserIsCompatible()) {
+        map = new GMap2(document.getElementById("map"));
+     map.addControl(new GLargeMapControl()); 
+     map.addControl(new GMapTypeControl()); 
+     map.setCenter(new GLatLng(37.4419, -122.1419), 14);
+     map.enableScrollWheelZoom();
+        geocoder = new GClientGeocoder();
+        GEvent.addListener(map, "click", clicked);
+      }
+    }
+
+    function showAddress(address) {
+      if (geocoder) {
+        geocoder.getLatLng(
+          address,
+          function(point) {
+            if (!point) {
+              alert("We're sorry but '" + address + "' cannot be found on Google Maps. Please try again.");
+            } else {
+     	     map.panTo(point); 
+        }
+      });
+    }
+  }
+
+    function clicked(overlay, latlng) {
+      if (latlng) {
+	  alert(latlng);
+        geocoder.getLocations(latlng, function(addresses) {
+          if(addresses.Status.code != 200) {
+            alert("reverse geocoder failed to find an address for " + latlng.toUrlValue());
+          }
+          else {
+            address = addresses.Placemark[0];
+            var myHtml = address.address;
+            map.openInfoWindow(latlng, myHtml);
+          }
+        });
+      }
+    }
+    </script>
+</head>
+<body onload="initialize()" onunload="GUnload()">
+
+	<div id="frame" style="width: 680px; font: bold 12px verdana;padding:3px;margin:10px;">
+      Find the exact address of any point on earth with Google Maps<br />
+      Step 1: Use the search box to find an approximate  location on Google Maps. <br />
+        Step 2: Now click any point on Google Maps to see its address.<br />
+        <input id="address" type="text" value="Enter your location here.." onFocus="this.value=''" />
+                  <input type="button" value="Set start address" onClick="showAddress(document.getElementById('address').value)"/>
+</div>
+<!-- google_ad_section_start(weight=ignore) -->
+<table cellspacing="0" cellpadding="0" style="-moz-outline-width:8px; -moz-outline-radius:15px; -moz-outline-style:solid;-moz-outline-color:#838FBB;margin:20px;">
+		<tr>
+
+			<td valign="top">
+				<div id="map"></div>			</td>
+		</tr>
+	</table>
+</body>
+</html>

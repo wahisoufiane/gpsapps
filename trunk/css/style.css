@@ -1,0 +1,545 @@
+body
+{
+	background:#333333;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:0;
+}
+p, div, a, li, ul, span, h1, h2, h3, h4, h5, h6, h7, pre, form, table, tr, td, th, b, i
+{
+	text-align:left;
+	margin:0;
+	padding:0;
+}
+p a img
+{
+	border:none;
+	padding-right:15px;
+}
+.wrapper
+{
+	width:100%;
+	margin:0;
+	padding:0;
+}
+.headerarea
+{
+	width:100%;
+	margin:0;
+	padding:0;
+	background:#FFF;
+	min-height:60px;
+}
+	.logoarea
+	{
+		width:15%;
+		float:left;
+	}
+	.date
+	{
+		width:9%;
+		float:right;
+		text-align:right;
+		padding-right:25px;
+	}
+	.menuarea
+	{
+		width:73%;
+		float:left;
+		margin-left:5px;
+		min-height:50px;
+		background:url(../images/menu_bg_left.gif) left top no-repeat;
+	}
+		.menulist
+		{
+			width:100%;
+			float:right;
+			list-style:none;
+			min-height:55px;
+			background:url(../images/menu_bg_right.gif) right top no-repeat;
+			
+		}
+		.menulist li
+		{
+			padding:15px 10px 10px 10px;
+			width:14.2%;
+			text-align:center;
+			float:left;
+			text-transform:uppercase;
+			font-weight:bold;
+			color:#FFFFFF;
+			border-right:#CCCCCC solid 1px;
+		}
+.pagearea
+{
+	width:100%;
+	margin:0;
+	padding:0;
+	background:#FFF;
+	min-height:470px;
+	float:left;
+	
+}
+	.leftarea
+	{
+		width:13%;
+		float:left;
+		background-color:#FFFFFF;
+		min-height:200px;
+	}
+		h5
+		{
+			background:url(../images/shortcuts_header.gif) left top no-repeat;
+			padding:10px;
+			color:#FFFFFF;
+			font-size:12px;
+			font-weight:bold;
+		}
+		h5 a
+		{
+			width:100%;
+			padding:35px;
+			color:#FFFFFF;
+			text-align:center;
+			text-decoration:none;
+			background:url(../images/hide_arrows.png) left center no-repeat;
+		}
+		.shortcuts
+		{
+			width:100%;
+			float:left;
+			list-style:none;
+			text-align:center;
+		}
+		.shortcuts li
+		{
+			width:90%;
+			text-align:center;
+			padding:10px;
+		}
+	.rightarea
+	{
+		width:86%;
+		float:left;
+		margin-left:5px;
+		min-height:200px;
+		background-color:#FFFs;
+	}
+	.clear
+	{
+		clear:both;
+	}
+.footer
+{
+	width:100%;
+	margin:0;
+	padding:0;
+	min-height:30px;
+	background:#333333;
+	float:left;
+}	
+	.statusmenu
+	{
+		color:#FFFFFF;
+		padding:6px;
+		float:left;
+		width:70%;
+	}
+	.statusmenu a
+	{
+		color:#FFFFFF;
+		padding:0 30px 0 30px;
+	}
+	.rights
+	{
+		width:25%;
+		float:right;
+		color:#FFFFFF;
+		text-align:right;
+		padding-top:8px;
+		padding-right:5px;
+	}
+	
+	
+.introduce
+{
+	width:40%;
+	min-width:400px;
+	margin:auto;
+	background:url(../images/box_bg.gif) left top repeat-x;
+	min-height:320px;
+	margin-top:55px;
+	-moz-border-radius:35px;
+	-webkit-border-radius:35px;
+	border:#FFFFFF solid 5px;
+}	
+	.logoplace
+	{
+		width:100%;
+		background:#FFFFFF;
+		min-height:120px;
+		-moz-border-radius:20px 20px 0 0;
+		-webkit-border-radius:20px 20px 0 0;
+		text-align:center;
+	}
+	.logoplace img
+	{
+		/*margin-top:40px;*/
+	}
+	h3
+	{
+		background:#5a8992;
+		min-height:13px;
+		text-transform:uppercase;
+		padding:10px;
+		color:#FFFFFF;
+	}
+	.text
+	{
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:13px;
+		line-height:25px;
+		padding:5px;
+		color:#FFFFFF;
+	}
+	
+	
+/*Login page Style Start here */	
+	
+.loginarea
+{
+	margin:auto;
+	width:500px;
+	background:#FFFFFF;
+	min-height:200px;
+}
+	.login_table
+	{
+		margin:auto;
+	}
+	.login_table td
+	{
+		padding:5px;
+		color:#2f5f68;
+	}
+	.login_table td input.input
+	{
+		background:url(../images/input.gif) left top no-repeat;
+		width:240px;
+		height:30px;
+		border:none;
+	}
+	.login_btn
+	{
+		background:url(../images/login_btn.gif) left top no-repeat;
+		padding:13px;
+		color:#FFFFFF;
+		border:none;
+		float:right;
+	}
+	.login_head
+	{
+		padding:10px;
+		border-bottom:#CCCCCC dotted 1px;
+		color:#336699;
+		font-weight:500;
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+/*-- Bottom Toolbar --*/
+
+div#toolbar, div#toolbarbut {
+  position: fixed; /* set fixed position for the bar */
+  bottom: 0px;
+  right: 0px;
+  z-index: 9999; /* keep the bar on top  */
+  height: 36px;
+  background: url(images/bcktool.png);
+  /* CSS3 */
+  -moz-border-radius-topleft: 8px;
+	-khtml-border-radius-topleft: 8px;
+	-webkit-border-top-left-radius: 8px;
+	-moz-border-radius-topright: 8px;
+	-khtml-border-radius-topright: 8px;
+	-webkit-border-top-right-radius: 8px;
+	-moz-box-shadow: 0px 1px 10px #666, inset 1px 1px 0px #a4a4a4; /* inset creates a inner-shadow */
+  -khtml-box-shadow: 0px 1px 10px #666;
+  -webkit-box-shadow: 0px 1px 10px #666;
+  /* CSS3 end */
+	border-top: 1px solid #eee;
+  border-left: 1px solid #eee; 
+  border-right: 1px solid #eee;  
+}
+
+div#toolbar {
+  width: 85%;
+  min-width: 700px; /* to limit the width when an excessive window resize */
+  margin: 0px auto; /* centered toolbar */
+  left: 0px;
+  background:#FFFFFF;
+}
+
+div#toolbarbut { /* div for the 'hide status' */
+  width: 60px;
+  height: 15px;
+  margin-right: 3%;
+  display: none;
+}
+
+span.showbar a { /* show button */
+  padding: 5px;  
+  font-size: 10px;
+  color: #989898;
+}
+
+.leftside {
+  float: left;
+}
+
+.rightside {
+  float: right;
+}
+
+/*-- Left Side --*/
+
+ul#social li {
+  display: inline;
+}
+
+a.rss {
+  display: inline-block;
+  width: 104px;
+  height: 35px;
+  margin-left: 5px;
+  background: url(../images/rss.png) no-repeat;
+}
+
+a#facebook, a.twitter, a.digg, a.delicious, a.stumble {
+  display: inline-block;
+  width: 40px;
+  height: 35px;        
+  margin-top: 1px;
+}
+
+a.rss:hover, a.facebook:hover, a.twitter:hover, a.digg:hover, a.delicious:hover, a.stumble:hover {
+  background-position: 1px 1px; /* simple css hover effect */
+}
+
+a#facebook {
+  background: url(../images/facebook.png) no-repeat;
+}
+
+a.twitter {
+  background: url(../images/twitter.png) no-repeat;
+}
+
+a.delicious {
+  background: url(../images/delicious.png) no-repeat;
+}
+
+a.digg {
+  background: url(../images/digg.png) no-repeat;
+}
+
+a.stumble {
+  background: url(../images/stumble.png) no-repeat;
+}
+
+.tip {
+  position: absolute; /* important */
+  top: -75px;
+  width: 250px;
+  height: 78px;
+  background: url(../images/tip.png) no-repeat;
+  float: left;
+  display: none;
+}
+
+/* custom distances for the icons */
+#tipfacebook {
+  left: 105px; 
+}
+
+#tiptwitter {
+  left: 140px; 
+}
+
+#tipdelicious {
+  left: 185px; 
+}
+
+#tipdigg {
+  left: 230px; 
+}
+
+#tipstumble {
+  left: 255px; 
+}
+
+.tip ul {
+  padding: 16px 0 0 15px;
+}
+
+.tip ul li {
+  display: inline;
+  padding-left: 3px;
+}
+
+.tip ul li a {
+  font-size: 14px;
+  color: #03849A;
+  font-weight:bold;
+  text-decoration:none;
+}       
+
+.tip ul li a:hover {
+  color: #666;
+}
+
+.tip ul li small {
+  font-size: 10px;
+}
+
+/*-- Right Side --*/
+
+span.downarr { /* hide button */ 
+  float: right;
+  border-left: 1px solid #a4a4a4;
+}
+
+span.downarr a {
+  display: block;
+  width: 36px;
+  height: 26px;
+  padding: 25px 0 0 10px;
+  background: url(../images/downarrow.png) no-repeat 5px 7px;
+}
+
+span.menu_title {
+background-color:#FFFFFF;
+  border-left: 1px solid #a4a4a4;
+  padding: 10px;
+}
+
+span.menu_title a {
+  font-size: 12px;
+  line-height: 36px;
+  color: #333333;
+  text-decoration:none;
+  padding:10px;
+}
+
+.quickmenu {
+  position: absolute; /* important */
+  top: -251px;
+  right: 46px;
+  width: 260px;
+  height: 250px;
+  background: #e4e4e4;
+	border-top: 1px solid #a4a4a4;
+  border-left: 1px solid #a4a4a4; 
+  border-right: 1px solid #a4a4a4;
+  /* CSS3 */
+  -moz-box-shadow: 2px -3px 5px #c5c5c5, -3px 0px 5px #cdcdcd;
+  -khtml-shadow: 2px -3px 5px #c5c5c5, -3px 0px 5px #cdcdcd;
+  -webkit-box-shadow: 2px -3px 5px #c5c5c5, -3px 0px 5px #cdcdcd;
+  /* CSS3 end */
+  display: none; /* important */
+}
+
+.quickmenu ul {
+  padding-top: 20px;
+}
+
+.quickmenu ul li {
+  border-bottom: 1px solid #989898;    
+  padding: 5px 10px;
+  margin: 0 15px 0 15px;
+}
+
+.quickmenu ul li a {
+  font-size: 18px;
+  color: #989898;
+  display: block;
+}
+
+.quickmenu ul li a:hover {
+  color: #666;
+}	
+	
+.version_top{display: block;
+    float: right;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: right;
+    width: 90%;
+	color:#F00;
+}

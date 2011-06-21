@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <name>KML Example file</name>
+  <description>Simple markers</description>
+  <Style id="examplePolyStyle">
+    <PolyStyle>
+      <color>aaff00cc</color>
+      <colorMode>normal</colorMode>
+      <fill>1</fill>                     
+      <outline>1</outline>  
+    </PolyStyle>
+  </Style>
+
+   <Placemark>
+    <styleUrl>#examplePolyStyle</styleUrl>
+    <name>hollow box</name>
+    <description>I'm from kml</description>
+    <Polygon>
+	  <coordinates>
+		-122.086565,37.423425,30 
+		-121.586565,37.423425,30 
+		-121.586565,37.023425,30 
+		-122.086565,37.023425,30 
+		-122.086565,37.423425,30 
+	  </coordinates>
+    </Polygon>
+  </Placemark>  
+  
+  
+  <Placemark>
+    <styleUrl>#examplePolyStyle</styleUrl>
+    <name>My box</name>
+    <description>I'm from Code</description>
+    <Polygon>
+	  <coordinates>
+		-121.55136108398438,37.355967684576406,30 
+		-121.43600463867188,37.13514018576747,30 
+		-121.12838745117188,37.318844002395444,30 
+		-121.55136108398438,37.355967684576406,30 
+	  </coordinates>
+    </Polygon>
+  </Placemark>
+  
+
+</Document>
+</kml>

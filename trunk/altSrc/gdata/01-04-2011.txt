@@ -1,0 +1,10 @@
+00:00:07 - GA 06 T 1707 has entered zone baina at 01 Apr 2011 00:00:07 Mobile  - ,http://www.myvaluefirst.com/smpp/sendsms,Ambica,ShastraAmbica123,ABS Trac,1
+06:16:57 - Eicher has entered zone pirol at 01 Apr 2011 06:16:57 Mobile 9822125392, - 9822125392,,http://www.myvaluefirst.com/smpp/sendsms,Ambica,ShastraAmbica123,ABS Trac,1
+06:22:34 - Eicher has entered zone pirol at 01 Apr 2011 06:22:34 Mobile 9822125392, - 9822125392,,http://www.myvaluefirst.com/smpp/sendsms,Ambica,ShastraAmbica123,ABS Trac,1
+07:12:35 -  Eicher  GAO4 5666 has entered zone home at 01 Apr 2011 07:12:35 Email absgoa@gmail.com, - absgoa@gmail.com,,Ambica Buisness Solutions,mail.shastrasoftech.com,manivannan.k@shastrasoftech.com,ssmanivannank,manivannan.k@shastrasoftech.com,0
+09:13:14 - Ace delivery vans 1 has left zone home at 01 Apr 2011 09:13:14 Email absgoa@gmail.com, - absgoa@gmail.com,,Ambica Buisness Solutions,mail.shastrasoftech.com,manivannan.k@shastrasoftech.com,ssmanivannank,manivannan.k@shastrasoftech.com,0
+09:13:47 - Ace delivery vans 2 has left zone home at 01 Apr 2011 09:13:47 Email absgoa@gmail.com, - absgoa@gmail.com,,Ambica Buisness Solutions,mail.shastrasoftech.com,manivannan.k@shastrasoftech.com,ssmanivannank,manivannan.k@shastrasoftech.com,0
+09:45:50 - Ace delivery vans 1 has entered zone colva beach at 01 Apr 2011 09:45:50 Email absgoa@gmail.com, - absgoa@gmail.com,,Ambica Buisness Solutions,mail.shastrasoftech.com,manivannan.k@shastrasoftech.com,ssmanivannank,manivannan.k@shastrasoftech.com,0
+10:11:12 - GA 06 T 1707 has entered zone tisk at 01 Apr 2011 10:11:12 Mobile  - ,http://www.myvaluefirst.com/smpp/sendsms,Ambica,ShastraAmbica123,ABS Trac,1
+13:41:42 - Tata 207 has entered zone baina at 01 Apr 2011 13:41:42 Mobile  - ,http://www.myvaluefirst.com/smpp/sendsms,Ambica,ShastraAmbica123,ABS Trac,1
+19:15:33 - GA 06 T 1707 has entered zone baina at 01 Apr 2011 19:15:33 Mobile  - ,http://www.myvaluefirst.com/smpp/sendsms,Ambica,ShastraAmbica123,ABS Trac,1

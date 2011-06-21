@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "<A href=’http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"‘ jQuery1246946979000="3">http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"</A>>
+<html xmlns="<A href=’http://www.w3.org/1999/xhtml"’ jQuery1246946979000="4">http://www.w3.org/1999/xhtml"</A>>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<title>Sistem Pemantau GPS Tracking</title>
+<script src="http://maps.google.com/maps?file=api&amp;amp;v=2&amp;amp;
+key=ABQIAAAAEcRU5S4wllAASrNAt60gdRSavmhanSNe5Ln__CcAfNSvKrVNQBSuHvAXNB1-T9M9kZ4MwDUPMS_dPQ" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var map = null;
+var timeOut=null;
+var markers=[];
+var htmls=[];
+
+function load() {
+if (GBrowserIsCompatible())
+{
+ map = new GMap2(document.getElementById("map"));
+ map.setCenter(new GLatLng(-6.8790, 107.63520), 12);
+map.enableScrollWheelZoom();
+ map.addControl(new GSmallMapControl());
+map.addControl(new GMapTypeControl());
+ refreshMarkers();
+     }
+}
+
+function refreshMarkers(){
+clearTimeout(timeOut);
+GDownloadUrl("data.xml", function(data, responseCode) {
+var fetch=0;
+ window.status= responseCode + ':' + fetch++;
+ if(responseCode != 200)
+{
+return;
+ }
+ for (var i=0; i<markers.length; i++)
+ {
+map.removeOverlay(markers[i]);
+}
+var xml = GXml.parse(data);
+ var xmarkers = xml.documentElement.getElementsByTagName("marker");
+for (var i = 0; i < xmarkers.length; i++)
+{
+var label = xmarkers[i].getAttribute("label");
+var point = new GLatLng(
+parseFloat(xmarkers[i].getAttribute("lat")),
+parseFloat(xmarkers[i].getAttribute("lon")));
+ map.addOverlay(createMarker(point, i, label) );
+}
+ });
+timeOut=setTimeout("refreshMarkers()",5000);
+}
+
+function createMarker(point, index, label) {
+var icon = new GIcon();
+var marker = new GMarker(point );
+var html= "<pre>"+label+"</pre>";
+ GEvent.addListener(marker, "click", function() {
+marker.openInfoWindowHtml(html);
+});
+markers[index]=marker;
+ htmls[index]=html;
+return marker;
+}
+
+function myclick(i) {
+markers[i].openInfoWindowHtml(htmls[i]);
+}
+
+function zoomTo(index, unit_id){
+if(unit_id=="") {
+alert('Please select Unit ID');
+return ;
+}
+ var temp = new Array();
+temp = unit_id.split('|');
+var p=new GLatLng(parseFloat(temp[1]), parseFloat(temp[2]));
+map.setCenter(p,13);
+myclick(index);
+}
+//]]>
+</script>
+</head>
+<body onload="load()" onunload="GUnload()">
+<div id="map" style="width: 400px; height: 400px">Loading</div>
+<div id="controller" style="position:absolute; left:400px; top:10px">
+<form>
+<select name="unit_id" multiple>
+<?php
+mysql_connect("localhost","root","");
+mysql_select_db("trackerdb");
+ $sql="select concat(unit_id,’|',lat,’|',lon),unit_id from lastpos order by id asc";
+$rs = mysql_query($sql) or die(mysql_error());
+while ($row=mysql_fetch_row($rs))
+{
+echo "<option value =’" . $row[0] . "’>" . $row[1];
+}
+?>
+ </select>
+<p>
+<input type="button" value="Zoom To" onClick="zoomTo(this.form.unit_id.selectedIndex ,this.form.unit_id.value)">
+</form>
+</div>
+</body>
+</html>

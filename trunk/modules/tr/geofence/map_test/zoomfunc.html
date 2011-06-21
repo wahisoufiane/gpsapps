@@ -1,0 +1,258 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<title>Google Maps</title>
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAA-O3c-Om9OcvXMOJXreXHAxQGj0PqsCtxKvarsoS-iqLdqZSKfxS27kJqGZajBjvuzOBLizi931BUow"
+type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="mapStyle2.css" />
+<script src="utilities.js"></script>
+<script src="/utility.js"></script>
+
+<script src="customOverlays.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+
+// --------------------------------------------------------------
+// Icon for the red square displayed with the mouse wheel zoom
+var baseIcon = new GIcon();
+baseIcon.iconSize=new GSize(100,100);
+baseIcon.iconAnchor=new GPoint(50,50);
+var rectIcon = new GIcon(baseIcon, "/images/rect.png", null);
+
+// Global variables used with the mouse wheel zoom
+var mouseLatLng;
+var zoomRect;
+// --------------------------------------------------------------
+
+
+
+
+var map;
+var container;
+var opacity = 0.4;
+
+
+var NormalLayer = G_NORMAL_MAP.getTileLayers()[0]
+var SatelliteLayer = G_SATELLITE_MAP.getTileLayers()[0]
+var satProj = G_SATELLITE_MAP.getProjection();	
+var normalProj = G_NORMAL_MAP.getProjection();	
+
+
+var cRight = new GCopyrightCollection('Marcelo');
+var copyright = new GCopyright(1, new GLatLngBounds(new GLatLng(-90, -180), new GLatLng(90, 180)), 0, "Marcelo©2006");
+cRight.addCopyright(copyright);
+
+
+// Defaults --------------------------------------------
+var zoom = 6;
+var centerPoint = new GLatLng(36.985003,-113.027344);
+var wheelZooming = false;
+
+
+function load() {
+	doLoad();
+	container = document.getElementById("mapDiv");
+}
+
+
+function doLoad() {
+	if (GBrowserIsCompatible()) {
+		container = document.getElementById("mapDiv");
+		resizeMap();
+		map = new GMap2(container, {draggableCursor:"crosshair"});
+
+		container.firstChild.nextSibling.firstChild.nextSibling.target = '_blank';		
+		
+		map.setCenter(centerPoint, zoom);
+		map.setCenter(centerPoint, zoom);
+
+		map.addControl(new GScaleControl());
+		map.addControl(new GLargeMapControl());
+		map.addControl(new GMapTypeControl());
+
+		GEvent.addListener(map, 'mousemove', mouseMove);
+		GEvent.addListener(map, "moveend", moveEnd);
+		GEvent.addListener(map, "zoomend", zoomEnd);
+
+		var ovcontrol = new GOverviewMapControl(new GSize(165,165));
+		map.addControl(ovcontrol);
+		var ov_map = ovcontrol.getOverviewMap();
+		GEvent.addListener(map, 'maptypechanged', function(){
+			ov_map.setMapType(G_NORMAL_MAP);
+		});
+
+		updateStatusBar();
+
+// Mouse wheel zoom - Attach event handlers -----
+		map.enableDoubleClickZoom(); 
+		map.enableContinuousZoom();
+		GEvent.addDomListener(container, "DOMMouseScroll", wheelZoom);
+		GEvent.addDomListener(container, "mousewheel", wheelZoom); 
+// ----------------------------------------------
+	
+	
+	
+	}
+}
+
+
+
+// Mouse wheel zoom - Event handler -----
+function wheelZoom(event) {
+	if (wheelZooming) {
+		return;
+	}
+
+	wheelZooming = true;
+
+	// zoomRect and rectIcon are global variables!!!
+
+	zoomRect = new GMarker(mouseLatLng,{icon:rectIcon});
+	map.addOverlay(zoomRect);
+
+	if (event.cancelable) {
+		event.preventDefault();
+	}
+	map.closeInfoWindow(); 
+	if((event.detail || -event.wheelDelta) < 0) {
+		window.setTimeout(function(){
+			map.removeOverlay(zoomRect);
+			map.zoomIn(mouseLatLng,true,true);
+			wheelZooming = false;
+		},200);
+	} 
+	else {
+		window.setTimeout(function(){
+			map.removeOverlay(zoomRect);
+			map.zoomOut(mouseLatLng,true);
+			wheelZooming = false;
+		},200);
+	}
+	return false; 
+}
+// End event handler -----
+
+
+
+// Nothing related to mouse wheel zoom below this line ---------------------------
+
+
+function moveEnd() {
+	updateStatusBar();
+}
+
+function zoomEnd(oldZ,zoom) {
+	updateStatusBar();
+}
+
+
+function updateStatusBar() {
+	var center = map.getCenter();
+	var zoom = map.getZoom();
+
+	var bounds = map.getBounds();
+	var SW = bounds.getSouthWest();
+	var NE = bounds.getNorthEast();
+
+	var oCoords = document.getElementById("coords");
+	oCoords.innerHTML = 'Map center: (' + center.y.toFixed(6) + ',' + center.x.toFixed(6) + ') - zoom: ' + zoom;
+	oCoords.innerHTML += '<br> ';
+	oCoords.innerHTML += 'SW: ' + SW.y.toFixed(6) + ', ' + SW.x.toFixed(6);
+	oCoords.innerHTML += '<br> ';
+	oCoords.innerHTML += 'NE: ' + NE.y.toFixed(6) + ', ' + NE.x.toFixed(6);
+
+}
+
+
+
+function resizeMap() {
+	container.style.width = document.body.clientWidth - 180 + 'px';
+	container.style.height = document.body.clientHeight - 100 + 'px';
+	if (map) {
+		map.checkResize();
+	}
+}
+
+function mouseMove(mousePt) {
+	mouseLatLng = mousePt;
+	var zoom = map.getZoom();
+	var oStatusDiv = document.getElementById("mouseTrack")	
+	var mousePx = normalProj.fromLatLngToPixel(mousePt, zoom);
+	oStatusDiv.innerHTML = 'Mouse LatLng: ' + mousePt.y.toFixed(6) + ', ' + mousePt.x.toFixed(6) ;
+	oStatusDiv.innerHTML += '<br> ';
+	oStatusDiv.innerHTML += 'Mouse Px: ' + mousePx.x + ', ' + mousePx.y;
+	oStatusDiv.innerHTML += '<br>';
+	oStatusDiv.innerHTML += 'Tile: ' + Math.floor(mousePx.x / 256) + ', ' + Math.floor(mousePx.y / 256);
+}
+
+
+//]]>
+</script>
+</head>
+
+
+
+
+
+<body>
+
+
+<table cellspacing="0" cellpadding="0">
+	<tr>
+
+		<td valign="top">
+			<div id="mapDiv"></div>
+		</td>
+		<td valign="top">
+			<div id="link"></div>
+			<div id="mtContainer"></div>
+			<div id="scale"></div>
+		</td>
+	</tr>
+
+	<tr>
+		<td valign="top">
+			<div class="statusBar">
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td valign="top" width="50%">
+						<div class="statusDiv" id="coords">Map center:</div>
+					</td>
+
+					<td valign="top" width="50%">
+						<div class="statusDiv" id="mouseTrack">Mouse:</div>
+					</td>
+				</tr>
+			</table>
+			</div>
+		</td>
+		<td valign="top">
+
+		</td>
+	</tr>
+</table>
+
+
+<img src="/images/rect.png" style="display:none">
+
+<script>
+	window.onload = load;
+	window.onunload = GUnload;
+	window.onresize = resizeMap;
+</script>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1221628-1";
+urchinTracker();
+</script>
+
+</body>
+</html>

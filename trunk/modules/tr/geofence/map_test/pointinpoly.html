@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <title>Google Maps</title>
+    
+    
+    <script src="http://www.google.com/maps?file=api&amp;v=2.87&amp;key=ABQIAAAAPDUET0Qt7p2VcSk6JNU1sBRRwPhutbWBmyj82Go_H6JlE7EvFBSKFFFHFePAwvib9UM0geoA3Pgafw" type="text/javascript"></script>
+  </head>
+  <body onunload="GUnload()">
+
+    Click on the map to call the GPolygon.contains() method.<p>
+
+    <div id="map" style=" width: 800px; height: 500px"></div>
+    <div id="message">&nbsp;</div>
+    <a href="inside.htm">Back to the tutorial page</a>
+    
+
+
+    <noscript><b>JavaScript must be enabled in order for you to use Google Maps.</b> 
+      However, it seems JavaScript is either disabled or not supported by your browser. 
+      To view Google Maps, enable JavaScript by changing your browser options, and then 
+      try again.
+    </noscript>
+ 
+
+    <script type="text/javascript">
+    //<![CDATA[
+    
+    if (GBrowserIsCompatible()) { 
+
+      // Display the map, with some controls and set the initial location 
+      var map = new GMap(document.getElementById("map"));
+      map.addControl(new GLargeMapControl());
+      map.addControl(new GMapTypeControl());
+      //map.setCenter(new GLatLng(44.0,-78.6),10);
+	  map.setCenter(new GLatLng(15.276088,73.9214272),15);
+
+      // create a polygon
+	  
+	  //var pts = [new GLatLng(15.261063370861896,73.98658990859985),new GLatLng( 15.259138169051106,73.98646116256714 ),new GLatLng( 15.258475729938514,73.98643970489502 ),new GLatLng( 15.25799960053584,73.98725509643555 ),new GLatLng( 15.25938658317967,73.98813486099243 ),new GLatLng( 15.260049019419329,73.98817777633667 ),new GLatLng( 15.261063370861896,73.98658990859985 )];
+	  
+	   var pts = [new GLatLng(15.280128125924852,73.90923500061035),new GLatLng(15.281701253096392,73.92159461975098),new GLatLng(15.275822664907764,73.92339706420898),new GLatLng(15.270109512913782,73.91335487365723),new GLatLng(15.280128125924852,73.90923500061035)];
+	  
+      //var pts = [new GLatLng(44.2,-78.8), new GLatLng(44.0,-78.8), new GLatLng(44.1,-78.5), new GLatLng(43.9,-78.6), new GLatLng(44.2,-78.8)];
+	  //var pts = [new GLatLng(15.286172181674385,73.9568281173706),new GLatLng( 15.284112668547763,73.95776152610779),new GLatLng( 15.28484747203501,73.95962834358215 ),new GLatLng(15.286865581038715,73.95897388458252 ),new GLatLng( 15.286275674262434,73.95880222320557 ),new GLatLng( 15.286834533355028,73.95833015441895 ),new GLatLng(15.286565453237166,73.9582872390747 ),new GLatLng( 15.286172181674385,73.9568281173706 )];
+	  
+	 // var pts = [new GLatLng(15.49520530604965, 73.83739471435547),new GLatLng(15.490056483140933, 73.84385347366333),new GLatLng(15.492496503559348, 73.84642839431763),new GLatLng(15.496962906994339, 73.83853197097778),new GLatLng(15.49520530604965, 73.83739471435547)]
+	  alert(pts);
+      var polygon = new GPolygon(pts, null, 5, 0.7, "#aaaaff", 0.5 );
+      map.addOverlay(polygon);
+
+
+
+      // === A method for testing if a point is inside a polygon
+      // === Returns true if poly contains point
+      // === Algorithm shamelessly stolen from http://alienryderflex.com/polygon/ 
+      GPolygon.prototype.Contains = function(point) {
+        var j=0;
+        var oddNodes = false;
+        var x = point.lng();
+        var y = point.lat();
+        for (var i=0; i < this.getVertexCount(); i++) {
+          j++;
+          if (j == this.getVertexCount()) {j = 0;}
+          if (((this.getVertex(i).lat() < y) && (this.getVertex(j).lat() >= y))
+          || ((this.getVertex(j).lat() < y) && (this.getVertex(i).lat() >= y))) {
+            if ( this.getVertex(i).lng() + (y - this.getVertex(i).lat())
+            /  (this.getVertex(j).lat()-this.getVertex(i).lat())
+            *  (this.getVertex(j).lng() - this.getVertex(i).lng())<x ) {
+              oddNodes = !oddNodes
+            }
+          }
+        }
+        return oddNodes;
+      }
+
+      // === A method for testing if a point is inside a polyline
+      // === Add the GPolygon method to GPolyline
+      GPolyline.prototype.Contains = GPolygon.prototype.Contains;
+
+
+
+      // === Sample code === observes thether the mouse is inside or outside the polygon
+
+      GEvent.addListener(map, "mousemove", function (p) {
+		  
+        if (polygon.Contains(p)) {
+          document.getElementById("message").innerHTML = "The mouse is INSIDE the polygon."
+        } else {
+          document.getElementById("message").innerHTML = "The mouse is outside the polygon."
+        }
+      });
+
+      GEvent.addListener(map, "click", function(overlay,point) {
+        if (!overlay) {
+		 var point= new GLatLng(15.276088,73.9214272)
+          if (polygon.Contains(point)) { var side = "INSIDE" }
+          else {var side = "outside" }
+          map.openInfoWindowHtml(point, "You clicked "+side+" the polygon");
+       }
+     });
+
+
+    }
+
+    
+    // display a warning if the browser was not compatible
+    else {
+      alert("Sorry, the Google Maps API is not compatible with this browser");
+    }
+
+    // This Javascript is based on code provided by the
+    // Blackpool Community Church Javascript Team
+    // http://www.commchurch.freeserve.co.uk/   
+    // http://econym.googlepages.com/index.htm
+
+    //]]>
+    </script>
+  </body>
+
+</html>
+

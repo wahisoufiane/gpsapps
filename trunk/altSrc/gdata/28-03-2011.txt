@@ -1,0 +1,2369 @@
+00:00:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:00:09 Mobile 
+00:02:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:02:09 Mobile 
+00:02:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:02:09 Mobile 
+00:03:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:03:09 Mobile 
+00:04:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:04:09 Mobile 
+00:06:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:06:09 Mobile 
+00:06:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:06:09 Mobile 
+00:07:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:07:09 Mobile 
+00:08:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:08:10 Mobile 
+00:08:51 - Tata 207 has entered zone baina at 28 Mar 2011 00:08:51 Mobile 
+00:08:51 - Tata 207 has entered zone baina at 28 Mar 2011 00:08:51 Mobile 
+00:08:51 - Tata 207 has entered zone baina at 28 Mar 2011 00:08:51 Mobile 
+00:08:51 - Tata 207 has entered zone baina at 28 Mar 2011 00:08:51 Mobile 
+00:08:51 - Tata 207 has entered zone baina at 28 Mar 2011 00:08:51 Mobile 
+00:08:51 - Tata 207 has entered zone baina at 28 Mar 2011 00:08:51 Mobile 
+00:08:51 - Tata 207 has entered zone baina at 28 Mar 2011 00:08:51 Mobile 
+00:08:51 - Tata 207 has entered zone baina at 28 Mar 2011 00:08:51 Mobile 
+00:08:51 - Tata 207 has entered zone baina at 28 Mar 2011 00:08:51 Mobile 
+00:10:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:10:10 Mobile 
+00:10:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:10:10 Mobile 
+00:11:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:11:10 Mobile 
+00:12:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:12:10 Mobile 
+00:14:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:14:10 Mobile 
+00:14:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:14:10 Mobile 
+00:15:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:15:10 Mobile 
+00:16:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:16:11 Mobile 
+00:18:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:18:11 Mobile 
+00:18:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:18:11 Mobile 
+00:18:52 - Tata 207 has entered zone baina at 28 Mar 2011 00:18:52 Mobile 
+00:18:52 - Tata 207 has entered zone baina at 28 Mar 2011 00:18:52 Mobile 
+00:18:52 - Tata 207 has entered zone baina at 28 Mar 2011 00:18:52 Mobile 
+00:18:52 - Tata 207 has entered zone baina at 28 Mar 2011 00:18:52 Mobile 
+00:18:52 - Tata 207 has entered zone baina at 28 Mar 2011 00:18:52 Mobile 
+00:18:52 - Tata 207 has entered zone baina at 28 Mar 2011 00:18:52 Mobile 
+00:18:52 - Tata 207 has entered zone baina at 28 Mar 2011 00:18:52 Mobile 
+00:18:52 - Tata 207 has entered zone baina at 28 Mar 2011 00:18:52 Mobile 
+00:18:52 - Tata 207 has entered zone baina at 28 Mar 2011 00:18:52 Mobile 
+00:18:52 - Tata 207 has entered zone baina at 28 Mar 2011 00:18:52 Mobile 
+00:19:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:19:11 Mobile 
+00:20:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:20:11 Mobile 
+00:21:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:21:11 Mobile 
+00:22:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:22:11 Mobile 
+00:23:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:23:11 Mobile 
+00:24:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:24:11 Mobile 
+00:26:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:26:12 Mobile 
+00:26:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:26:12 Mobile 
+00:27:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:27:12 Mobile 
+00:28:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:28:12 Mobile 
+00:28:54 - Tata 207 has entered zone baina at 28 Mar 2011 00:28:54 Mobile 
+00:28:54 - Tata 207 has entered zone baina at 28 Mar 2011 00:28:54 Mobile 
+00:28:54 - Tata 207 has entered zone baina at 28 Mar 2011 00:28:54 Mobile 
+00:28:54 - Tata 207 has entered zone baina at 28 Mar 2011 00:28:54 Mobile 
+00:28:54 - Tata 207 has entered zone baina at 28 Mar 2011 00:28:54 Mobile 
+00:28:54 - Tata 207 has entered zone baina at 28 Mar 2011 00:28:54 Mobile 
+00:28:54 - Tata 207 has entered zone baina at 28 Mar 2011 00:28:54 Mobile 
+00:28:54 - Tata 207 has entered zone baina at 28 Mar 2011 00:28:54 Mobile 
+00:28:54 - Tata 207 has entered zone baina at 28 Mar 2011 00:28:54 Mobile 
+00:28:54 - Tata 207 has entered zone baina at 28 Mar 2011 00:28:54 Mobile 
+00:30:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:30:12 Mobile 
+00:30:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:30:12 Mobile 
+00:31:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:31:12 Mobile 
+00:32:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:32:12 Mobile 
+00:34:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:34:13 Mobile 
+00:34:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:34:13 Mobile 
+00:35:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:35:13 Mobile 
+00:36:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:36:13 Mobile 
+00:38:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:38:13 Mobile 
+00:38:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:38:13 Mobile 
+00:38:55 - Tata 207 has entered zone baina at 28 Mar 2011 00:38:55 Mobile 
+00:38:55 - Tata 207 has entered zone baina at 28 Mar 2011 00:38:55 Mobile 
+00:38:55 - Tata 207 has entered zone baina at 28 Mar 2011 00:38:55 Mobile 
+00:38:55 - Tata 207 has entered zone baina at 28 Mar 2011 00:38:55 Mobile 
+00:38:55 - Tata 207 has entered zone baina at 28 Mar 2011 00:38:55 Mobile 
+00:38:55 - Tata 207 has entered zone baina at 28 Mar 2011 00:38:55 Mobile 
+00:38:55 - Tata 207 has entered zone baina at 28 Mar 2011 00:38:55 Mobile 
+00:38:55 - Tata 207 has entered zone baina at 28 Mar 2011 00:38:55 Mobile 
+00:38:55 - Tata 207 has entered zone baina at 28 Mar 2011 00:38:55 Mobile 
+00:38:55 - Tata 207 has entered zone baina at 28 Mar 2011 00:38:55 Mobile 
+00:39:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:39:13 Mobile 
+00:40:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:40:14 Mobile 
+00:42:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:42:14 Mobile 
+00:42:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:42:14 Mobile 
+00:43:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:43:14 Mobile 
+00:44:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:44:14 Mobile 
+00:46:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:46:14 Mobile 
+00:46:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:46:14 Mobile 
+00:47:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:47:14 Mobile 
+00:48:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:48:14 Mobile 
+00:48:56 - Tata 207 has entered zone baina at 28 Mar 2011 00:48:56 Mobile 
+00:48:56 - Tata 207 has entered zone baina at 28 Mar 2011 00:48:56 Mobile 
+00:48:56 - Tata 207 has entered zone baina at 28 Mar 2011 00:48:56 Mobile 
+00:48:56 - Tata 207 has entered zone baina at 28 Mar 2011 00:48:56 Mobile 
+00:48:56 - Tata 207 has entered zone baina at 28 Mar 2011 00:48:56 Mobile 
+00:48:56 - Tata 207 has entered zone baina at 28 Mar 2011 00:48:56 Mobile 
+00:48:56 - Tata 207 has entered zone baina at 28 Mar 2011 00:48:56 Mobile 
+00:48:56 - Tata 207 has entered zone baina at 28 Mar 2011 00:48:56 Mobile 
+00:48:56 - Tata 207 has entered zone baina at 28 Mar 2011 00:48:56 Mobile 
+00:48:56 - Tata 207 has entered zone baina at 28 Mar 2011 00:48:56 Mobile 
+00:50:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:50:15 Mobile 
+00:50:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:50:15 Mobile 
+00:51:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:51:15 Mobile 
+00:52:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:52:15 Mobile 
+00:54:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:54:15 Mobile 
+00:54:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:54:15 Mobile 
+00:55:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:55:15 Mobile 
+00:56:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:56:15 Mobile 
+00:57:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:57:15 Mobile 
+00:58:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:58:16 Mobile 
+00:59:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 00:59:16 Mobile 
+00:58:57 - Tata 207 has entered zone baina at 28 Mar 2011 00:58:57 Mobile 
+00:58:57 - Tata 207 has entered zone baina at 28 Mar 2011 00:58:57 Mobile 
+00:58:57 - Tata 207 has entered zone baina at 28 Mar 2011 00:58:57 Mobile 
+00:58:57 - Tata 207 has entered zone baina at 28 Mar 2011 00:58:57 Mobile 
+00:58:57 - Tata 207 has entered zone baina at 28 Mar 2011 00:58:57 Mobile 
+00:58:57 - Tata 207 has entered zone baina at 28 Mar 2011 00:58:57 Mobile 
+00:58:57 - Tata 207 has entered zone baina at 28 Mar 2011 00:58:57 Mobile 
+00:58:57 - Tata 207 has entered zone baina at 28 Mar 2011 00:58:57 Mobile 
+00:58:57 - Tata 207 has entered zone baina at 28 Mar 2011 00:58:57 Mobile 
+00:58:57 - Tata 207 has entered zone baina at 28 Mar 2011 00:58:57 Mobile 
+01:00:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:00:16 Mobile 
+01:02:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:02:16 Mobile 
+01:02:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:02:16 Mobile 
+01:03:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:03:16 Mobile 
+01:04:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:04:16 Mobile 
+01:06:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:06:17 Mobile 
+01:06:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:06:17 Mobile 
+01:07:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:07:17 Mobile 
+01:08:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:08:17 Mobile 
+01:08:59 - Tata 207 has entered zone baina at 28 Mar 2011 01:08:59 Mobile 
+01:08:59 - Tata 207 has entered zone baina at 28 Mar 2011 01:08:59 Mobile 
+01:08:59 - Tata 207 has entered zone baina at 28 Mar 2011 01:08:59 Mobile 
+01:08:59 - Tata 207 has entered zone baina at 28 Mar 2011 01:08:59 Mobile 
+01:08:59 - Tata 207 has entered zone baina at 28 Mar 2011 01:08:59 Mobile 
+01:08:59 - Tata 207 has entered zone baina at 28 Mar 2011 01:08:59 Mobile 
+01:08:59 - Tata 207 has entered zone baina at 28 Mar 2011 01:08:59 Mobile 
+01:08:59 - Tata 207 has entered zone baina at 28 Mar 2011 01:08:59 Mobile 
+01:08:59 - Tata 207 has entered zone baina at 28 Mar 2011 01:08:59 Mobile 
+01:08:59 - Tata 207 has entered zone baina at 28 Mar 2011 01:08:59 Mobile 
+01:10:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:10:17 Mobile 
+01:10:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:10:17 Mobile 
+01:11:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:11:17 Mobile 
+01:12:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:12:17 Mobile 
+01:14:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:14:18 Mobile 
+01:14:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:14:18 Mobile 
+01:15:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:15:18 Mobile 
+01:16:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:16:18 Mobile 
+01:18:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:18:18 Mobile 
+01:18:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:18:18 Mobile 
+01:19:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:19:18 Mobile 
+01:20:00 - Tata 207 has entered zone baina at 28 Mar 2011 01:20:00 Mobile 
+01:20:00 - Tata 207 has entered zone baina at 28 Mar 2011 01:20:00 Mobile 
+01:20:00 - Tata 207 has entered zone baina at 28 Mar 2011 01:20:00 Mobile 
+01:20:00 - Tata 207 has entered zone baina at 28 Mar 2011 01:20:00 Mobile 
+01:20:00 - Tata 207 has entered zone baina at 28 Mar 2011 01:20:00 Mobile 
+01:20:00 - Tata 207 has entered zone baina at 28 Mar 2011 01:20:00 Mobile 
+01:20:00 - Tata 207 has entered zone baina at 28 Mar 2011 01:20:00 Mobile 
+01:20:00 - Tata 207 has entered zone baina at 28 Mar 2011 01:20:00 Mobile 
+01:20:00 - Tata 207 has entered zone baina at 28 Mar 2011 01:20:00 Mobile 
+01:20:00 - Tata 207 has entered zone baina at 28 Mar 2011 01:20:00 Mobile 
+01:20:00 - Tata 207 has entered zone baina at 28 Mar 2011 01:20:00 Mobile 
+01:20:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:20:18 Mobile 
+01:22:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:22:19 Mobile 
+01:22:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:22:19 Mobile 
+01:23:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:23:19 Mobile 
+01:24:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:24:19 Mobile 
+01:25:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:25:19 Mobile 
+01:26:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:26:19 Mobile 
+01:27:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:27:19 Mobile 
+01:28:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:28:19 Mobile 
+01:30:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:30:20 Mobile 
+01:30:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:30:20 Mobile 
+01:30:01 - Tata 207 has entered zone baina at 28 Mar 2011 01:30:01 Mobile 
+01:30:01 - Tata 207 has entered zone baina at 28 Mar 2011 01:30:01 Mobile 
+01:30:01 - Tata 207 has entered zone baina at 28 Mar 2011 01:30:01 Mobile 
+01:30:01 - Tata 207 has entered zone baina at 28 Mar 2011 01:30:01 Mobile 
+01:30:01 - Tata 207 has entered zone baina at 28 Mar 2011 01:30:01 Mobile 
+01:30:01 - Tata 207 has entered zone baina at 28 Mar 2011 01:30:01 Mobile 
+01:30:01 - Tata 207 has entered zone baina at 28 Mar 2011 01:30:01 Mobile 
+01:30:01 - Tata 207 has entered zone baina at 28 Mar 2011 01:30:01 Mobile 
+01:30:01 - Tata 207 has entered zone baina at 28 Mar 2011 01:30:01 Mobile 
+01:30:01 - Tata 207 has entered zone baina at 28 Mar 2011 01:30:01 Mobile 
+01:31:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:31:20 Mobile 
+01:32:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:32:20 Mobile 
+01:34:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:34:20 Mobile 
+01:34:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:34:20 Mobile 
+01:35:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:35:20 Mobile 
+01:36:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:36:20 Mobile 
+01:38:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:38:21 Mobile 
+01:38:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:38:21 Mobile 
+01:39:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:39:21 Mobile 
+01:40:03 - Tata 207 has entered zone baina at 28 Mar 2011 01:40:03 Mobile 
+01:40:03 - Tata 207 has entered zone baina at 28 Mar 2011 01:40:03 Mobile 
+01:40:03 - Tata 207 has entered zone baina at 28 Mar 2011 01:40:03 Mobile 
+01:40:03 - Tata 207 has entered zone baina at 28 Mar 2011 01:40:03 Mobile 
+01:40:03 - Tata 207 has entered zone baina at 28 Mar 2011 01:40:03 Mobile 
+01:40:03 - Tata 207 has entered zone baina at 28 Mar 2011 01:40:03 Mobile 
+01:40:03 - Tata 207 has entered zone baina at 28 Mar 2011 01:40:03 Mobile 
+01:40:03 - Tata 207 has entered zone baina at 28 Mar 2011 01:40:03 Mobile 
+01:40:03 - Tata 207 has entered zone baina at 28 Mar 2011 01:40:03 Mobile 
+01:40:03 - Tata 207 has entered zone baina at 28 Mar 2011 01:40:03 Mobile 
+01:40:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:40:21 Mobile 
+01:42:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:42:21 Mobile 
+01:42:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:42:21 Mobile 
+01:43:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:43:21 Mobile 
+01:44:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:44:21 Mobile 
+01:46:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:46:22 Mobile 
+01:46:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:46:22 Mobile 
+01:47:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:47:22 Mobile 
+01:48:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:48:22 Mobile 
+01:50:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:50:22 Mobile 
+01:50:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:50:22 Mobile 
+01:50:04 - Tata 207 has entered zone baina at 28 Mar 2011 01:50:04 Mobile 
+01:50:04 - Tata 207 has entered zone baina at 28 Mar 2011 01:50:04 Mobile 
+01:50:04 - Tata 207 has entered zone baina at 28 Mar 2011 01:50:04 Mobile 
+01:50:04 - Tata 207 has entered zone baina at 28 Mar 2011 01:50:04 Mobile 
+01:50:04 - Tata 207 has entered zone baina at 28 Mar 2011 01:50:04 Mobile 
+01:50:04 - Tata 207 has entered zone baina at 28 Mar 2011 01:50:04 Mobile 
+01:50:04 - Tata 207 has entered zone baina at 28 Mar 2011 01:50:04 Mobile 
+01:50:04 - Tata 207 has entered zone baina at 28 Mar 2011 01:50:04 Mobile 
+01:50:04 - Tata 207 has entered zone baina at 28 Mar 2011 01:50:04 Mobile 
+01:50:04 - Tata 207 has entered zone baina at 28 Mar 2011 01:50:04 Mobile 
+01:51:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:51:22 Mobile 
+01:52:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:52:22 Mobile 
+01:53:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:53:22 Mobile 
+01:54:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:54:23 Mobile 
+01:55:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:55:23 Mobile 
+01:56:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:56:23 Mobile 
+01:58:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:58:23 Mobile 
+01:58:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:58:23 Mobile 
+01:59:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 01:59:23 Mobile 
+02:00:05 - Tata 207 has entered zone baina at 28 Mar 2011 02:00:05 Mobile 
+02:00:05 - Tata 207 has entered zone baina at 28 Mar 2011 02:00:05 Mobile 
+02:00:05 - Tata 207 has entered zone baina at 28 Mar 2011 02:00:05 Mobile 
+02:00:05 - Tata 207 has entered zone baina at 28 Mar 2011 02:00:05 Mobile 
+02:00:05 - Tata 207 has entered zone baina at 28 Mar 2011 02:00:05 Mobile 
+02:00:05 - Tata 207 has entered zone baina at 28 Mar 2011 02:00:05 Mobile 
+02:00:05 - Tata 207 has entered zone baina at 28 Mar 2011 02:00:05 Mobile 
+02:00:05 - Tata 207 has entered zone baina at 28 Mar 2011 02:00:05 Mobile 
+02:00:05 - Tata 207 has entered zone baina at 28 Mar 2011 02:00:05 Mobile 
+02:00:05 - Tata 207 has entered zone baina at 28 Mar 2011 02:00:05 Mobile 
+02:00:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:00:23 Mobile 
+02:02:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:02:24 Mobile 
+02:02:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:02:24 Mobile 
+02:03:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:03:24 Mobile 
+02:04:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:04:24 Mobile 
+02:06:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:06:24 Mobile 
+02:06:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:06:24 Mobile 
+02:07:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:07:24 Mobile 
+02:08:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:08:24 Mobile 
+02:10:06 - Tata 207 has entered zone baina at 28 Mar 2011 02:10:06 Mobile 
+02:10:06 - Tata 207 has entered zone baina at 28 Mar 2011 02:10:06 Mobile 
+02:10:06 - Tata 207 has entered zone baina at 28 Mar 2011 02:10:06 Mobile 
+02:10:06 - Tata 207 has entered zone baina at 28 Mar 2011 02:10:06 Mobile 
+02:10:06 - Tata 207 has entered zone baina at 28 Mar 2011 02:10:06 Mobile 
+02:10:06 - Tata 207 has entered zone baina at 28 Mar 2011 02:10:06 Mobile 
+02:10:06 - Tata 207 has entered zone baina at 28 Mar 2011 02:10:06 Mobile 
+02:10:06 - Tata 207 has entered zone baina at 28 Mar 2011 02:10:06 Mobile 
+02:10:06 - Tata 207 has entered zone baina at 28 Mar 2011 02:10:06 Mobile 
+02:10:06 - Tata 207 has entered zone baina at 28 Mar 2011 02:10:06 Mobile 
+02:10:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:10:25 Mobile 
+02:10:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:10:25 Mobile 
+02:11:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:11:25 Mobile 
+02:12:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:12:25 Mobile 
+02:14:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:14:25 Mobile 
+02:14:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:14:25 Mobile 
+02:15:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:15:25 Mobile 
+02:16:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:16:25 Mobile 
+02:17:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:17:25 Mobile 
+02:18:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:18:26 Mobile 
+02:19:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:19:26 Mobile 
+02:20:08 - Tata 207 has entered zone baina at 28 Mar 2011 02:20:08 Mobile 
+02:20:08 - Tata 207 has entered zone baina at 28 Mar 2011 02:20:08 Mobile 
+02:20:08 - Tata 207 has entered zone baina at 28 Mar 2011 02:20:08 Mobile 
+02:20:08 - Tata 207 has entered zone baina at 28 Mar 2011 02:20:08 Mobile 
+02:20:08 - Tata 207 has entered zone baina at 28 Mar 2011 02:20:08 Mobile 
+02:20:08 - Tata 207 has entered zone baina at 28 Mar 2011 02:20:08 Mobile 
+02:20:08 - Tata 207 has entered zone baina at 28 Mar 2011 02:20:08 Mobile 
+02:20:08 - Tata 207 has entered zone baina at 28 Mar 2011 02:20:08 Mobile 
+02:20:08 - Tata 207 has entered zone baina at 28 Mar 2011 02:20:08 Mobile 
+02:20:08 - Tata 207 has entered zone baina at 28 Mar 2011 02:20:08 Mobile 
+02:20:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:20:26 Mobile 
+02:22:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:22:26 Mobile 
+02:22:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:22:26 Mobile 
+02:23:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:23:26 Mobile 
+02:24:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:24:26 Mobile 
+02:26:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:26:27 Mobile 
+02:26:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:26:27 Mobile 
+02:27:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:27:27 Mobile 
+02:28:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:28:27 Mobile 
+02:30:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:30:27 Mobile 
+02:30:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:30:27 Mobile 
+02:30:09 - Tata 207 has entered zone baina at 28 Mar 2011 02:30:09 Mobile 
+02:30:09 - Tata 207 has entered zone baina at 28 Mar 2011 02:30:09 Mobile 
+02:30:09 - Tata 207 has entered zone baina at 28 Mar 2011 02:30:09 Mobile 
+02:30:09 - Tata 207 has entered zone baina at 28 Mar 2011 02:30:09 Mobile 
+02:30:09 - Tata 207 has entered zone baina at 28 Mar 2011 02:30:09 Mobile 
+02:30:09 - Tata 207 has entered zone baina at 28 Mar 2011 02:30:09 Mobile 
+02:30:09 - Tata 207 has entered zone baina at 28 Mar 2011 02:30:09 Mobile 
+02:30:09 - Tata 207 has entered zone baina at 28 Mar 2011 02:30:09 Mobile 
+02:30:09 - Tata 207 has entered zone baina at 28 Mar 2011 02:30:09 Mobile 
+02:30:09 - Tata 207 has entered zone baina at 28 Mar 2011 02:30:09 Mobile 
+02:31:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:31:27 Mobile 
+02:32:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:32:27 Mobile 
+02:34:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:34:28 Mobile 
+02:34:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:34:28 Mobile 
+02:35:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:35:28 Mobile 
+02:36:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:36:28 Mobile 
+02:38:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:38:28 Mobile 
+02:38:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:38:28 Mobile 
+02:39:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:39:28 Mobile 
+02:40:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:40:28 Mobile 
+02:41:10 - Tata 207 has entered zone baina at 28 Mar 2011 02:41:10 Mobile 
+02:41:10 - Tata 207 has entered zone baina at 28 Mar 2011 02:41:10 Mobile 
+02:41:10 - Tata 207 has entered zone baina at 28 Mar 2011 02:41:10 Mobile 
+02:41:10 - Tata 207 has entered zone baina at 28 Mar 2011 02:41:10 Mobile 
+02:41:10 - Tata 207 has entered zone baina at 28 Mar 2011 02:41:10 Mobile 
+02:41:10 - Tata 207 has entered zone baina at 28 Mar 2011 02:41:10 Mobile 
+02:41:10 - Tata 207 has entered zone baina at 28 Mar 2011 02:41:10 Mobile 
+02:41:10 - Tata 207 has entered zone baina at 28 Mar 2011 02:41:10 Mobile 
+02:41:10 - Tata 207 has entered zone baina at 28 Mar 2011 02:41:10 Mobile 
+02:41:10 - Tata 207 has entered zone baina at 28 Mar 2011 02:41:10 Mobile 
+02:41:10 - Tata 207 has entered zone baina at 28 Mar 2011 02:41:10 Mobile 
+02:41:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:41:28 Mobile 
+02:42:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:42:29 Mobile 
+02:43:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:43:29 Mobile 
+02:44:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:44:29 Mobile 
+02:46:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:46:29 Mobile 
+02:46:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:46:29 Mobile 
+02:47:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:47:29 Mobile 
+02:48:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:48:29 Mobile 
+02:50:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:50:30 Mobile 
+02:50:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:50:30 Mobile 
+02:51:12 - Tata 207 has entered zone baina at 28 Mar 2011 02:51:12 Mobile 
+02:51:12 - Tata 207 has entered zone baina at 28 Mar 2011 02:51:12 Mobile 
+02:51:12 - Tata 207 has entered zone baina at 28 Mar 2011 02:51:12 Mobile 
+02:51:12 - Tata 207 has entered zone baina at 28 Mar 2011 02:51:12 Mobile 
+02:51:12 - Tata 207 has entered zone baina at 28 Mar 2011 02:51:12 Mobile 
+02:51:12 - Tata 207 has entered zone baina at 28 Mar 2011 02:51:12 Mobile 
+02:51:12 - Tata 207 has entered zone baina at 28 Mar 2011 02:51:12 Mobile 
+02:51:12 - Tata 207 has entered zone baina at 28 Mar 2011 02:51:12 Mobile 
+02:51:12 - Tata 207 has entered zone baina at 28 Mar 2011 02:51:12 Mobile 
+02:51:12 - Tata 207 has entered zone baina at 28 Mar 2011 02:51:12 Mobile 
+02:51:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:51:30 Mobile 
+02:52:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:52:30 Mobile 
+02:54:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:54:30 Mobile 
+02:54:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:54:30 Mobile 
+02:55:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:55:30 Mobile 
+02:56:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:56:30 Mobile 
+02:58:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:58:31 Mobile 
+02:58:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:58:31 Mobile 
+02:59:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 02:59:31 Mobile 
+03:00:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:00:31 Mobile 
+03:01:13 - Tata 207 has entered zone baina at 28 Mar 2011 03:01:13 Mobile 
+03:01:13 - Tata 207 has entered zone baina at 28 Mar 2011 03:01:13 Mobile 
+03:01:13 - Tata 207 has entered zone baina at 28 Mar 2011 03:01:13 Mobile 
+03:01:13 - Tata 207 has entered zone baina at 28 Mar 2011 03:01:13 Mobile 
+03:01:13 - Tata 207 has entered zone baina at 28 Mar 2011 03:01:13 Mobile 
+03:01:13 - Tata 207 has entered zone baina at 28 Mar 2011 03:01:13 Mobile 
+03:01:13 - Tata 207 has entered zone baina at 28 Mar 2011 03:01:13 Mobile 
+03:01:13 - Tata 207 has entered zone baina at 28 Mar 2011 03:01:13 Mobile 
+03:01:13 - Tata 207 has entered zone baina at 28 Mar 2011 03:01:13 Mobile 
+03:01:13 - Tata 207 has entered zone baina at 28 Mar 2011 03:01:13 Mobile 
+03:02:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:02:31 Mobile 
+03:02:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:02:31 Mobile 
+03:03:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:03:31 Mobile 
+03:04:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:04:31 Mobile 
+03:06:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:06:32 Mobile 
+03:06:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:06:32 Mobile 
+03:07:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:07:32 Mobile 
+03:08:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:08:32 Mobile 
+03:10:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:10:32 Mobile 
+03:10:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:10:32 Mobile 
+03:11:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:11:32 Mobile 
+03:11:14 - Tata 207 has entered zone baina at 28 Mar 2011 03:11:14 Mobile 
+03:11:14 - Tata 207 has entered zone baina at 28 Mar 2011 03:11:14 Mobile 
+03:11:14 - Tata 207 has entered zone baina at 28 Mar 2011 03:11:14 Mobile 
+03:11:14 - Tata 207 has entered zone baina at 28 Mar 2011 03:11:14 Mobile 
+03:11:14 - Tata 207 has entered zone baina at 28 Mar 2011 03:11:14 Mobile 
+03:11:14 - Tata 207 has entered zone baina at 28 Mar 2011 03:11:14 Mobile 
+03:11:14 - Tata 207 has entered zone baina at 28 Mar 2011 03:11:14 Mobile 
+03:11:14 - Tata 207 has entered zone baina at 28 Mar 2011 03:11:14 Mobile 
+03:11:14 - Tata 207 has entered zone baina at 28 Mar 2011 03:11:14 Mobile 
+03:11:14 - Tata 207 has entered zone baina at 28 Mar 2011 03:11:14 Mobile 
+03:12:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:12:32 Mobile 
+03:14:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:14:33 Mobile 
+03:14:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:14:33 Mobile 
+03:15:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:15:33 Mobile 
+03:16:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:16:33 Mobile 
+03:18:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:18:33 Mobile 
+03:18:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:18:33 Mobile 
+03:19:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:19:33 Mobile 
+03:20:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:20:33 Mobile 
+03:21:16 - Tata 207 has entered zone baina at 28 Mar 2011 03:21:16 Mobile 
+03:21:16 - Tata 207 has entered zone baina at 28 Mar 2011 03:21:16 Mobile 
+03:21:16 - Tata 207 has entered zone baina at 28 Mar 2011 03:21:16 Mobile 
+03:21:16 - Tata 207 has entered zone baina at 28 Mar 2011 03:21:16 Mobile 
+03:21:16 - Tata 207 has entered zone baina at 28 Mar 2011 03:21:16 Mobile 
+03:21:16 - Tata 207 has entered zone baina at 28 Mar 2011 03:21:16 Mobile 
+03:21:16 - Tata 207 has entered zone baina at 28 Mar 2011 03:21:16 Mobile 
+03:21:16 - Tata 207 has entered zone baina at 28 Mar 2011 03:21:16 Mobile 
+03:21:16 - Tata 207 has entered zone baina at 28 Mar 2011 03:21:16 Mobile 
+03:21:16 - Tata 207 has entered zone baina at 28 Mar 2011 03:21:16 Mobile 
+03:22:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:22:34 Mobile 
+03:22:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:22:34 Mobile 
+03:23:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:23:34 Mobile 
+03:24:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:24:34 Mobile 
+03:26:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:26:34 Mobile 
+03:26:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:26:34 Mobile 
+03:27:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:27:34 Mobile 
+03:28:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:28:34 Mobile 
+03:30:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:30:35 Mobile 
+03:30:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:30:35 Mobile 
+03:31:17 - Tata 207 has entered zone baina at 28 Mar 2011 03:31:17 Mobile 
+03:31:17 - Tata 207 has entered zone baina at 28 Mar 2011 03:31:17 Mobile 
+03:31:17 - Tata 207 has entered zone baina at 28 Mar 2011 03:31:17 Mobile 
+03:31:17 - Tata 207 has entered zone baina at 28 Mar 2011 03:31:17 Mobile 
+03:31:17 - Tata 207 has entered zone baina at 28 Mar 2011 03:31:17 Mobile 
+03:31:17 - Tata 207 has entered zone baina at 28 Mar 2011 03:31:17 Mobile 
+03:31:17 - Tata 207 has entered zone baina at 28 Mar 2011 03:31:17 Mobile 
+03:31:17 - Tata 207 has entered zone baina at 28 Mar 2011 03:31:17 Mobile 
+03:31:17 - Tata 207 has entered zone baina at 28 Mar 2011 03:31:17 Mobile 
+03:31:17 - Tata 207 has entered zone baina at 28 Mar 2011 03:31:17 Mobile 
+03:31:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:31:35 Mobile 
+03:32:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:32:35 Mobile 
+03:33:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:33:35 Mobile 
+03:34:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:34:35 Mobile 
+03:35:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:35:35 Mobile 
+03:36:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:36:35 Mobile 
+03:38:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:38:36 Mobile 
+03:38:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:38:36 Mobile 
+03:39:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:39:36 Mobile 
+03:40:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:40:36 Mobile 
+03:41:18 - Tata 207 has entered zone baina at 28 Mar 2011 03:41:18 Mobile 
+03:41:18 - Tata 207 has entered zone baina at 28 Mar 2011 03:41:18 Mobile 
+03:41:18 - Tata 207 has entered zone baina at 28 Mar 2011 03:41:18 Mobile 
+03:41:18 - Tata 207 has entered zone baina at 28 Mar 2011 03:41:18 Mobile 
+03:41:18 - Tata 207 has entered zone baina at 28 Mar 2011 03:41:18 Mobile 
+03:41:18 - Tata 207 has entered zone baina at 28 Mar 2011 03:41:18 Mobile 
+03:41:18 - Tata 207 has entered zone baina at 28 Mar 2011 03:41:18 Mobile 
+03:41:18 - Tata 207 has entered zone baina at 28 Mar 2011 03:41:18 Mobile 
+03:41:18 - Tata 207 has entered zone baina at 28 Mar 2011 03:41:18 Mobile 
+03:41:18 - Tata 207 has entered zone baina at 28 Mar 2011 03:41:18 Mobile 
+03:42:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:42:36 Mobile 
+03:42:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:42:36 Mobile 
+03:43:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:43:36 Mobile 
+03:44:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:44:36 Mobile 
+03:46:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:46:37 Mobile 
+03:46:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:46:37 Mobile 
+03:47:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:47:37 Mobile 
+03:48:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:48:37 Mobile 
+03:50:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:50:37 Mobile 
+03:50:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:50:37 Mobile 
+03:51:19 - Tata 207 has entered zone baina at 28 Mar 2011 03:51:19 Mobile 
+03:51:19 - Tata 207 has entered zone baina at 28 Mar 2011 03:51:19 Mobile 
+03:51:19 - Tata 207 has entered zone baina at 28 Mar 2011 03:51:19 Mobile 
+03:51:19 - Tata 207 has entered zone baina at 28 Mar 2011 03:51:19 Mobile 
+03:51:19 - Tata 207 has entered zone baina at 28 Mar 2011 03:51:19 Mobile 
+03:51:19 - Tata 207 has entered zone baina at 28 Mar 2011 03:51:19 Mobile 
+03:51:19 - Tata 207 has entered zone baina at 28 Mar 2011 03:51:19 Mobile 
+03:51:19 - Tata 207 has entered zone baina at 28 Mar 2011 03:51:19 Mobile 
+03:51:19 - Tata 207 has entered zone baina at 28 Mar 2011 03:51:19 Mobile 
+03:51:19 - Tata 207 has entered zone baina at 28 Mar 2011 03:51:19 Mobile 
+03:51:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:51:37 Mobile 
+03:52:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:52:37 Mobile 
+03:54:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:54:38 Mobile 
+03:54:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:54:38 Mobile 
+03:55:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:55:38 Mobile 
+03:56:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:56:38 Mobile 
+03:58:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:58:38 Mobile 
+03:58:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:58:38 Mobile 
+03:59:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 03:59:38 Mobile 
+04:00:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:00:38 Mobile 
+04:02:21 - Tata 207 has entered zone baina at 28 Mar 2011 04:02:21 Mobile 
+04:02:21 - Tata 207 has entered zone baina at 28 Mar 2011 04:02:21 Mobile 
+04:02:21 - Tata 207 has entered zone baina at 28 Mar 2011 04:02:21 Mobile 
+04:02:21 - Tata 207 has entered zone baina at 28 Mar 2011 04:02:21 Mobile 
+04:02:21 - Tata 207 has entered zone baina at 28 Mar 2011 04:02:21 Mobile 
+04:02:21 - Tata 207 has entered zone baina at 28 Mar 2011 04:02:21 Mobile 
+04:02:21 - Tata 207 has entered zone baina at 28 Mar 2011 04:02:21 Mobile 
+04:02:21 - Tata 207 has entered zone baina at 28 Mar 2011 04:02:21 Mobile 
+04:02:21 - Tata 207 has entered zone baina at 28 Mar 2011 04:02:21 Mobile 
+04:02:21 - Tata 207 has entered zone baina at 28 Mar 2011 04:02:21 Mobile 
+04:02:21 - Tata 207 has entered zone baina at 28 Mar 2011 04:02:21 Mobile 
+04:01:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:01:39 Mobile 
+04:02:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:02:39 Mobile 
+04:03:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:03:39 Mobile 
+04:04:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:04:39 Mobile 
+04:06:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:06:39 Mobile 
+04:06:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:06:39 Mobile 
+04:07:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:07:39 Mobile 
+04:08:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:08:39 Mobile 
+04:10:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:10:40 Mobile 
+04:10:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:10:40 Mobile 
+04:11:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:11:40 Mobile 
+04:12:22 - Tata 207 has entered zone baina at 28 Mar 2011 04:12:22 Mobile 
+04:12:22 - Tata 207 has entered zone baina at 28 Mar 2011 04:12:22 Mobile 
+04:12:22 - Tata 207 has entered zone baina at 28 Mar 2011 04:12:22 Mobile 
+04:12:22 - Tata 207 has entered zone baina at 28 Mar 2011 04:12:22 Mobile 
+04:12:22 - Tata 207 has entered zone baina at 28 Mar 2011 04:12:22 Mobile 
+04:12:22 - Tata 207 has entered zone baina at 28 Mar 2011 04:12:22 Mobile 
+04:12:22 - Tata 207 has entered zone baina at 28 Mar 2011 04:12:22 Mobile 
+04:12:22 - Tata 207 has entered zone baina at 28 Mar 2011 04:12:22 Mobile 
+04:12:22 - Tata 207 has entered zone baina at 28 Mar 2011 04:12:22 Mobile 
+04:12:22 - Tata 207 has entered zone baina at 28 Mar 2011 04:12:22 Mobile 
+04:12:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:12:40 Mobile 
+04:14:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:14:40 Mobile 
+04:14:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:14:40 Mobile 
+04:15:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:15:40 Mobile 
+04:16:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:16:40 Mobile 
+04:18:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:18:41 Mobile 
+04:18:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:18:41 Mobile 
+04:19:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:19:41 Mobile 
+04:20:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:20:41 Mobile 
+04:22:23 - Tata 207 has entered zone baina at 28 Mar 2011 04:22:23 Mobile 
+04:22:23 - Tata 207 has entered zone baina at 28 Mar 2011 04:22:23 Mobile 
+04:22:23 - Tata 207 has entered zone baina at 28 Mar 2011 04:22:23 Mobile 
+04:22:23 - Tata 207 has entered zone baina at 28 Mar 2011 04:22:23 Mobile 
+04:22:23 - Tata 207 has entered zone baina at 28 Mar 2011 04:22:23 Mobile 
+04:22:23 - Tata 207 has entered zone baina at 28 Mar 2011 04:22:23 Mobile 
+04:22:23 - Tata 207 has entered zone baina at 28 Mar 2011 04:22:23 Mobile 
+04:22:23 - Tata 207 has entered zone baina at 28 Mar 2011 04:22:23 Mobile 
+04:22:23 - Tata 207 has entered zone baina at 28 Mar 2011 04:22:23 Mobile 
+04:22:23 - Tata 207 has entered zone baina at 28 Mar 2011 04:22:23 Mobile 
+04:22:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:22:41 Mobile 
+04:22:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:22:41 Mobile 
+04:23:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:23:41 Mobile 
+04:24:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:24:41 Mobile 
+04:26:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:26:42 Mobile 
+04:26:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:26:42 Mobile 
+04:27:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:27:42 Mobile 
+04:28:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:28:42 Mobile 
+04:30:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:30:42 Mobile 
+04:30:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:30:42 Mobile 
+04:31:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:31:42 Mobile 
+04:32:25 - Tata 207 has entered zone baina at 28 Mar 2011 04:32:25 Mobile 
+04:32:25 - Tata 207 has entered zone baina at 28 Mar 2011 04:32:25 Mobile 
+04:32:25 - Tata 207 has entered zone baina at 28 Mar 2011 04:32:25 Mobile 
+04:32:25 - Tata 207 has entered zone baina at 28 Mar 2011 04:32:25 Mobile 
+04:32:25 - Tata 207 has entered zone baina at 28 Mar 2011 04:32:25 Mobile 
+04:32:25 - Tata 207 has entered zone baina at 28 Mar 2011 04:32:25 Mobile 
+04:32:25 - Tata 207 has entered zone baina at 28 Mar 2011 04:32:25 Mobile 
+04:32:25 - Tata 207 has entered zone baina at 28 Mar 2011 04:32:25 Mobile 
+04:32:25 - Tata 207 has entered zone baina at 28 Mar 2011 04:32:25 Mobile 
+04:32:25 - Tata 207 has entered zone baina at 28 Mar 2011 04:32:25 Mobile 
+04:32:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:32:43 Mobile 
+04:34:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:34:43 Mobile 
+04:34:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:34:43 Mobile 
+04:35:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:35:43 Mobile 
+04:36:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:36:43 Mobile 
+04:38:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:38:43 Mobile 
+04:38:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:38:43 Mobile 
+04:39:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:39:43 Mobile 
+04:40:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:40:44 Mobile 
+04:42:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:42:44 Mobile 
+04:42:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:42:44 Mobile 
+04:42:26 - Tata 207 has entered zone baina at 28 Mar 2011 04:42:26 Mobile 
+04:42:26 - Tata 207 has entered zone baina at 28 Mar 2011 04:42:26 Mobile 
+04:42:26 - Tata 207 has entered zone baina at 28 Mar 2011 04:42:26 Mobile 
+04:42:26 - Tata 207 has entered zone baina at 28 Mar 2011 04:42:26 Mobile 
+04:42:26 - Tata 207 has entered zone baina at 28 Mar 2011 04:42:26 Mobile 
+04:42:26 - Tata 207 has entered zone baina at 28 Mar 2011 04:42:26 Mobile 
+04:42:26 - Tata 207 has entered zone baina at 28 Mar 2011 04:42:26 Mobile 
+04:42:26 - Tata 207 has entered zone baina at 28 Mar 2011 04:42:26 Mobile 
+04:42:26 - Tata 207 has entered zone baina at 28 Mar 2011 04:42:26 Mobile 
+04:42:26 - Tata 207 has entered zone baina at 28 Mar 2011 04:42:26 Mobile 
+04:43:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:43:44 Mobile 
+04:44:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:44:44 Mobile 
+04:45:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:45:44 Mobile 
+04:46:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:46:44 Mobile 
+04:47:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:47:44 Mobile 
+04:48:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:48:45 Mobile 
+04:50:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:50:45 Mobile 
+04:50:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:50:45 Mobile 
+04:51:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:51:45 Mobile 
+04:52:27 - Tata 207 has entered zone baina at 28 Mar 2011 04:52:27 Mobile 
+04:52:27 - Tata 207 has entered zone baina at 28 Mar 2011 04:52:27 Mobile 
+04:52:27 - Tata 207 has entered zone baina at 28 Mar 2011 04:52:27 Mobile 
+04:52:27 - Tata 207 has entered zone baina at 28 Mar 2011 04:52:27 Mobile 
+04:52:27 - Tata 207 has entered zone baina at 28 Mar 2011 04:52:27 Mobile 
+04:52:27 - Tata 207 has entered zone baina at 28 Mar 2011 04:52:27 Mobile 
+04:52:27 - Tata 207 has entered zone baina at 28 Mar 2011 04:52:27 Mobile 
+04:52:27 - Tata 207 has entered zone baina at 28 Mar 2011 04:52:27 Mobile 
+04:52:27 - Tata 207 has entered zone baina at 28 Mar 2011 04:52:27 Mobile 
+04:52:27 - Tata 207 has entered zone baina at 28 Mar 2011 04:52:27 Mobile 
+04:52:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:52:45 Mobile 
+04:54:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:54:45 Mobile 
+04:54:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:54:45 Mobile 
+04:55:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:55:45 Mobile 
+04:56:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:56:46 Mobile 
+04:58:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:58:46 Mobile 
+04:58:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:58:46 Mobile 
+04:59:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 04:59:46 Mobile 
+05:00:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:00:46 Mobile 
+05:02:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:02:46 Mobile 
+05:02:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:02:46 Mobile 
+05:02:28 - Tata 207 has entered zone baina at 28 Mar 2011 05:02:28 Mobile 
+05:02:28 - Tata 207 has entered zone baina at 28 Mar 2011 05:02:28 Mobile 
+05:02:28 - Tata 207 has entered zone baina at 28 Mar 2011 05:02:28 Mobile 
+05:02:28 - Tata 207 has entered zone baina at 28 Mar 2011 05:02:28 Mobile 
+05:02:28 - Tata 207 has entered zone baina at 28 Mar 2011 05:02:28 Mobile 
+05:02:28 - Tata 207 has entered zone baina at 28 Mar 2011 05:02:28 Mobile 
+05:02:28 - Tata 207 has entered zone baina at 28 Mar 2011 05:02:28 Mobile 
+05:02:28 - Tata 207 has entered zone baina at 28 Mar 2011 05:02:28 Mobile 
+05:02:28 - Tata 207 has entered zone baina at 28 Mar 2011 05:02:28 Mobile 
+05:02:28 - Tata 207 has entered zone baina at 28 Mar 2011 05:02:28 Mobile 
+05:03:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:03:47 Mobile 
+05:04:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:04:47 Mobile 
+05:06:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:06:47 Mobile 
+05:06:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:06:47 Mobile 
+05:07:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:07:47 Mobile 
+05:08:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:08:47 Mobile 
+05:10:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:10:47 Mobile 
+05:10:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:10:47 Mobile 
+05:11:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:11:47 Mobile 
+05:12:30 - Tata 207 has entered zone baina at 28 Mar 2011 05:12:30 Mobile 
+05:12:30 - Tata 207 has entered zone baina at 28 Mar 2011 05:12:30 Mobile 
+05:12:30 - Tata 207 has entered zone baina at 28 Mar 2011 05:12:30 Mobile 
+05:12:30 - Tata 207 has entered zone baina at 28 Mar 2011 05:12:30 Mobile 
+05:12:30 - Tata 207 has entered zone baina at 28 Mar 2011 05:12:30 Mobile 
+05:12:30 - Tata 207 has entered zone baina at 28 Mar 2011 05:12:30 Mobile 
+05:12:30 - Tata 207 has entered zone baina at 28 Mar 2011 05:12:30 Mobile 
+05:12:30 - Tata 207 has entered zone baina at 28 Mar 2011 05:12:30 Mobile 
+05:12:30 - Tata 207 has entered zone baina at 28 Mar 2011 05:12:30 Mobile 
+05:12:30 - Tata 207 has entered zone baina at 28 Mar 2011 05:12:30 Mobile 
+05:12:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:12:48 Mobile 
+05:14:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:14:48 Mobile 
+05:14:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:14:48 Mobile 
+05:15:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:15:48 Mobile 
+05:16:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:16:48 Mobile 
+05:17:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:17:48 Mobile 
+05:18:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:18:48 Mobile 
+05:19:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:19:48 Mobile 
+05:20:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:20:49 Mobile 
+05:22:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:22:49 Mobile 
+05:22:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:22:49 Mobile 
+05:23:31 - Tata 207 has entered zone baina at 28 Mar 2011 05:23:31 Mobile 
+05:23:31 - Tata 207 has entered zone baina at 28 Mar 2011 05:23:31 Mobile 
+05:23:31 - Tata 207 has entered zone baina at 28 Mar 2011 05:23:31 Mobile 
+05:23:31 - Tata 207 has entered zone baina at 28 Mar 2011 05:23:31 Mobile 
+05:23:31 - Tata 207 has entered zone baina at 28 Mar 2011 05:23:31 Mobile 
+05:23:31 - Tata 207 has entered zone baina at 28 Mar 2011 05:23:31 Mobile 
+05:23:31 - Tata 207 has entered zone baina at 28 Mar 2011 05:23:31 Mobile 
+05:23:31 - Tata 207 has entered zone baina at 28 Mar 2011 05:23:31 Mobile 
+05:23:31 - Tata 207 has entered zone baina at 28 Mar 2011 05:23:31 Mobile 
+05:23:31 - Tata 207 has entered zone baina at 28 Mar 2011 05:23:31 Mobile 
+05:23:31 - Tata 207 has entered zone baina at 28 Mar 2011 05:23:31 Mobile 
+05:23:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:23:49 Mobile 
+05:24:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:24:49 Mobile 
+05:26:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:26:49 Mobile 
+05:26:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:26:49 Mobile 
+05:27:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:27:49 Mobile 
+05:28:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:28:50 Mobile 
+05:30:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:30:50 Mobile 
+05:30:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:30:50 Mobile 
+05:31:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:31:50 Mobile 
+05:32:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:32:50 Mobile 
+05:33:32 - Tata 207 has entered zone baina at 28 Mar 2011 05:33:32 Mobile 
+05:33:32 - Tata 207 has entered zone baina at 28 Mar 2011 05:33:32 Mobile 
+05:33:32 - Tata 207 has entered zone baina at 28 Mar 2011 05:33:32 Mobile 
+05:33:32 - Tata 207 has entered zone baina at 28 Mar 2011 05:33:32 Mobile 
+05:33:32 - Tata 207 has entered zone baina at 28 Mar 2011 05:33:32 Mobile 
+05:33:32 - Tata 207 has entered zone baina at 28 Mar 2011 05:33:32 Mobile 
+05:33:32 - Tata 207 has entered zone baina at 28 Mar 2011 05:33:32 Mobile 
+05:33:32 - Tata 207 has entered zone baina at 28 Mar 2011 05:33:32 Mobile 
+05:33:32 - Tata 207 has entered zone baina at 28 Mar 2011 05:33:32 Mobile 
+05:33:32 - Tata 207 has entered zone baina at 28 Mar 2011 05:33:32 Mobile 
+05:34:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:34:50 Mobile 
+05:34:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:34:50 Mobile 
+05:35:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:35:50 Mobile 
+05:36:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:36:51 Mobile 
+05:38:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:38:51 Mobile 
+05:38:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:38:51 Mobile 
+05:39:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:39:51 Mobile 
+05:40:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:40:51 Mobile 
+05:42:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:42:51 Mobile 
+05:42:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:42:51 Mobile 
+05:43:34 - Tata 207 has entered zone baina at 28 Mar 2011 05:43:34 Mobile 
+05:43:34 - Tata 207 has entered zone baina at 28 Mar 2011 05:43:34 Mobile 
+05:43:34 - Tata 207 has entered zone baina at 28 Mar 2011 05:43:34 Mobile 
+05:43:34 - Tata 207 has entered zone baina at 28 Mar 2011 05:43:34 Mobile 
+05:43:34 - Tata 207 has entered zone baina at 28 Mar 2011 05:43:34 Mobile 
+05:43:34 - Tata 207 has entered zone baina at 28 Mar 2011 05:43:34 Mobile 
+05:43:34 - Tata 207 has entered zone baina at 28 Mar 2011 05:43:34 Mobile 
+05:43:34 - Tata 207 has entered zone baina at 28 Mar 2011 05:43:34 Mobile 
+05:43:34 - Tata 207 has entered zone baina at 28 Mar 2011 05:43:34 Mobile 
+05:43:34 - Tata 207 has entered zone baina at 28 Mar 2011 05:43:34 Mobile 
+05:43:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:43:51 Mobile 
+05:44:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:44:52 Mobile 
+05:46:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:46:52 Mobile 
+05:46:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:46:52 Mobile 
+05:47:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:47:52 Mobile 
+05:48:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:48:52 Mobile 
+05:50:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:50:52 Mobile 
+05:50:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:50:52 Mobile 
+05:51:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:51:52 Mobile 
+05:52:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:52:53 Mobile 
+05:53:35 - Tata 207 has entered zone baina at 28 Mar 2011 05:53:35 Mobile 
+05:53:35 - Tata 207 has entered zone baina at 28 Mar 2011 05:53:35 Mobile 
+05:53:35 - Tata 207 has entered zone baina at 28 Mar 2011 05:53:35 Mobile 
+05:53:35 - Tata 207 has entered zone baina at 28 Mar 2011 05:53:35 Mobile 
+05:53:35 - Tata 207 has entered zone baina at 28 Mar 2011 05:53:35 Mobile 
+05:53:35 - Tata 207 has entered zone baina at 28 Mar 2011 05:53:35 Mobile 
+05:53:35 - Tata 207 has entered zone baina at 28 Mar 2011 05:53:35 Mobile 
+05:53:35 - Tata 207 has entered zone baina at 28 Mar 2011 05:53:35 Mobile 
+05:53:35 - Tata 207 has entered zone baina at 28 Mar 2011 05:53:35 Mobile 
+05:53:35 - Tata 207 has entered zone baina at 28 Mar 2011 05:53:35 Mobile 
+05:54:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:54:53 Mobile 
+05:54:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:54:53 Mobile 
+05:55:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:55:53 Mobile 
+05:56:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:56:53 Mobile 
+05:58:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:58:53 Mobile 
+05:58:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:58:53 Mobile 
+05:59:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 05:59:53 Mobile 
+06:00:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:00:54 Mobile 
+06:02:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:02:54 Mobile 
+06:02:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:02:54 Mobile 
+06:03:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:03:54 Mobile 
+06:03:36 - Tata 207 has entered zone baina at 28 Mar 2011 06:03:36 Mobile 
+06:03:36 - Tata 207 has entered zone baina at 28 Mar 2011 06:03:36 Mobile 
+06:03:36 - Tata 207 has entered zone baina at 28 Mar 2011 06:03:36 Mobile 
+06:03:36 - Tata 207 has entered zone baina at 28 Mar 2011 06:03:36 Mobile 
+06:03:36 - Tata 207 has entered zone baina at 28 Mar 2011 06:03:36 Mobile 
+06:03:36 - Tata 207 has entered zone baina at 28 Mar 2011 06:03:36 Mobile 
+06:03:36 - Tata 207 has entered zone baina at 28 Mar 2011 06:03:36 Mobile 
+06:03:36 - Tata 207 has entered zone baina at 28 Mar 2011 06:03:36 Mobile 
+06:03:36 - Tata 207 has entered zone baina at 28 Mar 2011 06:03:36 Mobile 
+06:03:36 - Tata 207 has entered zone baina at 28 Mar 2011 06:03:36 Mobile 
+06:04:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:04:54 Mobile 
+06:06:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:06:54 Mobile 
+06:06:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:06:54 Mobile 
+06:07:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:07:54 Mobile 
+06:08:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:08:55 Mobile 
+06:10:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:10:55 Mobile 
+06:10:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:10:55 Mobile 
+06:11:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:11:55 Mobile 
+06:12:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:12:55 Mobile 
+06:13:37 - Tata 207 has entered zone baina at 28 Mar 2011 06:13:37 Mobile 
+06:13:37 - Tata 207 has entered zone baina at 28 Mar 2011 06:13:37 Mobile 
+06:13:37 - Tata 207 has entered zone baina at 28 Mar 2011 06:13:37 Mobile 
+06:13:37 - Tata 207 has entered zone baina at 28 Mar 2011 06:13:37 Mobile 
+06:13:37 - Tata 207 has entered zone baina at 28 Mar 2011 06:13:37 Mobile 
+06:13:37 - Tata 207 has entered zone baina at 28 Mar 2011 06:13:37 Mobile 
+06:13:37 - Tata 207 has entered zone baina at 28 Mar 2011 06:13:37 Mobile 
+06:13:37 - Tata 207 has entered zone baina at 28 Mar 2011 06:13:37 Mobile 
+06:13:37 - Tata 207 has entered zone baina at 28 Mar 2011 06:13:37 Mobile 
+06:13:37 - Tata 207 has entered zone baina at 28 Mar 2011 06:13:37 Mobile 
+06:13:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:13:55 Mobile 
+06:14:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:14:55 Mobile 
+06:15:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:15:55 Mobile 
+06:16:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:16:55 Mobile 
+06:18:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:18:56 Mobile 
+06:18:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:18:56 Mobile 
+06:19:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:19:56 Mobile 
+06:20:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:20:56 Mobile 
+06:22:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:22:56 Mobile 
+06:22:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:22:56 Mobile 
+06:23:22 -  Eicher  GAO4 5666 has entered zone home at 28 Mar 2011 06:23:22 Email absgoa@gmail.com,
+06:23:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:23:56 Mobile 
+06:23:39 - Tata 207 has entered zone baina at 28 Mar 2011 06:23:39 Mobile 
+06:23:39 - Tata 207 has entered zone baina at 28 Mar 2011 06:23:39 Mobile 
+06:23:39 - Tata 207 has entered zone baina at 28 Mar 2011 06:23:39 Mobile 
+06:23:39 - Tata 207 has entered zone baina at 28 Mar 2011 06:23:39 Mobile 
+06:23:39 - Tata 207 has entered zone baina at 28 Mar 2011 06:23:39 Mobile 
+06:23:39 - Tata 207 has entered zone baina at 28 Mar 2011 06:23:39 Mobile 
+06:23:39 - Tata 207 has entered zone baina at 28 Mar 2011 06:23:39 Mobile 
+06:23:39 - Tata 207 has entered zone baina at 28 Mar 2011 06:23:39 Mobile 
+06:23:39 - Tata 207 has entered zone baina at 28 Mar 2011 06:23:39 Mobile 
+06:23:39 - Tata 207 has entered zone baina at 28 Mar 2011 06:23:39 Mobile 
+06:24:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:24:56 Mobile 
+06:26:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:26:57 Mobile 
+06:26:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:26:57 Mobile 
+06:27:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:27:57 Mobile 
+06:28:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:28:57 Mobile 
+06:30:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:30:57 Mobile 
+06:30:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:30:57 Mobile 
+06:31:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:31:57 Mobile 
+06:32:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:32:57 Mobile 
+06:33:40 - Tata 207 has entered zone baina at 28 Mar 2011 06:33:40 Mobile 
+06:33:40 - Tata 207 has entered zone baina at 28 Mar 2011 06:33:40 Mobile 
+06:33:40 - Tata 207 has entered zone baina at 28 Mar 2011 06:33:40 Mobile 
+06:33:40 - Tata 207 has entered zone baina at 28 Mar 2011 06:33:40 Mobile 
+06:33:40 - Tata 207 has entered zone baina at 28 Mar 2011 06:33:40 Mobile 
+06:33:40 - Tata 207 has entered zone baina at 28 Mar 2011 06:33:40 Mobile 
+06:33:40 - Tata 207 has entered zone baina at 28 Mar 2011 06:33:40 Mobile 
+06:33:40 - Tata 207 has entered zone baina at 28 Mar 2011 06:33:40 Mobile 
+06:33:40 - Tata 207 has entered zone baina at 28 Mar 2011 06:33:40 Mobile 
+06:33:40 - Tata 207 has entered zone baina at 28 Mar 2011 06:33:40 Mobile 
+06:34:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:34:58 Mobile 
+06:34:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:34:58 Mobile 
+06:35:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:35:58 Mobile 
+06:36:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:36:58 Mobile 
+06:38:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:38:58 Mobile 
+06:38:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:38:58 Mobile 
+06:39:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:39:58 Mobile 
+06:40:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:40:58 Mobile 
+06:42:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:42:59 Mobile 
+06:42:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:42:59 Mobile 
+06:43:41 - Tata 207 has entered zone baina at 28 Mar 2011 06:43:41 Mobile 
+06:43:41 - Tata 207 has entered zone baina at 28 Mar 2011 06:43:41 Mobile 
+06:43:41 - Tata 207 has entered zone baina at 28 Mar 2011 06:43:41 Mobile 
+06:43:41 - Tata 207 has entered zone baina at 28 Mar 2011 06:43:41 Mobile 
+06:43:41 - Tata 207 has entered zone baina at 28 Mar 2011 06:43:41 Mobile 
+06:43:41 - Tata 207 has entered zone baina at 28 Mar 2011 06:43:41 Mobile 
+06:43:41 - Tata 207 has entered zone baina at 28 Mar 2011 06:43:41 Mobile 
+06:43:41 - Tata 207 has entered zone baina at 28 Mar 2011 06:43:41 Mobile 
+06:43:41 - Tata 207 has entered zone baina at 28 Mar 2011 06:43:41 Mobile 
+06:43:41 - Tata 207 has entered zone baina at 28 Mar 2011 06:43:41 Mobile 
+06:43:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:43:59 Mobile 
+06:44:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:44:59 Mobile 
+06:46:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:46:59 Mobile 
+06:46:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:46:59 Mobile 
+06:47:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:47:59 Mobile 
+06:48:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:48:59 Mobile 
+06:51:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:51:00 Mobile 
+06:51:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:51:00 Mobile 
+06:52:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:52:00 Mobile 
+06:53:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:53:00 Mobile 
+06:53:43 - Tata 207 has entered zone baina at 28 Mar 2011 06:53:43 Mobile 
+06:53:43 - Tata 207 has entered zone baina at 28 Mar 2011 06:53:43 Mobile 
+06:53:43 - Tata 207 has entered zone baina at 28 Mar 2011 06:53:43 Mobile 
+06:53:43 - Tata 207 has entered zone baina at 28 Mar 2011 06:53:43 Mobile 
+06:53:43 - Tata 207 has entered zone baina at 28 Mar 2011 06:53:43 Mobile 
+06:53:43 - Tata 207 has entered zone baina at 28 Mar 2011 06:53:43 Mobile 
+06:53:43 - Tata 207 has entered zone baina at 28 Mar 2011 06:53:43 Mobile 
+06:53:43 - Tata 207 has entered zone baina at 28 Mar 2011 06:53:43 Mobile 
+06:53:43 - Tata 207 has entered zone baina at 28 Mar 2011 06:53:43 Mobile 
+06:53:43 - Tata 207 has entered zone baina at 28 Mar 2011 06:53:43 Mobile 
+06:54:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:54:00 Mobile 
+06:55:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:55:00 Mobile 
+06:56:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:56:00 Mobile 
+06:57:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:57:00 Mobile 
+06:59:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:59:01 Mobile 
+06:59:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 06:59:01 Mobile 
+07:00:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:00:01 Mobile 
+07:01:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:01:01 Mobile 
+07:03:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:03:01 Mobile 
+07:03:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:03:01 Mobile 
+07:03:44 - Tata 207 has entered zone baina at 28 Mar 2011 07:03:44 Mobile 
+07:03:44 - Tata 207 has entered zone baina at 28 Mar 2011 07:03:44 Mobile 
+07:03:44 - Tata 207 has entered zone baina at 28 Mar 2011 07:03:44 Mobile 
+07:03:44 - Tata 207 has entered zone baina at 28 Mar 2011 07:03:44 Mobile 
+07:03:44 - Tata 207 has entered zone baina at 28 Mar 2011 07:03:44 Mobile 
+07:03:44 - Tata 207 has entered zone baina at 28 Mar 2011 07:03:44 Mobile 
+07:03:44 - Tata 207 has entered zone baina at 28 Mar 2011 07:03:44 Mobile 
+07:03:44 - Tata 207 has entered zone baina at 28 Mar 2011 07:03:44 Mobile 
+07:03:44 - Tata 207 has entered zone baina at 28 Mar 2011 07:03:44 Mobile 
+07:03:44 - Tata 207 has entered zone baina at 28 Mar 2011 07:03:44 Mobile 
+07:04:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:04:01 Mobile 
+07:05:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:05:01 Mobile 
+07:07:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:07:02 Mobile 
+07:07:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:07:02 Mobile 
+07:08:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:08:02 Mobile 
+07:09:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:09:02 Mobile 
+07:11:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:11:02 Mobile 
+07:11:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:11:02 Mobile 
+07:12:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:12:02 Mobile 
+07:13:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:13:02 Mobile 
+07:14:45 - Tata 207 has entered zone baina at 28 Mar 2011 07:14:45 Mobile 
+07:14:45 - Tata 207 has entered zone baina at 28 Mar 2011 07:14:45 Mobile 
+07:14:45 - Tata 207 has entered zone baina at 28 Mar 2011 07:14:45 Mobile 
+07:14:45 - Tata 207 has entered zone baina at 28 Mar 2011 07:14:45 Mobile 
+07:14:45 - Tata 207 has entered zone baina at 28 Mar 2011 07:14:45 Mobile 
+07:14:45 - Tata 207 has entered zone baina at 28 Mar 2011 07:14:45 Mobile 
+07:14:45 - Tata 207 has entered zone baina at 28 Mar 2011 07:14:45 Mobile 
+07:14:45 - Tata 207 has entered zone baina at 28 Mar 2011 07:14:45 Mobile 
+07:14:45 - Tata 207 has entered zone baina at 28 Mar 2011 07:14:45 Mobile 
+07:14:45 - Tata 207 has entered zone baina at 28 Mar 2011 07:14:45 Mobile 
+07:14:45 - Tata 207 has entered zone baina at 28 Mar 2011 07:14:45 Mobile 
+07:15:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:15:03 Mobile 
+07:15:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:15:03 Mobile 
+07:16:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:16:03 Mobile 
+07:17:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:17:03 Mobile 
+07:19:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:19:03 Mobile 
+07:19:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:19:03 Mobile 
+07:20:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:20:03 Mobile 
+07:21:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:21:03 Mobile 
+07:23:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:23:04 Mobile 
+07:23:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:23:04 Mobile 
+07:24:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:24:04 Mobile 
+07:24:47 - Tata 207 has entered zone baina at 28 Mar 2011 07:24:47 Mobile 
+07:24:47 - Tata 207 has entered zone baina at 28 Mar 2011 07:24:47 Mobile 
+07:24:47 - Tata 207 has entered zone baina at 28 Mar 2011 07:24:47 Mobile 
+07:24:47 - Tata 207 has entered zone baina at 28 Mar 2011 07:24:47 Mobile 
+07:24:47 - Tata 207 has entered zone baina at 28 Mar 2011 07:24:47 Mobile 
+07:24:47 - Tata 207 has entered zone baina at 28 Mar 2011 07:24:47 Mobile 
+07:24:47 - Tata 207 has entered zone baina at 28 Mar 2011 07:24:47 Mobile 
+07:24:47 - Tata 207 has entered zone baina at 28 Mar 2011 07:24:47 Mobile 
+07:24:47 - Tata 207 has entered zone baina at 28 Mar 2011 07:24:47 Mobile 
+07:24:47 - Tata 207 has entered zone baina at 28 Mar 2011 07:24:47 Mobile 
+07:25:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:25:04 Mobile 
+07:27:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:27:04 Mobile 
+07:27:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:27:04 Mobile 
+07:28:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:28:04 Mobile 
+07:29:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:29:05 Mobile 
+07:31:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:31:05 Mobile 
+07:31:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:31:05 Mobile 
+07:32:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:32:05 Mobile 
+07:33:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:33:05 Mobile 
+07:35:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:35:05 Mobile 
+07:35:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:35:05 Mobile 
+07:34:48 - Tata 207 has entered zone baina at 28 Mar 2011 07:34:48 Mobile 
+07:34:48 - Tata 207 has entered zone baina at 28 Mar 2011 07:34:48 Mobile 
+07:34:48 - Tata 207 has entered zone baina at 28 Mar 2011 07:34:48 Mobile 
+07:34:48 - Tata 207 has entered zone baina at 28 Mar 2011 07:34:48 Mobile 
+07:34:48 - Tata 207 has entered zone baina at 28 Mar 2011 07:34:48 Mobile 
+07:34:48 - Tata 207 has entered zone baina at 28 Mar 2011 07:34:48 Mobile 
+07:34:48 - Tata 207 has entered zone baina at 28 Mar 2011 07:34:48 Mobile 
+07:34:48 - Tata 207 has entered zone baina at 28 Mar 2011 07:34:48 Mobile 
+07:34:48 - Tata 207 has entered zone baina at 28 Mar 2011 07:34:48 Mobile 
+07:34:48 - Tata 207 has entered zone baina at 28 Mar 2011 07:34:48 Mobile 
+07:36:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:36:05 Mobile 
+07:37:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:37:05 Mobile 
+07:38:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:38:06 Mobile 
+07:39:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:39:06 Mobile 
+07:40:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:40:06 Mobile 
+07:41:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:41:06 Mobile 
+07:43:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:43:06 Mobile 
+07:43:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:43:06 Mobile 
+07:44:19 - Ace delivery vans 2 has left zone home at 28 Mar 2011 07:44:19 Email absgoa@gmail.com,
+07:44:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:44:06 Mobile 
+07:44:49 - Tata 207 has entered zone baina at 28 Mar 2011 07:44:49 Mobile 
+07:44:49 - Tata 207 has entered zone baina at 28 Mar 2011 07:44:49 Mobile 
+07:44:49 - Tata 207 has entered zone baina at 28 Mar 2011 07:44:49 Mobile 
+07:44:49 - Tata 207 has entered zone baina at 28 Mar 2011 07:44:49 Mobile 
+07:44:49 - Tata 207 has entered zone baina at 28 Mar 2011 07:44:49 Mobile 
+07:44:49 - Tata 207 has entered zone baina at 28 Mar 2011 07:44:49 Mobile 
+07:44:49 - Tata 207 has entered zone baina at 28 Mar 2011 07:44:49 Mobile 
+07:44:49 - Tata 207 has entered zone baina at 28 Mar 2011 07:44:49 Mobile 
+07:44:49 - Tata 207 has entered zone baina at 28 Mar 2011 07:44:49 Mobile 
+07:44:49 - Tata 207 has entered zone baina at 28 Mar 2011 07:44:49 Mobile 
+07:45:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:45:06 Mobile 
+07:47:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:47:07 Mobile 
+07:47:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:47:07 Mobile 
+07:48:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:48:07 Mobile 
+07:49:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:49:07 Mobile 
+07:51:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:51:07 Mobile 
+07:51:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:51:07 Mobile 
+07:52:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:52:07 Mobile 
+07:53:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:53:07 Mobile 
+07:55:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:55:08 Mobile 
+07:55:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:55:08 Mobile 
+07:54:50 - Tata 207 has entered zone baina at 28 Mar 2011 07:54:50 Mobile 
+07:54:50 - Tata 207 has entered zone baina at 28 Mar 2011 07:54:50 Mobile 
+07:54:50 - Tata 207 has entered zone baina at 28 Mar 2011 07:54:50 Mobile 
+07:54:50 - Tata 207 has entered zone baina at 28 Mar 2011 07:54:50 Mobile 
+07:54:50 - Tata 207 has entered zone baina at 28 Mar 2011 07:54:50 Mobile 
+07:54:50 - Tata 207 has entered zone baina at 28 Mar 2011 07:54:50 Mobile 
+07:54:50 - Tata 207 has entered zone baina at 28 Mar 2011 07:54:50 Mobile 
+07:54:50 - Tata 207 has entered zone baina at 28 Mar 2011 07:54:50 Mobile 
+07:54:50 - Tata 207 has entered zone baina at 28 Mar 2011 07:54:50 Mobile 
+07:54:50 - Tata 207 has entered zone baina at 28 Mar 2011 07:54:50 Mobile 
+07:56:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:56:08 Mobile 
+07:57:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:57:08 Mobile 
+07:59:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:59:08 Mobile 
+07:59:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 07:59:08 Mobile 
+08:00:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:00:08 Mobile 
+08:01:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:01:08 Mobile 
+08:03:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:03:09 Mobile 
+08:03:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:03:09 Mobile 
+08:04:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:04:09 Mobile 
+08:04:52 - Tata 207 has entered zone baina at 28 Mar 2011 08:04:52 Mobile 
+08:04:52 - Tata 207 has entered zone baina at 28 Mar 2011 08:04:52 Mobile 
+08:04:52 - Tata 207 has entered zone baina at 28 Mar 2011 08:04:52 Mobile 
+08:04:52 - Tata 207 has entered zone baina at 28 Mar 2011 08:04:52 Mobile 
+08:04:52 - Tata 207 has entered zone baina at 28 Mar 2011 08:04:52 Mobile 
+08:04:52 - Tata 207 has entered zone baina at 28 Mar 2011 08:04:52 Mobile 
+08:04:52 - Tata 207 has entered zone baina at 28 Mar 2011 08:04:52 Mobile 
+08:04:52 - Tata 207 has entered zone baina at 28 Mar 2011 08:04:52 Mobile 
+08:04:52 - Tata 207 has entered zone baina at 28 Mar 2011 08:04:52 Mobile 
+08:04:52 - Tata 207 has entered zone baina at 28 Mar 2011 08:04:52 Mobile 
+08:05:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:05:09 Mobile 
+08:07:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:07:09 Mobile 
+08:07:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:07:09 Mobile 
+08:08:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:08:09 Mobile 
+08:09:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:09:10 Mobile 
+08:11:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:11:10 Mobile 
+08:11:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:11:10 Mobile 
+08:12:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:12:10 Mobile 
+08:13:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:13:10 Mobile 
+08:13:58 - Ace delivery vans 1 has entered zone margao at 28 Mar 2011 08:13:58 Mobile 9823952400,
+08:13:58 - Ace delivery vans 1 has entered zone margao at 28 Mar 2011 08:13:58 Mobile 9823952400,
+08:13:58 - Ace delivery vans 1 has entered zone margao at 28 Mar 2011 08:13:58 Mobile 9823952400,
+08:13:58 - Ace delivery vans 1 has entered zone margao at 28 Mar 2011 08:13:58 Mobile 9823952400,
+08:14:23 - Ace delivery vans 2 has entered zone margao at 28 Mar 2011 08:14:23 Email absgoa@gmail.com,
+08:15:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:15:10 Mobile 
+08:15:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:15:10 Mobile 
+08:14:53 - Tata 207 has entered zone baina at 28 Mar 2011 08:14:53 Mobile 
+08:14:53 - Tata 207 has entered zone baina at 28 Mar 2011 08:14:53 Mobile 
+08:14:53 - Tata 207 has entered zone baina at 28 Mar 2011 08:14:53 Mobile 
+08:14:53 - Tata 207 has entered zone baina at 28 Mar 2011 08:14:53 Mobile 
+08:14:53 - Tata 207 has entered zone baina at 28 Mar 2011 08:14:53 Mobile 
+08:14:53 - Tata 207 has entered zone baina at 28 Mar 2011 08:14:53 Mobile 
+08:14:53 - Tata 207 has entered zone baina at 28 Mar 2011 08:14:53 Mobile 
+08:14:53 - Tata 207 has entered zone baina at 28 Mar 2011 08:14:53 Mobile 
+08:14:53 - Tata 207 has entered zone baina at 28 Mar 2011 08:14:53 Mobile 
+08:14:53 - Tata 207 has entered zone baina at 28 Mar 2011 08:14:53 Mobile 
+08:16:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:16:10 Mobile 
+08:17:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:17:11 Mobile 
+08:18:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:18:11 Mobile 
+08:19:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:19:11 Mobile 
+08:20:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:20:11 Mobile 
+08:21:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:21:11 Mobile 
+08:23:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:23:11 Mobile 
+08:23:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:23:11 Mobile 
+08:24:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:24:11 Mobile 
+08:24:54 - Tata 207 has entered zone baina at 28 Mar 2011 08:24:54 Mobile 
+08:24:54 - Tata 207 has entered zone baina at 28 Mar 2011 08:24:54 Mobile 
+08:24:54 - Tata 207 has entered zone baina at 28 Mar 2011 08:24:54 Mobile 
+08:24:54 - Tata 207 has entered zone baina at 28 Mar 2011 08:24:54 Mobile 
+08:24:54 - Tata 207 has entered zone baina at 28 Mar 2011 08:24:54 Mobile 
+08:24:54 - Tata 207 has entered zone baina at 28 Mar 2011 08:24:54 Mobile 
+08:24:54 - Tata 207 has entered zone baina at 28 Mar 2011 08:24:54 Mobile 
+08:24:54 - Tata 207 has entered zone baina at 28 Mar 2011 08:24:54 Mobile 
+08:24:54 - Tata 207 has entered zone baina at 28 Mar 2011 08:24:54 Mobile 
+08:24:54 - Tata 207 has entered zone baina at 28 Mar 2011 08:24:54 Mobile 
+08:25:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:25:11 Mobile 
+08:27:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:27:12 Mobile 
+08:27:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:27:12 Mobile 
+08:28:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:28:12 Mobile 
+08:29:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:29:12 Mobile 
+08:31:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:31:12 Mobile 
+08:31:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:31:12 Mobile 
+08:32:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:32:12 Mobile 
+08:33:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:33:12 Mobile 
+08:35:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:35:13 Mobile 
+08:35:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:35:13 Mobile 
+08:35:56 - Tata 207 has entered zone baina at 28 Mar 2011 08:35:56 Mobile 
+08:35:56 - Tata 207 has entered zone baina at 28 Mar 2011 08:35:56 Mobile 
+08:35:56 - Tata 207 has entered zone baina at 28 Mar 2011 08:35:56 Mobile 
+08:35:56 - Tata 207 has entered zone baina at 28 Mar 2011 08:35:56 Mobile 
+08:35:56 - Tata 207 has entered zone baina at 28 Mar 2011 08:35:56 Mobile 
+08:35:56 - Tata 207 has entered zone baina at 28 Mar 2011 08:35:56 Mobile 
+08:35:56 - Tata 207 has entered zone baina at 28 Mar 2011 08:35:56 Mobile 
+08:35:56 - Tata 207 has entered zone baina at 28 Mar 2011 08:35:56 Mobile 
+08:35:56 - Tata 207 has entered zone baina at 28 Mar 2011 08:35:56 Mobile 
+08:35:56 - Tata 207 has entered zone baina at 28 Mar 2011 08:35:56 Mobile 
+08:35:56 - Tata 207 has entered zone baina at 28 Mar 2011 08:35:56 Mobile 
+08:36:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:36:13 Mobile 
+08:37:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:37:13 Mobile 
+08:39:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:39:13 Mobile 
+08:39:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:39:13 Mobile 
+08:40:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:40:13 Mobile 
+08:41:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:41:14 Mobile 
+08:43:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:43:14 Mobile 
+08:43:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:43:14 Mobile 
+08:44:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:44:14 Mobile 
+08:45:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:45:14 Mobile 
+08:45:57 - Tata 207 has entered zone baina at 28 Mar 2011 08:45:57 Mobile 
+08:45:57 - Tata 207 has entered zone baina at 28 Mar 2011 08:45:57 Mobile 
+08:45:57 - Tata 207 has entered zone baina at 28 Mar 2011 08:45:57 Mobile 
+08:45:57 - Tata 207 has entered zone baina at 28 Mar 2011 08:45:57 Mobile 
+08:45:57 - Tata 207 has entered zone baina at 28 Mar 2011 08:45:57 Mobile 
+08:45:57 - Tata 207 has entered zone baina at 28 Mar 2011 08:45:57 Mobile 
+08:45:57 - Tata 207 has entered zone baina at 28 Mar 2011 08:45:57 Mobile 
+08:45:57 - Tata 207 has entered zone baina at 28 Mar 2011 08:45:57 Mobile 
+08:45:57 - Tata 207 has entered zone baina at 28 Mar 2011 08:45:57 Mobile 
+08:45:57 - Tata 207 has entered zone baina at 28 Mar 2011 08:45:57 Mobile 
+08:47:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:47:14 Mobile 
+08:47:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:47:14 Mobile 
+08:48:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:48:14 Mobile 
+08:49:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:49:14 Mobile 
+08:50:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:50:15 Mobile 
+08:51:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:51:15 Mobile 
+08:52:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:52:15 Mobile 
+08:53:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:53:15 Mobile 
+08:55:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:55:15 Mobile 
+08:55:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:55:15 Mobile 
+08:55:58 - Tata 207 has entered zone baina at 28 Mar 2011 08:55:58 Mobile 
+08:55:58 - Tata 207 has entered zone baina at 28 Mar 2011 08:55:58 Mobile 
+08:55:58 - Tata 207 has entered zone baina at 28 Mar 2011 08:55:58 Mobile 
+08:55:58 - Tata 207 has entered zone baina at 28 Mar 2011 08:55:58 Mobile 
+08:55:58 - Tata 207 has entered zone baina at 28 Mar 2011 08:55:58 Mobile 
+08:55:58 - Tata 207 has entered zone baina at 28 Mar 2011 08:55:58 Mobile 
+08:55:58 - Tata 207 has entered zone baina at 28 Mar 2011 08:55:58 Mobile 
+08:55:58 - Tata 207 has entered zone baina at 28 Mar 2011 08:55:58 Mobile 
+08:55:58 - Tata 207 has entered zone baina at 28 Mar 2011 08:55:58 Mobile 
+08:55:58 - Tata 207 has entered zone baina at 28 Mar 2011 08:55:58 Mobile 
+08:56:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:56:15 Mobile 
+08:57:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:57:15 Mobile 
+08:59:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:59:16 Mobile 
+08:59:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 08:59:16 Mobile 
+09:00:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:00:16 Mobile 
+09:01:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:01:16 Mobile 
+09:03:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:03:16 Mobile 
+09:03:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:03:16 Mobile 
+09:04:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:04:16 Mobile 
+09:05:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:05:16 Mobile 
+09:06:00 - Tata 207 has entered zone baina at 28 Mar 2011 09:06:00 Mobile 
+09:06:00 - Tata 207 has entered zone baina at 28 Mar 2011 09:06:00 Mobile 
+09:06:00 - Tata 207 has entered zone baina at 28 Mar 2011 09:06:00 Mobile 
+09:06:00 - Tata 207 has entered zone baina at 28 Mar 2011 09:06:00 Mobile 
+09:06:00 - Tata 207 has entered zone baina at 28 Mar 2011 09:06:00 Mobile 
+09:06:00 - Tata 207 has entered zone baina at 28 Mar 2011 09:06:00 Mobile 
+09:06:00 - Tata 207 has entered zone baina at 28 Mar 2011 09:06:00 Mobile 
+09:06:00 - Tata 207 has entered zone baina at 28 Mar 2011 09:06:00 Mobile 
+09:06:00 - Tata 207 has entered zone baina at 28 Mar 2011 09:06:00 Mobile 
+09:06:00 - Tata 207 has entered zone baina at 28 Mar 2011 09:06:00 Mobile 
+09:07:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:07:17 Mobile 
+09:07:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:07:17 Mobile 
+09:08:20 - Ace delivery vans 1 has left zone home at 28 Mar 2011 09:08:20 Email absgoa@gmail.com,
+09:08:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:08:17 Mobile 
+09:09:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:09:17 Mobile 
+09:11:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:11:17 Mobile 
+09:11:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:11:17 Mobile 
+09:12:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:12:17 Mobile 
+09:13:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:13:17 Mobile 
+09:14:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:14:18 Mobile 
+09:15:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:15:18 Mobile 
+09:16:01 - Tata 207 has entered zone baina at 28 Mar 2011 09:16:01 Mobile 
+09:16:01 - Tata 207 has entered zone baina at 28 Mar 2011 09:16:01 Mobile 
+09:16:01 - Tata 207 has entered zone baina at 28 Mar 2011 09:16:01 Mobile 
+09:16:01 - Tata 207 has entered zone baina at 28 Mar 2011 09:16:01 Mobile 
+09:16:01 - Tata 207 has entered zone baina at 28 Mar 2011 09:16:01 Mobile 
+09:16:01 - Tata 207 has entered zone baina at 28 Mar 2011 09:16:01 Mobile 
+09:16:01 - Tata 207 has entered zone baina at 28 Mar 2011 09:16:01 Mobile 
+09:16:01 - Tata 207 has entered zone baina at 28 Mar 2011 09:16:01 Mobile 
+09:16:01 - Tata 207 has entered zone baina at 28 Mar 2011 09:16:01 Mobile 
+09:16:01 - Tata 207 has entered zone baina at 28 Mar 2011 09:16:01 Mobile 
+09:16:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:16:18 Mobile 
+09:17:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:17:18 Mobile 
+09:19:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:19:18 Mobile 
+09:19:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:19:18 Mobile 
+09:20:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:20:18 Mobile 
+09:21:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:21:18 Mobile 
+09:23:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:23:19 Mobile 
+09:23:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:23:19 Mobile 
+09:24:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:24:19 Mobile 
+09:25:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:25:19 Mobile 
+09:26:02 - Tata 207 has entered zone baina at 28 Mar 2011 09:26:02 Mobile 
+09:26:02 - Tata 207 has entered zone baina at 28 Mar 2011 09:26:02 Mobile 
+09:26:02 - Tata 207 has entered zone baina at 28 Mar 2011 09:26:02 Mobile 
+09:26:02 - Tata 207 has entered zone baina at 28 Mar 2011 09:26:02 Mobile 
+09:26:02 - Tata 207 has entered zone baina at 28 Mar 2011 09:26:02 Mobile 
+09:26:02 - Tata 207 has entered zone baina at 28 Mar 2011 09:26:02 Mobile 
+09:26:02 - Tata 207 has entered zone baina at 28 Mar 2011 09:26:02 Mobile 
+09:26:02 - Tata 207 has entered zone baina at 28 Mar 2011 09:26:02 Mobile 
+09:26:02 - Tata 207 has entered zone baina at 28 Mar 2011 09:26:02 Mobile 
+09:26:02 - Tata 207 has entered zone baina at 28 Mar 2011 09:26:02 Mobile 
+09:27:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:27:19 Mobile 
+09:27:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:27:19 Mobile 
+09:28:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:28:19 Mobile 
+09:29:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:29:19 Mobile 
+09:31:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:31:20 Mobile 
+09:31:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:31:20 Mobile 
+09:32:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:32:20 Mobile 
+09:33:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:33:20 Mobile 
+09:35:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:35:20 Mobile 
+09:35:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:35:20 Mobile 
+09:36:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:36:20 Mobile 
+09:36:03 - Tata 207 has entered zone baina at 28 Mar 2011 09:36:03 Mobile 
+09:36:03 - Tata 207 has entered zone baina at 28 Mar 2011 09:36:03 Mobile 
+09:36:03 - Tata 207 has entered zone baina at 28 Mar 2011 09:36:03 Mobile 
+09:36:03 - Tata 207 has entered zone baina at 28 Mar 2011 09:36:03 Mobile 
+09:36:03 - Tata 207 has entered zone baina at 28 Mar 2011 09:36:03 Mobile 
+09:36:03 - Tata 207 has entered zone baina at 28 Mar 2011 09:36:03 Mobile 
+09:36:03 - Tata 207 has entered zone baina at 28 Mar 2011 09:36:03 Mobile 
+09:36:03 - Tata 207 has entered zone baina at 28 Mar 2011 09:36:03 Mobile 
+09:36:03 - Tata 207 has entered zone baina at 28 Mar 2011 09:36:03 Mobile 
+09:36:03 - Tata 207 has entered zone baina at 28 Mar 2011 09:36:03 Mobile 
+09:37:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:37:20 Mobile 
+09:38:59 - Supply canter has entered zone margao at 28 Mar 2011 09:38:59 Email absgoa@gmail.com,
+09:38:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:38:21 Mobile 
+09:39:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:39:21 Mobile 
+09:40:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:40:21 Mobile 
+09:41:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:41:21 Mobile 
+09:43:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:43:21 Mobile 
+09:43:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:43:21 Mobile 
+09:44:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:44:21 Mobile 
+09:45:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:45:21 Mobile 
+09:46:05 - Tata 207 has entered zone baina at 28 Mar 2011 09:46:05 Mobile 
+09:46:05 - Tata 207 has entered zone baina at 28 Mar 2011 09:46:05 Mobile 
+09:46:05 - Tata 207 has entered zone baina at 28 Mar 2011 09:46:05 Mobile 
+09:46:05 - Tata 207 has entered zone baina at 28 Mar 2011 09:46:05 Mobile 
+09:46:05 - Tata 207 has entered zone baina at 28 Mar 2011 09:46:05 Mobile 
+09:46:05 - Tata 207 has entered zone baina at 28 Mar 2011 09:46:05 Mobile 
+09:46:05 - Tata 207 has entered zone baina at 28 Mar 2011 09:46:05 Mobile 
+09:46:05 - Tata 207 has entered zone baina at 28 Mar 2011 09:46:05 Mobile 
+09:46:05 - Tata 207 has entered zone baina at 28 Mar 2011 09:46:05 Mobile 
+09:46:05 - Tata 207 has entered zone baina at 28 Mar 2011 09:46:05 Mobile 
+09:47:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:47:22 Mobile 
+09:47:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:47:22 Mobile 
+09:48:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:48:22 Mobile 
+09:49:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:49:22 Mobile 
+09:51:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:51:22 Mobile 
+09:51:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:51:22 Mobile 
+09:52:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:52:22 Mobile 
+09:53:53 - Venu Sir Car has entered zone new name at 28 Mar 2011 09:53:53 Email manivannan.k@shastrasoftech.com,
+09:53:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:53:23 Mobile 
+09:55:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:55:23 Mobile 
+09:55:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:55:23 Mobile 
+09:55:47 - Tata 207 has entered zone baina at 28 Mar 2011 09:55:47 Mobile 
+09:55:47 - Tata 207 has entered zone baina at 28 Mar 2011 09:55:47 Mobile 
+09:55:47 - Tata 207 has entered zone baina at 28 Mar 2011 09:55:47 Mobile 
+09:55:47 - Tata 207 has entered zone baina at 28 Mar 2011 09:55:47 Mobile 
+09:55:47 - Tata 207 has entered zone baina at 28 Mar 2011 09:55:47 Mobile 
+09:55:47 - Tata 207 has entered zone baina at 28 Mar 2011 09:55:47 Mobile 
+09:55:47 - Tata 207 has entered zone baina at 28 Mar 2011 09:55:47 Mobile 
+09:55:47 - Tata 207 has entered zone baina at 28 Mar 2011 09:55:47 Mobile 
+09:55:47 - Tata 207 has entered zone baina at 28 Mar 2011 09:55:47 Mobile 
+09:55:47 - Tata 207 has entered zone baina at 28 Mar 2011 09:55:47 Mobile 
+09:56:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:56:23 Mobile 
+09:57:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:57:23 Mobile 
+09:59:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:59:23 Mobile 
+09:59:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 09:59:23 Mobile 
+10:00:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:00:23 Mobile 
+10:01:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:01:24 Mobile 
+10:03:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:03:24 Mobile 
+10:03:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:03:24 Mobile 
+10:04:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:04:24 Mobile 
+10:05:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:05:24 Mobile 
+10:06:48 - Tata 207 has entered zone baina at 28 Mar 2011 10:06:48 Mobile 
+10:06:48 - Tata 207 has entered zone baina at 28 Mar 2011 10:06:48 Mobile 
+10:06:48 - Tata 207 has entered zone baina at 28 Mar 2011 10:06:48 Mobile 
+10:06:48 - Tata 207 has entered zone baina at 28 Mar 2011 10:06:48 Mobile 
+10:06:48 - Tata 207 has entered zone baina at 28 Mar 2011 10:06:48 Mobile 
+10:06:48 - Tata 207 has entered zone baina at 28 Mar 2011 10:06:48 Mobile 
+10:06:48 - Tata 207 has entered zone baina at 28 Mar 2011 10:06:48 Mobile 
+10:06:48 - Tata 207 has entered zone baina at 28 Mar 2011 10:06:48 Mobile 
+10:06:48 - Tata 207 has entered zone baina at 28 Mar 2011 10:06:48 Mobile 
+10:06:48 - Tata 207 has entered zone baina at 28 Mar 2011 10:06:48 Mobile 
+10:06:48 - Tata 207 has entered zone baina at 28 Mar 2011 10:06:48 Mobile 
+10:07:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:07:24 Mobile 
+10:07:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:07:24 Mobile 
+10:08:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:08:24 Mobile 
+10:09:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:09:25 Mobile 
+10:11:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:11:25 Mobile 
+10:11:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:11:25 Mobile 
+10:12:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:12:25 Mobile 
+10:13:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:13:25 Mobile 
+10:15:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:15:25 Mobile 
+10:15:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:15:25 Mobile 
+10:15:58 - Tata 207 has entered zone baina at 28 Mar 2011 10:15:58 Mobile 
+10:15:58 - Tata 207 has entered zone baina at 28 Mar 2011 10:15:58 Mobile 
+10:15:58 - Tata 207 has entered zone baina at 28 Mar 2011 10:15:58 Mobile 
+10:15:58 - Tata 207 has entered zone baina at 28 Mar 2011 10:15:58 Mobile 
+10:15:58 - Tata 207 has entered zone baina at 28 Mar 2011 10:15:58 Mobile 
+10:15:58 - Tata 207 has entered zone baina at 28 Mar 2011 10:15:58 Mobile 
+10:15:58 - Tata 207 has entered zone baina at 28 Mar 2011 10:15:58 Mobile 
+10:15:58 - Tata 207 has entered zone baina at 28 Mar 2011 10:15:58 Mobile 
+10:15:58 - Tata 207 has entered zone baina at 28 Mar 2011 10:15:58 Mobile 
+10:15:58 - Tata 207 has entered zone baina at 28 Mar 2011 10:15:58 Mobile 
+10:16:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:16:25 Mobile 
+10:17:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:17:26 Mobile 
+10:19:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:19:26 Mobile 
+10:19:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:19:26 Mobile 
+10:20:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:20:26 Mobile 
+10:21:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:21:26 Mobile 
+10:22:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:22:26 Mobile 
+10:23:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:23:26 Mobile 
+10:24:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:24:26 Mobile 
+10:25:53 - Tata 207 has entered zone baina at 28 Mar 2011 10:25:53 Mobile 
+10:25:53 - Tata 207 has entered zone baina at 28 Mar 2011 10:25:53 Mobile 
+10:25:53 - Tata 207 has entered zone baina at 28 Mar 2011 10:25:53 Mobile 
+10:25:53 - Tata 207 has entered zone baina at 28 Mar 2011 10:25:53 Mobile 
+10:25:53 - Tata 207 has entered zone baina at 28 Mar 2011 10:25:53 Mobile 
+10:25:53 - Tata 207 has entered zone baina at 28 Mar 2011 10:25:53 Mobile 
+10:25:53 - Tata 207 has entered zone baina at 28 Mar 2011 10:25:53 Mobile 
+10:25:53 - Tata 207 has entered zone baina at 28 Mar 2011 10:25:53 Mobile 
+10:25:53 - Tata 207 has entered zone baina at 28 Mar 2011 10:25:53 Mobile 
+10:25:53 - Tata 207 has entered zone baina at 28 Mar 2011 10:25:53 Mobile 
+10:25:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:25:26 Mobile 
+10:27:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:27:27 Mobile 
+10:27:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:27:27 Mobile 
+10:28:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:28:27 Mobile 
+10:29:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:29:27 Mobile 
+10:31:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:31:27 Mobile 
+10:31:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:31:27 Mobile 
+10:32:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:32:27 Mobile 
+10:33:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:33:27 Mobile 
+10:34:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:34:28 Mobile 
+10:35:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:35:28 Mobile 
+10:35:55 - Tata 207 has entered zone baina at 28 Mar 2011 10:35:55 Mobile 
+10:35:55 - Tata 207 has entered zone baina at 28 Mar 2011 10:35:55 Mobile 
+10:35:55 - Tata 207 has entered zone baina at 28 Mar 2011 10:35:55 Mobile 
+10:35:55 - Tata 207 has entered zone baina at 28 Mar 2011 10:35:55 Mobile 
+10:35:55 - Tata 207 has entered zone baina at 28 Mar 2011 10:35:55 Mobile 
+10:35:55 - Tata 207 has entered zone baina at 28 Mar 2011 10:35:55 Mobile 
+10:35:55 - Tata 207 has entered zone baina at 28 Mar 2011 10:35:55 Mobile 
+10:35:55 - Tata 207 has entered zone baina at 28 Mar 2011 10:35:55 Mobile 
+10:35:55 - Tata 207 has entered zone baina at 28 Mar 2011 10:35:55 Mobile 
+10:35:55 - Tata 207 has entered zone baina at 28 Mar 2011 10:35:55 Mobile 
+10:36:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:36:28 Mobile 
+10:38:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:38:28 Mobile 
+10:38:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:38:28 Mobile 
+10:39:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:39:28 Mobile 
+10:40:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:40:28 Mobile 
+10:42:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:42:29 Mobile 
+10:42:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:42:29 Mobile 
+10:43:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:43:29 Mobile 
+10:44:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:44:29 Mobile 
+10:45:04 - Tata 207 has entered zone baina at 28 Mar 2011 10:45:04 Mobile 
+10:45:04 - Tata 207 has entered zone baina at 28 Mar 2011 10:45:04 Mobile 
+10:45:04 - Tata 207 has entered zone baina at 28 Mar 2011 10:45:04 Mobile 
+10:45:04 - Tata 207 has entered zone baina at 28 Mar 2011 10:45:04 Mobile 
+10:45:04 - Tata 207 has entered zone baina at 28 Mar 2011 10:45:04 Mobile 
+10:45:04 - Tata 207 has entered zone baina at 28 Mar 2011 10:45:04 Mobile 
+10:45:04 - Tata 207 has entered zone baina at 28 Mar 2011 10:45:04 Mobile 
+10:45:04 - Tata 207 has entered zone baina at 28 Mar 2011 10:45:04 Mobile 
+10:45:04 - Tata 207 has entered zone baina at 28 Mar 2011 10:45:04 Mobile 
+10:45:04 - Tata 207 has entered zone baina at 28 Mar 2011 10:45:04 Mobile 
+10:46:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:46:29 Mobile 
+10:46:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:46:29 Mobile 
+10:47:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:47:29 Mobile 
+10:48:29 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:48:29 Mobile 
+10:50:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:50:30 Mobile 
+10:50:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:50:30 Mobile 
+10:51:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:51:30 Mobile 
+10:52:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:52:30 Mobile 
+10:54:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:54:30 Mobile 
+10:54:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:54:30 Mobile 
+10:55:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:55:30 Mobile 
+10:56:05 - Tata 207 has entered zone baina at 28 Mar 2011 10:56:05 Mobile 
+10:56:05 - Tata 207 has entered zone baina at 28 Mar 2011 10:56:05 Mobile 
+10:56:05 - Tata 207 has entered zone baina at 28 Mar 2011 10:56:05 Mobile 
+10:56:05 - Tata 207 has entered zone baina at 28 Mar 2011 10:56:05 Mobile 
+10:56:05 - Tata 207 has entered zone baina at 28 Mar 2011 10:56:05 Mobile 
+10:56:05 - Tata 207 has entered zone baina at 28 Mar 2011 10:56:05 Mobile 
+10:56:05 - Tata 207 has entered zone baina at 28 Mar 2011 10:56:05 Mobile 
+10:56:05 - Tata 207 has entered zone baina at 28 Mar 2011 10:56:05 Mobile 
+10:56:05 - Tata 207 has entered zone baina at 28 Mar 2011 10:56:05 Mobile 
+10:56:05 - Tata 207 has entered zone baina at 28 Mar 2011 10:56:05 Mobile 
+10:56:05 - Tata 207 has entered zone baina at 28 Mar 2011 10:56:05 Mobile 
+10:56:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:56:30 Mobile 
+10:57:30 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:57:30 Mobile 
+10:58:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:58:31 Mobile 
+10:58:34 - Ace delivery vans 1 has entered zone colva beach at 28 Mar 2011 10:58:34 Email absgoa@gmail.com,
+10:59:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 10:59:31 Mobile 
+11:00:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:00:31 Mobile 
+11:02:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:02:31 Mobile 
+11:02:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:02:31 Mobile 
+11:03:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:03:31 Mobile 
+11:04:31 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:04:31 Mobile 
+11:05:20 - Tata 207 has entered zone baina at 28 Mar 2011 11:05:20 Mobile 
+11:05:20 - Tata 207 has entered zone baina at 28 Mar 2011 11:05:20 Mobile 
+11:05:20 - Tata 207 has entered zone baina at 28 Mar 2011 11:05:20 Mobile 
+11:05:20 - Tata 207 has entered zone baina at 28 Mar 2011 11:05:20 Mobile 
+11:05:20 - Tata 207 has entered zone baina at 28 Mar 2011 11:05:20 Mobile 
+11:05:20 - Tata 207 has entered zone baina at 28 Mar 2011 11:05:20 Mobile 
+11:05:20 - Tata 207 has entered zone baina at 28 Mar 2011 11:05:20 Mobile 
+11:05:20 - Tata 207 has entered zone baina at 28 Mar 2011 11:05:20 Mobile 
+11:05:20 - Tata 207 has entered zone baina at 28 Mar 2011 11:05:20 Mobile 
+11:05:20 - Tata 207 has entered zone baina at 28 Mar 2011 11:05:20 Mobile 
+11:06:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:06:32 Mobile 
+11:06:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:06:32 Mobile 
+11:07:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:07:32 Mobile 
+11:08:24 - Supply canter has entered zone kesarwal at 28 Mar 2011 11:08:24 Email absgoa@gmail.com,
+11:08:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:08:32 Mobile 
+11:10:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:10:32 Mobile 
+11:10:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:10:32 Mobile 
+11:11:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:11:32 Mobile 
+11:12:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:12:32 Mobile 
+11:14:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:14:33 Mobile 
+11:14:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:14:33 Mobile 
+11:14:59 - Tata 207 has entered zone baina at 28 Mar 2011 11:14:59 Mobile 
+11:14:59 - Tata 207 has entered zone baina at 28 Mar 2011 11:14:59 Mobile 
+11:14:59 - Tata 207 has entered zone baina at 28 Mar 2011 11:14:59 Mobile 
+11:14:59 - Tata 207 has entered zone baina at 28 Mar 2011 11:14:59 Mobile 
+11:14:59 - Tata 207 has entered zone baina at 28 Mar 2011 11:14:59 Mobile 
+11:14:59 - Tata 207 has entered zone baina at 28 Mar 2011 11:14:59 Mobile 
+11:14:59 - Tata 207 has entered zone baina at 28 Mar 2011 11:14:59 Mobile 
+11:14:59 - Tata 207 has entered zone baina at 28 Mar 2011 11:14:59 Mobile 
+11:14:59 - Tata 207 has entered zone baina at 28 Mar 2011 11:14:59 Mobile 
+11:14:59 - Tata 207 has entered zone baina at 28 Mar 2011 11:14:59 Mobile 
+11:15:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:15:33 Mobile 
+11:16:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:16:33 Mobile 
+11:17:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:17:33 Mobile 
+11:18:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:18:33 Mobile 
+11:19:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:19:33 Mobile 
+11:20:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:20:33 Mobile 
+11:22:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:22:34 Mobile 
+11:22:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:22:34 Mobile 
+11:23:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:23:34 Mobile 
+11:24:32 - Tata 207 has entered zone baina at 28 Mar 2011 11:24:32 Mobile 
+11:24:32 - Tata 207 has entered zone baina at 28 Mar 2011 11:24:32 Mobile 
+11:24:32 - Tata 207 has entered zone baina at 28 Mar 2011 11:24:32 Mobile 
+11:24:32 - Tata 207 has entered zone baina at 28 Mar 2011 11:24:32 Mobile 
+11:24:32 - Tata 207 has entered zone baina at 28 Mar 2011 11:24:32 Mobile 
+11:24:32 - Tata 207 has entered zone baina at 28 Mar 2011 11:24:32 Mobile 
+11:24:32 - Tata 207 has entered zone baina at 28 Mar 2011 11:24:32 Mobile 
+11:24:32 - Tata 207 has entered zone baina at 28 Mar 2011 11:24:32 Mobile 
+11:24:32 - Tata 207 has entered zone baina at 28 Mar 2011 11:24:32 Mobile 
+11:24:32 - Tata 207 has entered zone baina at 28 Mar 2011 11:24:32 Mobile 
+11:24:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:24:34 Mobile 
+11:26:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:26:34 Mobile 
+11:26:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:26:34 Mobile 
+11:27:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:27:34 Mobile 
+11:28:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:28:34 Mobile 
+11:30:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:30:35 Mobile 
+11:30:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:30:35 Mobile 
+11:31:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:31:35 Mobile 
+11:32:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:32:35 Mobile 
+11:34:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:34:35 Mobile 
+11:34:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:34:35 Mobile 
+11:34:06 - Tata 207 has entered zone baina at 28 Mar 2011 11:34:06 Mobile 
+11:34:06 - Tata 207 has entered zone baina at 28 Mar 2011 11:34:06 Mobile 
+11:34:06 - Tata 207 has entered zone baina at 28 Mar 2011 11:34:06 Mobile 
+11:34:06 - Tata 207 has entered zone baina at 28 Mar 2011 11:34:06 Mobile 
+11:34:06 - Tata 207 has entered zone baina at 28 Mar 2011 11:34:06 Mobile 
+11:34:06 - Tata 207 has entered zone baina at 28 Mar 2011 11:34:06 Mobile 
+11:34:06 - Tata 207 has entered zone baina at 28 Mar 2011 11:34:06 Mobile 
+11:34:06 - Tata 207 has entered zone baina at 28 Mar 2011 11:34:06 Mobile 
+11:34:06 - Tata 207 has entered zone baina at 28 Mar 2011 11:34:06 Mobile 
+11:34:06 - Tata 207 has entered zone baina at 28 Mar 2011 11:34:06 Mobile 
+11:35:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:35:35 Mobile 
+11:36:35 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:36:35 Mobile 
+11:37:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:37:36 Mobile 
+11:38:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:38:36 Mobile 
+11:39:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:39:36 Mobile 
+11:40:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:40:36 Mobile 
+11:42:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:42:36 Mobile 
+11:42:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:42:36 Mobile 
+11:43:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:43:36 Mobile 
+11:43:49 - Tata 207 has entered zone baina at 28 Mar 2011 11:43:49 Mobile 
+11:43:49 - Tata 207 has entered zone baina at 28 Mar 2011 11:43:49 Mobile 
+11:43:49 - Tata 207 has entered zone baina at 28 Mar 2011 11:43:49 Mobile 
+11:43:49 - Tata 207 has entered zone baina at 28 Mar 2011 11:43:49 Mobile 
+11:43:49 - Tata 207 has entered zone baina at 28 Mar 2011 11:43:49 Mobile 
+11:43:49 - Tata 207 has entered zone baina at 28 Mar 2011 11:43:49 Mobile 
+11:43:49 - Tata 207 has entered zone baina at 28 Mar 2011 11:43:49 Mobile 
+11:43:49 - Tata 207 has entered zone baina at 28 Mar 2011 11:43:49 Mobile 
+11:43:49 - Tata 207 has entered zone baina at 28 Mar 2011 11:43:49 Mobile 
+11:43:49 - Tata 207 has entered zone baina at 28 Mar 2011 11:43:49 Mobile 
+11:44:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:44:36 Mobile 
+11:46:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:46:37 Mobile 
+11:46:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:46:37 Mobile 
+11:47:29 - Supply canter has left zone test 2222 at 28 Mar 2011 11:47:29 Email absgoa@gmail.com,
+11:47:33 - Supply canter has entered zone indianoil at 28 Mar 2011 11:47:33 Email absgoa@gmail.com,
+11:47:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:47:37 Mobile 
+11:48:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:48:37 Mobile 
+11:50:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:50:37 Mobile 
+11:50:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:50:37 Mobile 
+11:51:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:51:37 Mobile 
+11:52:44 - Tata 207 has entered zone baina at 28 Mar 2011 11:52:44 Mobile 
+11:52:44 - Tata 207 has entered zone baina at 28 Mar 2011 11:52:44 Mobile 
+11:52:44 - Tata 207 has entered zone baina at 28 Mar 2011 11:52:44 Mobile 
+11:52:44 - Tata 207 has entered zone baina at 28 Mar 2011 11:52:44 Mobile 
+11:52:44 - Tata 207 has entered zone baina at 28 Mar 2011 11:52:44 Mobile 
+11:52:44 - Tata 207 has entered zone baina at 28 Mar 2011 11:52:44 Mobile 
+11:52:44 - Tata 207 has entered zone baina at 28 Mar 2011 11:52:44 Mobile 
+11:52:44 - Tata 207 has entered zone baina at 28 Mar 2011 11:52:44 Mobile 
+11:52:44 - Tata 207 has entered zone baina at 28 Mar 2011 11:52:44 Mobile 
+11:52:44 - Tata 207 has entered zone baina at 28 Mar 2011 11:52:44 Mobile 
+11:52:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:52:37 Mobile 
+11:54:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:54:38 Mobile 
+11:54:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:54:38 Mobile 
+11:55:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:55:38 Mobile 
+11:56:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:56:38 Mobile 
+11:58:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:58:38 Mobile 
+11:58:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:58:38 Mobile 
+11:59:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 11:59:38 Mobile 
+12:00:38 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:00:38 Mobile 
+12:00:44 - Tata 207 has entered zone baina at 28 Mar 2011 12:00:44 Mobile 
+12:00:44 - Tata 207 has entered zone baina at 28 Mar 2011 12:00:44 Mobile 
+12:00:44 - Tata 207 has entered zone baina at 28 Mar 2011 12:00:44 Mobile 
+12:00:44 - Tata 207 has entered zone baina at 28 Mar 2011 12:00:44 Mobile 
+12:00:44 - Tata 207 has entered zone baina at 28 Mar 2011 12:00:44 Mobile 
+12:00:44 - Tata 207 has entered zone baina at 28 Mar 2011 12:00:44 Mobile 
+12:00:44 - Tata 207 has entered zone baina at 28 Mar 2011 12:00:44 Mobile 
+12:00:44 - Tata 207 has entered zone baina at 28 Mar 2011 12:00:44 Mobile 
+12:00:44 - Tata 207 has entered zone baina at 28 Mar 2011 12:00:44 Mobile 
+12:00:44 - Tata 207 has entered zone baina at 28 Mar 2011 12:00:44 Mobile 
+12:02:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:02:39 Mobile 
+12:02:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:02:39 Mobile 
+12:03:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:03:39 Mobile 
+12:04:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:04:39 Mobile 
+12:05:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:05:39 Mobile 
+12:06:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:06:39 Mobile 
+12:07:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:07:39 Mobile 
+12:08:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:08:39 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:17 - Tata 207 has entered zone baina at 28 Mar 2011 12:10:17 Mobile 
+12:10:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:10:40 Mobile 
+12:10:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:10:40 Mobile 
+12:11:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:11:40 Mobile 
+12:12:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:12:40 Mobile 
+12:14:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:14:40 Mobile 
+12:14:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:14:40 Mobile 
+12:15:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:15:40 Mobile 
+12:16:40 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:16:40 Mobile 
+12:18:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:18:41 Mobile 
+12:18:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:18:41 Mobile 
+12:19:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:19:41 Mobile 
+12:20:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:20:41 Mobile 
+12:22:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:22:41 Mobile 
+12:22:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:22:41 Mobile 
+12:23:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:23:41 Mobile 
+12:24:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:24:41 Mobile 
+12:26:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:26:42 Mobile 
+12:26:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:26:42 Mobile 
+12:27:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:27:42 Mobile 
+12:28:26 - Aarti-1 has entered zone DMC jetty at 28 Mar 2011 12:28:26 Email kailash.sharma@synergytradex.com,
+12:28:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:28:42 Mobile 
+12:30:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:30:42 Mobile 
+12:30:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:30:42 Mobile 
+12:31:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:31:42 Mobile 
+12:32:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:32:42 Mobile 
+12:34:11 - Innova silver GA 08 u 1995 has entered zone gandulim at 28 Mar 2011 12:34:11 Email absgoa@gmail.com,
+12:34:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:34:43 Mobile 
+12:34:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:34:43 Mobile 
+12:35:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:35:43 Mobile 
+12:36:21 - Innova silver GA 08 u 1995 has entered zone majorda at 28 Mar 2011 12:36:21 Email info@abstracking.com,
+12:36:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:36:43 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:46 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:46 Mobile 
+12:38:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:54 Mobile 
+12:38:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:54 Mobile 
+12:38:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:54 Mobile 
+12:38:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:54 Mobile 
+12:38:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:38:54 Mobile 
+12:39:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:03 Mobile 
+12:39:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:03 Mobile 
+12:39:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:03 Mobile 
+12:39:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:03 Mobile 
+12:39:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:03 Mobile 
+12:39:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:03 Mobile 
+12:39:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:10 Mobile 
+12:39:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:10 Mobile 
+12:39:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:10 Mobile 
+12:39:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:10 Mobile 
+12:39:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:10 Mobile 
+12:39:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:17 Mobile 
+12:39:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:17 Mobile 
+12:39:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:17 Mobile 
+12:39:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:17 Mobile 
+12:39:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:17 Mobile 
+12:39:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:25 Mobile 
+12:39:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:25 Mobile 
+12:39:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:25 Mobile 
+12:39:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:25 Mobile 
+12:39:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:25 Mobile 
+12:39:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:33 Mobile 
+12:39:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:33 Mobile 
+12:39:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:33 Mobile 
+12:39:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:33 Mobile 
+12:39:33 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:33 Mobile 
+12:39:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:41 Mobile 
+12:39:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:41 Mobile 
+12:39:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:41 Mobile 
+12:39:41 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:39:41 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:02 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:08 Mobile 
+12:41:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:17 Mobile 
+12:41:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:17 Mobile 
+12:41:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:17 Mobile 
+12:41:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:17 Mobile 
+12:41:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:24 Mobile 
+12:41:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:24 Mobile 
+12:41:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:24 Mobile 
+12:41:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:24 Mobile 
+12:41:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:24 Mobile 
+12:41:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:24 Mobile 
+12:41:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:32 Mobile 
+12:41:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:32 Mobile 
+12:41:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:32 Mobile 
+12:41:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:32 Mobile 
+12:41:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:39 Mobile 
+12:41:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:39 Mobile 
+12:41:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:39 Mobile 
+12:41:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:39 Mobile 
+12:41:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:39 Mobile 
+12:41:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:51 Mobile 
+12:41:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:51 Mobile 
+12:41:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:51 Mobile 
+12:41:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:51 Mobile 
+12:41:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:56 Mobile 
+12:41:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:56 Mobile 
+12:41:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:41:56 Mobile 
+12:42:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:06 Mobile 
+12:42:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:06 Mobile 
+12:42:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:06 Mobile 
+12:42:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:06 Mobile 
+12:42:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:06 Mobile 
+12:42:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:06 Mobile 
+12:42:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:06 Mobile 
+12:42:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:14 Mobile 
+12:42:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:14 Mobile 
+12:42:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:14 Mobile 
+12:42:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:14 Mobile 
+12:42:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:14 Mobile 
+12:42:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:14 Mobile 
+12:42:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:14 Mobile 
+12:42:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:21 Mobile 
+12:42:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:21 Mobile 
+12:42:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:21 Mobile 
+12:42:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:21 Mobile 
+12:42:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:21 Mobile 
+12:42:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:27 Mobile 
+12:42:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:27 Mobile 
+12:42:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:27 Mobile 
+12:42:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:27 Mobile 
+12:42:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:27 Mobile 
+12:42:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:34 Mobile 
+12:42:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:34 Mobile 
+12:42:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:34 Mobile 
+12:42:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:34 Mobile 
+12:42:34 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:34 Mobile 
+12:42:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:43 Mobile 
+12:42:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:43 Mobile 
+12:42:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:43 Mobile 
+12:42:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:43 Mobile 
+12:42:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:43 Mobile 
+12:42:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:43 Mobile 
+12:42:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:43 Mobile 
+12:42:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:47 Mobile 
+12:42:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:47 Mobile 
+12:42:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:42:47 Mobile 
+12:43:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:03 Mobile 
+12:43:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:03 Mobile 
+12:43:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:03 Mobile 
+12:43:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:03 Mobile 
+12:43:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:09 Mobile 
+12:43:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:09 Mobile 
+12:43:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:09 Mobile 
+12:43:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:16 Mobile 
+12:43:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:16 Mobile 
+12:43:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:16 Mobile 
+12:43:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:24 Mobile 
+12:43:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:24 Mobile 
+12:43:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:24 Mobile 
+12:43:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:24 Mobile 
+12:43:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:24 Mobile 
+12:43:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:24 Mobile 
+12:43:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:26 Mobile 
+12:43:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:26 Mobile 
+12:43:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:39 Mobile 
+12:43:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:39 Mobile 
+12:43:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:39 Mobile 
+12:43:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:39 Mobile 
+12:43:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:45 Mobile 
+12:43:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:45 Mobile 
+12:43:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:45 Mobile 
+12:43:45 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:45 Mobile 
+12:43:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:53 Mobile 
+12:43:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:53 Mobile 
+12:43:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 12:43:53 Mobile 
+14:20:12 - Venu Sir Car has entered zone new name at 28 Mar 2011 14:20:12 Email manivannan.k@shastrasoftech.com,
+15:45:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:43 Mobile 
+15:45:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:43 Mobile 
+15:45:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:43 Mobile 
+15:45:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:43 Mobile 
+15:45:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:43 Mobile 
+15:45:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:43 Mobile 
+15:45:43 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:43 Mobile 
+15:45:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:50 Mobile 
+15:45:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:50 Mobile 
+15:45:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:50 Mobile 
+15:45:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:50 Mobile 
+15:45:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:56 Mobile 
+15:45:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:56 Mobile 
+15:45:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:56 Mobile 
+15:45:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:56 Mobile 
+15:45:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:45:56 Mobile 
+15:46:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:05 Mobile 
+15:46:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:05 Mobile 
+15:46:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:05 Mobile 
+15:46:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:05 Mobile 
+15:46:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:05 Mobile 
+15:46:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:05 Mobile 
+15:46:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:05 Mobile 
+15:46:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:14 Mobile 
+15:46:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:14 Mobile 
+15:46:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:14 Mobile 
+15:46:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:14 Mobile 
+15:46:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:21 Mobile 
+15:46:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:21 Mobile 
+15:46:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:21 Mobile 
+15:46:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:21 Mobile 
+15:46:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:26 Mobile 
+15:46:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:26 Mobile 
+15:46:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:26 Mobile 
+15:46:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:26 Mobile 
+15:46:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:39 Mobile 
+15:46:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:39 Mobile 
+15:46:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:39 Mobile 
+15:46:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:39 Mobile 
+15:46:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:39 Mobile 
+15:46:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:39 Mobile 
+15:46:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:47 Mobile 
+15:46:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:47 Mobile 
+15:46:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:47 Mobile 
+15:46:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:47 Mobile 
+15:46:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:47 Mobile 
+15:46:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:51 Mobile 
+15:46:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:51 Mobile 
+15:46:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:51 Mobile 
+15:46:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:51 Mobile 
+15:46:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:56 Mobile 
+15:46:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:46:56 Mobile 
+15:47:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:14 Mobile 
+15:47:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:14 Mobile 
+15:47:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:14 Mobile 
+15:47:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:14 Mobile 
+15:47:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:18 Mobile 
+15:47:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:18 Mobile 
+15:47:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:18 Mobile 
+15:47:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:22 Mobile 
+15:47:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:37 Mobile 
+15:47:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:37 Mobile 
+15:47:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:37 Mobile 
+15:47:37 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:37 Mobile 
+15:47:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:42 Mobile 
+15:47:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:42 Mobile 
+15:47:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:42 Mobile 
+15:47:42 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:42 Mobile 
+15:47:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:52 Mobile 
+15:47:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:52 Mobile 
+15:47:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:52 Mobile 
+15:47:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:52 Mobile 
+15:47:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:59 Mobile 
+15:47:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:59 Mobile 
+15:47:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:59 Mobile 
+15:47:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:59 Mobile 
+15:47:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:59 Mobile 
+15:47:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:47:59 Mobile 
+15:48:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:04 Mobile 
+15:48:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:04 Mobile 
+15:48:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:04 Mobile 
+15:48:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:04 Mobile 
+15:48:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:15 Mobile 
+15:48:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:15 Mobile 
+15:48:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:15 Mobile 
+15:48:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:15 Mobile 
+15:48:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:15 Mobile 
+15:48:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:15 Mobile 
+15:48:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:15 Mobile 
+15:48:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:22 Mobile 
+15:48:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:22 Mobile 
+15:48:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:22 Mobile 
+15:48:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:22 Mobile 
+15:48:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:22 Mobile 
+15:48:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:32 Mobile 
+15:48:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:32 Mobile 
+15:48:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:32 Mobile 
+15:48:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:32 Mobile 
+15:48:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:32 Mobile 
+15:48:32 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:32 Mobile 
+15:48:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:36 Mobile 
+15:48:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:36 Mobile 
+15:48:36 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:36 Mobile 
+15:48:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:44 Mobile 
+15:48:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:44 Mobile 
+15:48:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:44 Mobile 
+15:48:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:44 Mobile 
+15:48:44 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:44 Mobile 
+15:48:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:54 Mobile 
+15:48:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:54 Mobile 
+15:48:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:54 Mobile 
+15:48:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:48:54 Mobile 
+15:49:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:02 Mobile 
+15:49:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:02 Mobile 
+15:49:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:02 Mobile 
+15:49:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:02 Mobile 
+15:49:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:02 Mobile 
+15:49:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:02 Mobile 
+15:49:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:02 Mobile 
+15:49:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:09 Mobile 
+15:49:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:09 Mobile 
+15:49:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:09 Mobile 
+15:49:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:09 Mobile 
+15:49:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:09 Mobile 
+15:49:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:09 Mobile 
+15:49:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:09 Mobile 
+15:49:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:17 Mobile 
+15:49:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:17 Mobile 
+15:49:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:17 Mobile 
+15:49:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:17 Mobile 
+15:49:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:17 Mobile 
+15:49:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:17 Mobile 
+15:49:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:24 Mobile 
+15:49:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:24 Mobile 
+15:49:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:24 Mobile 
+15:49:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:24 Mobile 
+15:49:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:24 Mobile 
+15:49:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:24 Mobile 
+15:49:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:28 Mobile 
+15:49:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:28 Mobile 
+15:49:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:28 Mobile 
+15:49:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:39 Mobile 
+15:49:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:39 Mobile 
+15:49:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:39 Mobile 
+15:49:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:39 Mobile 
+15:49:39 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:39 Mobile 
+15:49:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:47 Mobile 
+15:49:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:47 Mobile 
+15:49:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:47 Mobile 
+15:49:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:47 Mobile 
+15:49:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:47 Mobile 
+15:49:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:47 Mobile 
+15:49:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:51 Mobile 
+15:49:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:51 Mobile 
+15:49:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:51 Mobile 
+15:49:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:49:51 Mobile 
+15:50:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:50:51 Mobile 
+15:51:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:51:51 Mobile 
+15:53:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:53:52 Mobile 
+15:53:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:53:52 Mobile 
+15:54:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:54:52 Mobile 
+15:55:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:55:52 Mobile 
+15:57:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:57:52 Mobile 
+15:57:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:57:52 Mobile 
+15:58:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:58:52 Mobile 
+15:59:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 15:59:52 Mobile 
+16:01:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:01:53 Mobile 
+16:01:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:01:53 Mobile 
+16:02:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:02:53 Mobile 
+16:03:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:03:53 Mobile 
+16:05:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:05:53 Mobile 
+16:05:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:05:53 Mobile 
+16:06:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:06:53 Mobile 
+16:07:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:07:53 Mobile 
+16:08:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:08:54 Mobile 
+16:09:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:09:54 Mobile 
+16:10:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:10:54 Mobile 
+16:11:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:11:54 Mobile 
+16:13:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:13:54 Mobile 
+16:13:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:13:54 Mobile 
+16:14:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:14:54 Mobile 
+16:15:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:15:54 Mobile 
+16:17:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:17:55 Mobile 
+16:17:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:17:55 Mobile 
+16:18:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:18:55 Mobile 
+16:19:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:19:55 Mobile 
+16:20:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:20:55 Mobile 
+16:21:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:21:55 Mobile 
+16:22:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:22:55 Mobile 
+16:24:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:24:56 Mobile 
+16:24:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:24:56 Mobile 
+16:26:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:26:56 Mobile 
+16:26:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:26:56 Mobile 
+16:27:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:27:56 Mobile 
+16:28:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:28:56 Mobile 
+16:30:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:30:56 Mobile 
+16:30:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:30:56 Mobile 
+16:31:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:31:57 Mobile 
+16:32:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:32:57 Mobile 
+16:34:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:34:57 Mobile 
+16:34:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:34:57 Mobile 
+16:35:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:35:57 Mobile 
+16:36:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:36:57 Mobile 
+16:38:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:38:57 Mobile 
+16:38:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:38:57 Mobile 
+16:39:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:39:57 Mobile 
+16:40:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:40:58 Mobile 
+16:41:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:41:58 Mobile 
+16:42:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:42:58 Mobile 
+16:43:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:43:58 Mobile 
+16:44:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:44:58 Mobile 
+16:46:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:46:58 Mobile 
+16:46:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:46:58 Mobile 
+16:47:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:47:59 Mobile 
+16:48:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:48:59 Mobile 
+16:50:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:50:59 Mobile 
+16:50:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:50:59 Mobile 
+16:51:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:51:59 Mobile 
+16:52:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:52:59 Mobile 
+16:53:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:53:59 Mobile 
+16:54:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:54:59 Mobile 
+16:56:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:56:00 Mobile 
+16:57:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:57:00 Mobile 
+16:59:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:59:00 Mobile 
+16:59:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 16:59:00 Mobile 
+17:00:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:00:00 Mobile 
+17:01:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:01:00 Mobile 
+17:03:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:03:00 Mobile 
+17:03:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:03:00 Mobile 
+17:04:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:04:00 Mobile 
+17:05:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:05:01 Mobile 
+17:07:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:07:01 Mobile 
+17:07:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:07:01 Mobile 
+17:08:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:08:01 Mobile 
+17:09:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:09:01 Mobile 
+17:11:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:11:01 Mobile 
+17:11:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:11:01 Mobile 
+17:12:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:12:02 Mobile 
+17:13:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:13:02 Mobile 
+17:15:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:15:02 Mobile 
+17:15:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:15:02 Mobile 
+17:16:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:16:02 Mobile 
+17:17:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:17:02 Mobile 
+17:18:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:18:02 Mobile 
+17:19:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:19:02 Mobile 
+17:20:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:20:03 Mobile 
+17:21:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:21:03 Mobile 
+17:23:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:23:03 Mobile 
+17:23:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:23:03 Mobile 
+17:24:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:24:03 Mobile 
+17:25:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:25:03 Mobile 
+17:27:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:27:03 Mobile 
+17:27:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:27:03 Mobile 
+17:28:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:28:04 Mobile 
+17:29:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:29:04 Mobile 
+17:31:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:31:04 Mobile 
+17:31:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:31:04 Mobile 
+17:32:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:32:04 Mobile 
+17:33:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:33:04 Mobile 
+17:35:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:35:04 Mobile 
+17:35:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:35:04 Mobile 
+17:36:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:36:05 Mobile 
+17:37:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:37:05 Mobile 
+17:38:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:38:05 Mobile 
+17:39:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:39:05 Mobile 
+17:40:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:40:05 Mobile 
+17:41:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:41:05 Mobile 
+17:42:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:42:05 Mobile 
+17:43:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:43:05 Mobile 
+17:45:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:45:06 Mobile 
+17:45:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:45:06 Mobile 
+17:46:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:46:06 Mobile 
+17:47:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:47:06 Mobile 
+17:49:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:49:06 Mobile 
+17:49:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:49:06 Mobile 
+17:50:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:50:06 Mobile 
+17:51:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:51:06 Mobile 
+17:53:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:53:07 Mobile 
+17:53:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:53:07 Mobile 
+17:54:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:54:07 Mobile 
+17:55:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:55:07 Mobile 
+17:56:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:56:07 Mobile 
+17:58:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:58:07 Mobile 
+17:58:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:58:07 Mobile 
+17:59:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 17:59:07 Mobile 
+18:00:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:00:08 Mobile 
+18:02:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:02:08 Mobile 
+18:02:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:02:08 Mobile 
+18:03:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:03:08 Mobile 
+18:04:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:04:08 Mobile 
+18:06:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:06:08 Mobile 
+18:06:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:06:08 Mobile 
+18:07:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:07:08 Mobile 
+18:08:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:08:09 Mobile 
+18:09:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:09:09 Mobile 
+18:10:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:10:09 Mobile 
+18:11:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:11:09 Mobile 
+18:12:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:12:09 Mobile 
+18:14:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:14:09 Mobile 
+18:14:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:14:09 Mobile 
+18:15:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:15:10 Mobile 
+18:16:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:16:10 Mobile 
+18:18:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:18:10 Mobile 
+18:18:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:18:10 Mobile 
+18:19:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:19:10 Mobile 
+18:20:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:20:10 Mobile 
+18:22:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:22:10 Mobile 
+18:22:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:22:10 Mobile 
+18:23:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:23:11 Mobile 
+18:24:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:24:11 Mobile 
+18:26:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:26:11 Mobile 
+18:26:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:26:11 Mobile 
+18:27:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:27:11 Mobile 
+18:28:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:28:11 Mobile 
+18:29:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:29:11 Mobile 
+18:30:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:30:11 Mobile 
+18:31:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:31:12 Mobile 
+18:32:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:32:12 Mobile 
+18:33:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:33:47 Mobile 
+18:33:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:33:47 Mobile 
+18:33:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:33:47 Mobile 
+18:33:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:33:47 Mobile 
+18:33:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:33:47 Mobile 
+18:33:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:33:47 Mobile 
+18:33:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:33:47 Mobile 
+18:33:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:33:47 Mobile 
+18:33:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:33:47 Mobile 
+18:33:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:33:47 Mobile 
+18:34:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:34:47 Mobile 
+18:35:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:35:47 Mobile 
+18:36:47 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:36:47 Mobile 
+18:37:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:37:48 Mobile 
+18:39:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:39:48 Mobile 
+18:39:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:39:48 Mobile 
+18:40:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:40:48 Mobile 
+18:41:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:41:48 Mobile 
+18:42:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:42:48 Mobile 
+18:43:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:43:48 Mobile 
+18:44:48 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:44:48 Mobile 
+18:46:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:46:49 Mobile 
+18:46:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:46:49 Mobile 
+18:47:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:47:49 Mobile 
+18:48:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:48:49 Mobile 
+18:50:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:50:49 Mobile 
+18:50:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:50:49 Mobile 
+18:51:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:51:49 Mobile 
+18:52:49 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:52:49 Mobile 
+18:53:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:53:50 Mobile 
+18:54:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:54:50 Mobile 
+18:55:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:55:50 Mobile 
+18:56:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:56:50 Mobile 
+18:58:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:58:50 Mobile 
+18:58:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:58:50 Mobile 
+18:59:50 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 18:59:50 Mobile 
+19:01:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:01:51 Mobile 
+19:01:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:01:51 Mobile 
+19:02:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:02:51 Mobile 
+19:03:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:03:51 Mobile 
+19:05:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:05:51 Mobile 
+19:05:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:05:51 Mobile 
+19:06:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:06:51 Mobile 
+19:07:51 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:07:51 Mobile 
+19:09:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:09:52 Mobile 
+19:09:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:09:52 Mobile 
+19:10:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:10:52 Mobile 
+19:11:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:11:52 Mobile 
+19:12:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:12:52 Mobile 
+19:13:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:13:52 Mobile 
+19:14:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:14:52 Mobile 
+19:15:52 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:15:52 Mobile 
+19:17:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:17:53 Mobile 
+19:17:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:17:53 Mobile 
+19:18:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:18:53 Mobile 
+19:19:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:19:53 Mobile 
+19:20:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:20:53 Mobile 
+19:21:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:21:53 Mobile 
+19:22:53 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:22:53 Mobile 
+19:24:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:24:54 Mobile 
+19:24:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:24:54 Mobile 
+19:25:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:25:54 Mobile 
+19:26:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:26:54 Mobile 
+19:27:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:27:54 Mobile 
+19:28:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:28:54 Mobile 
+19:29:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:29:54 Mobile 
+19:30:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:30:54 Mobile 
+19:32:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:32:54 Mobile 
+19:32:54 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:32:54 Mobile 
+19:33:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:33:55 Mobile 
+19:34:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:34:55 Mobile 
+19:36:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:36:55 Mobile 
+19:36:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:36:55 Mobile 
+19:37:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:37:55 Mobile 
+19:38:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:38:55 Mobile 
+19:39:55 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:39:55 Mobile 
+19:40:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:40:56 Mobile 
+19:41:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:41:56 Mobile 
+19:43:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:43:56 Mobile 
+19:43:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:43:56 Mobile 
+19:44:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:44:56 Mobile 
+19:45:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:45:56 Mobile 
+19:46:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:46:56 Mobile 
+19:47:56 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:47:56 Mobile 
+19:48:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:48:57 Mobile 
+19:49:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:49:57 Mobile 
+19:51:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:51:57 Mobile 
+19:51:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:51:57 Mobile 
+19:52:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:52:57 Mobile 
+19:53:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:53:57 Mobile 
+19:55:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:55:57 Mobile 
+19:55:57 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:55:57 Mobile 
+19:56:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:56:58 Mobile 
+19:57:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:57:58 Mobile 
+19:58:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:58:58 Mobile 
+19:59:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 19:59:58 Mobile 
+20:00:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:00:58 Mobile 
+20:01:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:01:58 Mobile 
+20:03:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:03:58 Mobile 
+20:03:58 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:03:58 Mobile 
+20:04:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:04:59 Mobile 
+20:05:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:05:59 Mobile 
+20:07:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:07:59 Mobile 
+20:07:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:07:59 Mobile 
+20:08:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:08:59 Mobile 
+20:09:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:09:59 Mobile 
+20:11:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:11:59 Mobile 
+20:11:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:11:59 Mobile 
+20:12:59 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:12:59 Mobile 
+20:14:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:14:00 Mobile 
+20:16:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:16:00 Mobile 
+20:16:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:16:00 Mobile 
+20:17:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:17:00 Mobile 
+20:18:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:18:00 Mobile 
+20:20:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:20:00 Mobile 
+20:20:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:20:00 Mobile 
+20:21:00 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:21:00 Mobile 
+20:22:04 - Supply canter has left zone test 2222 at 28 Mar 2011 20:22:04 Email absgoa@gmail.com,
+20:22:10 - Supply canter has entered zone kesarwal at 28 Mar 2011 20:22:10 Email absgoa@gmail.com,
+20:22:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:22:01 Mobile 
+20:23:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:23:01 Mobile 
+20:24:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:24:01 Mobile 
+20:25:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:25:01 Mobile 
+20:26:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:26:01 Mobile 
+20:28:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:28:01 Mobile 
+20:28:01 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:28:01 Mobile 
+20:29:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:29:02 Mobile 
+20:30:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:30:02 Mobile 
+20:31:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:31:02 Mobile 
+20:32:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:32:02 Mobile 
+20:33:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:33:02 Mobile 
+20:35:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:35:02 Mobile 
+20:35:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:35:02 Mobile 
+20:36:02 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:36:02 Mobile 
+20:37:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:37:03 Mobile 
+20:39:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:39:03 Mobile 
+20:39:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:39:03 Mobile 
+20:40:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:40:03 Mobile 
+20:41:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:41:03 Mobile 
+20:43:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:43:03 Mobile 
+20:43:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:43:03 Mobile 
+20:44:03 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:44:03 Mobile 
+20:45:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:45:04 Mobile 
+20:47:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:47:04 Mobile 
+20:47:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:47:04 Mobile 
+20:48:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:48:04 Mobile 
+20:49:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:49:04 Mobile 
+20:51:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:51:04 Mobile 
+20:51:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:51:04 Mobile 
+20:52:04 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:52:04 Mobile 
+20:53:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:53:05 Mobile 
+20:55:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:55:05 Mobile 
+20:55:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:55:05 Mobile 
+20:56:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:56:05 Mobile 
+20:57:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:57:05 Mobile 
+20:58:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:58:05 Mobile 
+20:59:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 20:59:05 Mobile 
+21:00:05 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:00:05 Mobile 
+21:01:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:01:06 Mobile 
+21:03:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:03:06 Mobile 
+21:03:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:03:06 Mobile 
+21:04:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:04:06 Mobile 
+21:05:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:05:06 Mobile 
+21:07:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:07:06 Mobile 
+21:07:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:07:06 Mobile 
+21:08:06 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:08:06 Mobile 
+21:09:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:09:07 Mobile 
+21:10:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:10:07 Mobile 
+21:11:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:11:07 Mobile 
+21:12:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:12:07 Mobile 
+21:13:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:13:07 Mobile 
+21:15:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:15:07 Mobile 
+21:15:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:15:07 Mobile 
+21:16:07 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:16:07 Mobile 
+21:17:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:17:08 Mobile 
+21:19:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:19:08 Mobile 
+21:19:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:19:08 Mobile 
+21:20:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:20:08 Mobile 
+21:21:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:21:08 Mobile 
+21:22:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:22:08 Mobile 
+21:23:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:23:08 Mobile 
+21:24:08 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:24:08 Mobile 
+21:25:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:25:09 Mobile 
+21:27:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:27:09 Mobile 
+21:27:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:27:09 Mobile 
+21:28:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:28:09 Mobile 
+21:29:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:29:09 Mobile 
+21:31:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:31:09 Mobile 
+21:31:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:31:09 Mobile 
+21:32:09 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:32:09 Mobile 
+21:33:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:33:10 Mobile 
+21:34:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:34:10 Mobile 
+21:35:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:35:10 Mobile 
+21:36:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:36:10 Mobile 
+21:37:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:37:10 Mobile 
+21:39:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:39:10 Mobile 
+21:39:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:39:10 Mobile 
+21:40:10 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:40:10 Mobile 
+21:41:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:41:11 Mobile 
+21:43:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:43:11 Mobile 
+21:43:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:43:11 Mobile 
+21:44:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:44:11 Mobile 
+21:45:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:45:11 Mobile 
+21:47:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:47:11 Mobile 
+21:47:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:47:11 Mobile 
+21:48:11 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:48:11 Mobile 
+21:49:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:49:12 Mobile 
+21:50:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:50:12 Mobile 
+21:51:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:51:12 Mobile 
+21:52:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:52:12 Mobile 
+21:53:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:53:12 Mobile 
+21:55:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:55:12 Mobile 
+21:55:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:55:12 Mobile 
+21:56:12 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:56:12 Mobile 
+21:57:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:57:13 Mobile 
+21:59:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:59:13 Mobile 
+21:59:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 21:59:13 Mobile 
+22:00:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:00:13 Mobile 
+22:01:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:01:13 Mobile 
+22:02:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:02:13 Mobile 
+22:03:13 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:03:13 Mobile 
+22:04:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:04:14 Mobile 
+22:05:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:05:14 Mobile 
+22:07:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:07:14 Mobile 
+22:07:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:07:14 Mobile 
+22:08:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:08:14 Mobile 
+22:09:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:09:14 Mobile 
+22:11:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:11:14 Mobile 
+22:11:14 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:11:14 Mobile 
+22:12:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:12:15 Mobile 
+22:13:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:13:15 Mobile 
+22:15:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:15:15 Mobile 
+22:15:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:15:15 Mobile 
+22:16:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:16:15 Mobile 
+22:17:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:17:15 Mobile 
+22:18:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:18:15 Mobile 
+22:19:15 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:19:15 Mobile 
+22:20:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:20:16 Mobile 
+22:21:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:21:16 Mobile 
+22:23:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:23:16 Mobile 
+22:23:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:23:16 Mobile 
+22:24:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:24:16 Mobile 
+22:25:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:25:16 Mobile 
+22:27:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:27:16 Mobile 
+22:27:16 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:27:16 Mobile 
+22:28:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:28:17 Mobile 
+22:29:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:29:17 Mobile 
+22:31:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:31:17 Mobile 
+22:31:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:31:17 Mobile 
+22:32:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:32:17 Mobile 
+22:33:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:33:17 Mobile 
+22:35:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:35:17 Mobile 
+22:35:17 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:35:17 Mobile 
+22:36:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:36:18 Mobile 
+22:37:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:37:18 Mobile 
+22:39:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:39:18 Mobile 
+22:39:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:39:18 Mobile 
+22:40:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:40:18 Mobile 
+22:41:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:41:18 Mobile 
+22:43:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:43:18 Mobile 
+22:43:18 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:43:18 Mobile 
+22:44:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:44:19 Mobile 
+22:45:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:45:19 Mobile 
+22:47:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:47:19 Mobile 
+22:47:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:47:19 Mobile 
+22:48:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:48:19 Mobile 
+22:49:19 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:49:19 Mobile 
+22:51:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:51:20 Mobile 
+22:51:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:51:20 Mobile 
+22:52:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:52:20 Mobile 
+22:53:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:53:20 Mobile 
+22:55:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:55:20 Mobile 
+22:55:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:55:20 Mobile 
+22:56:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:56:20 Mobile 
+22:57:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:57:20 Mobile 
+22:58:20 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:58:20 Mobile 
+22:59:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 22:59:21 Mobile 
+23:00:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:00:21 Mobile 
+23:01:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:01:21 Mobile 
+23:03:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:03:21 Mobile 
+23:03:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:03:21 Mobile 
+23:04:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:04:21 Mobile 
+23:05:21 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:05:21 Mobile 
+23:07:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:07:22 Mobile 
+23:07:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:07:22 Mobile 
+23:08:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:08:22 Mobile 
+23:09:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:09:22 Mobile 
+23:10:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:10:22 Mobile 
+23:11:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:11:22 Mobile 
+23:12:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:12:22 Mobile 
+23:13:22 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:13:22 Mobile 
+23:15:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:15:23 Mobile 
+23:15:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:15:23 Mobile 
+23:16:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:16:23 Mobile 
+23:17:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:17:23 Mobile 
+23:18:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:18:23 Mobile 
+23:19:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:19:23 Mobile 
+23:20:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:20:23 Mobile 
+23:21:23 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:21:23 Mobile 
+23:23:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:23:24 Mobile 
+23:23:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:23:24 Mobile 
+23:24:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:24:24 Mobile 
+23:25:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:25:24 Mobile 
+23:27:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:27:24 Mobile 
+23:27:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:27:24 Mobile 
+23:28:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:28:24 Mobile 
+23:29:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:29:24 Mobile 
+23:30:24 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:30:24 Mobile 
+23:31:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:31:25 Mobile 
+23:32:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:32:25 Mobile 
+23:33:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:33:25 Mobile 
+23:35:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:35:25 Mobile 
+23:35:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:35:25 Mobile 
+23:36:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:36:25 Mobile 
+23:37:25 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:37:25 Mobile 
+23:39:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:39:26 Mobile 
+23:39:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:39:26 Mobile 
+23:40:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:40:26 Mobile 
+23:41:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:41:26 Mobile 
+23:42:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:42:26 Mobile 
+23:43:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:43:26 Mobile 
+23:44:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:44:26 Mobile 
+23:45:26 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:45:26 Mobile 
+23:47:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:47:27 Mobile 
+23:47:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:47:27 Mobile 
+23:48:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:48:27 Mobile 
+23:49:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:49:27 Mobile 
+23:51:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:51:27 Mobile 
+23:51:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:51:27 Mobile 
+23:52:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:52:27 Mobile 
+23:53:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:53:27 Mobile 
+23:54:27 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:54:27 Mobile 
+23:55:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:55:28 Mobile 
+23:56:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:56:28 Mobile 
+23:57:28 - GA 06 T 1707 has entered zone baina at 28 Mar 2011 23:57:28 Mobile 

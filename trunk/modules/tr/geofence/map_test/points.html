@@ -1,0 +1,264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:v="urn:schemas-microsoft-com:vml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Google Maps JavaScript API Clickable Polyline and Point-in-Polygon Example</title>
+
+    <script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAEcRU5S4wllAASrNAt60gdRTt0x3oJuMbKm0gKGN-LKGVzGrg5BQPHmzzSownKJ1WWRn3YEDh_3AJOQ"
+    type="text/javascript"></script>
+
+    <script type="text/javascript">
+    //<![CDATA[
+
+    function load() {
+      if (GBrowserIsCompatible()) {
+
+	var centerPt = new GLatLng(37.4419, -122.1419);
+	var zoomp = 13;
+	var normalProj = G_NORMAL_MAP.getProjection();
+	var closeness = 2; // pixels
+	var lineThickness = 4; // pixels
+	var lineColor = '#0000FF'; // blue
+	var lineOpacity = 0.5;
+	var pointsPx = []; // polyline points in pixel units
+
+        var map = new GMap2(document.getElementById("map"),{draggableCursor:"crosshair"});
+        map.addControl(new GSmallMapControl());
+        map.addControl(new GMapTypeControl());
+        map.setCenter(centerPt, zoomp);
+
+        var markFlag = false;
+	var marker 
+
+        GEvent.addListener(map, "click", function(overlay, point) {
+          if (point) {
+            getProximity(point);
+          }else{
+            if (overlay == marker) {
+              map.closeInfoWindow();
+              map.removeOverlay(marker);
+              markFlag = false;
+            }
+          }
+        });
+
+        var bounds = map.getBounds();
+        var southWest = bounds.getSouthWest();
+        var northEast = bounds.getNorthEast();
+        var lngSpan = northEast.lng() - southWest.lng();
+        var latSpan = northEast.lat() - southWest.lat();
+
+        // Add a polyline with five random points. Sort the points by
+        // longitude so that the line does not intersect itself.
+        var points = [];
+        for (var i = 0; i < 5; i++) {
+          points.push(new GLatLng(southWest.lat() + latSpan * Math.random(),
+                                  southWest.lng() + lngSpan * Math.random()));
+        }
+        points.sort(function(p1, p2) {
+          return p1.lng() - p2.lng();
+        });
+
+   var distravel = []; // array of cumulative miles at polyline points
+   var rdist = 0;
+   distravel.push(rdist);
+
+   for (var i = 1; i < points.length; i++) {
+     // 1609.344 converts from meters to miles
+     rdist = rdist + (points[i].distanceFrom(points[i-1]) / 1609.344);   
+     distravel.push(rdist);
+   }; // do once 
+
+     var polygonGreen = new GPolygon(points, lineColor, lineThickness, lineOpacity, "#00FF00", 0.5);
+
+     map.addOverlay(polygonGreen);	// edge is blue
+
+// connect last polyline point to first point to make polygon, make red
+
+   points.push(points[0]);
+
+var polylineRed = new GPolyline([
+  points[points.length-2],points[points.length-1]
+  ], "#ff0000", lineThickness, lineOpacity);
+
+     map.addOverlay(polylineRed);	
+
+	var zoom = map.getZoom();
+	for (var i = 0; i < points.length; i++) {
+	  var Px = normalProj.fromLatLngToPixel(points[i], zoom);
+	  pointsPx.push(Px);
+	};
+
+// ==================================================================
+   var maxDist = rdist;   
+   var fromStart = 0;
+   var toFinish = maxDist;
+   var markDist = 0;
+
+   function mileage(pt, i) {
+     fromStart = distravel[i-1] + (pt.distanceFrom(points[i-1]) / 1609.344);
+     toFinish = maxDist - fromStart;
+   }; // function to find mileage at any point on polyline
+// ==================================================================
+   function length2(pt1, pt2) {
+     return Math.pow((pt1.y - pt2.y),2) + Math.pow((pt1.x - pt2.x),2);
+   }; // function to find distance (squared) between 2 pixels
+// ==================================================================
+   function distanceToLine(pt1, pt2, pt) {
+     if (pt1.x != pt2.x) {
+	var slope = (pt2.y - pt1.y) / (pt2.x - pt1.x);
+        var intercept =  pt2.y - slope * pt2.x;
+	var dist = Math.abs(slope*pt.x + intercept - pt.y) / Math.sqrt(slope*slope+1);
+     }else{
+        var dist = Math.abs(pt.x - pt2.x); // vertical line
+     };
+     return dist;
+   }; // line defined by pt1,pt2 - distance(px) from pt to line
+   
+// ==================================================================
+function getProximity(pt) {
+	var zoom = map.getZoom();
+	var ptPx = normalProj.fromLatLngToPixel(pt, zoom);
+// *******************************************
+// need next section if we zoom in/out
+        if (zoomp != zoom) {
+          zoomp = zoom;
+          if (points.length > 1) {
+            pointsPx = [];
+            for (var i=0; i < points.length; i++) {
+	     var Px = normalProj.fromLatLngToPixel(points[i], zoom);
+	     pointsPx.push(Px);           
+	    };
+          };
+        };
+// *******************************************
+
+    if (pointsPx.length > 1){
+
+      for (var i = 1 ; i < pointsPx.length ; i++ ) {
+
+	var dist = distanceToLine(pointsPx[i-1],pointsPx[i],ptPx);
+	// distance from ptPx to (infinite) line
+
+// *******************************************
+// check if close to line segment
+       if (dist < closeness) {
+
+	var dist2 = Math.pow(dist,2); // minimum distance^2 of pt to infinite line
+
+        var rl2 = length2(pointsPx[i],pointsPx[i-1]); // length^2 of line segment
+
+        var ln2 = length2(pointsPx[i],ptPx); // distance^2 of pt to end line segment
+
+	var lnm12 = length2(pointsPx[i-1],ptPx); // distance^2 of pt to begin line segment 
+
+	var calcrl2 = ln2 - dist2 + lnm12 - dist2; 
+        // calculated approximate (but useful) length^2 of line segment;
+
+	// must be inside line segment
+        if (calcrl2 <= rl2) { break;};
+
+       }; // only check if close to infinite line
+// *******************************************
+
+      }; // for 
+    }; // if
+
+    // only check for blue polyline otherwise pointsPx.length
+	if (i < pointsPx.length-1) {
+           mileage(pt,i); // where are we on the polyline?
+
+           if (markFlag == false) {
+
+            marker = new GMarker(pt);
+            map.addOverlay(marker);
+            map.openInfoWindowHtml(pt,'Blue Polyline Clicked<br>'+fromStart.toFixed(2)+' miles from start<br>'+toFinish.toFixed(2)+' miles to finish<br>Click on marker to remove.');
+	    markDist = fromStart;
+            markFlag = true;
+
+           }else{
+
+	    if (fromStart < markDist) {
+              markDiff = markDist - fromStart;
+              var dir = "to";
+            }else{
+              markDiff = fromStart - markDist;
+              var dir = "from";
+            }
+
+            map.openInfoWindowHtml(pt,'Blue Polyline Clicked<br>'+fromStart.toFixed(2)+' miles from start<br>'+toFinish.toFixed(2)+' miles to finish<br>'+markDiff.toFixed(2)+' miles '+dir+' marker');
+           };
+
+	}else{
+	  var polyside = inPoly(pointsPx,ptPx);
+          if (polyside) {
+             map.openInfoWindowHtml(pt,'Click Inside Green Polygon');
+          }else{
+             map.openInfoWindowHtml(pt,'Click Outside Green Polygon');
+          }; 
+	};
+	
+}; //function getProximity
+
+// ==================================================================
+/*
+Parameters:
+poly: array containing x/y coordinate pairs that
+  describe the "n" vertices of the polygon + the first point.
+  Format is
+  i.e. [(x0,y0),(x1,y1),(x2,y2),...,(xn-1,yn-1),(x0,y0)]
+  
+pt: the target point i.e., (xt,yt).
+
+Return value:
+true if the point is within the polygon, false if not.
+*/
+
+function inPoly(poly,pt){
+     var npoints = poly.length-1; // number of points in polygon
+	// this assumes that last point is same as first
+     var xnew,ynew,xold,yold,x1,y1,x2,y2,i;
+     var inside=false;
+alert(pt);
+     if (npoints < 3) { // points don't describe a polygon
+          return false;
+     }
+     xold=poly[npoints-1].x; yold=poly[npoints-1].y;
+     
+     for (i=0 ; i < npoints ; i++) {
+          xnew=poly[i].x; ynew=poly[i].y;
+          if (xnew > xold) {
+               x1=xold; x2=xnew; y1=yold; y2=ynew;
+          }else{
+               x1=xnew; x2=xold; y1=ynew; y2=yold;
+          }
+          if ((xnew < pt.x) == (pt.x <= xold) && ((pt.y-y1)*(x2-x1) < (y2-y1)*(pt.x-x1))) {
+               inside=!inside;
+          }
+          xold=xnew; yold=ynew;
+     }; // for
+
+     return inside;
+}; // function inPoly
+// ==================================================================
+
+      }; // if browser
+    }; // function load
+
+
+    //]]>
+    </script>
+  </head>
+
+  <body onload="load()" onunload="GUnload()">
+
+  <h2> Clickable Polyline and Point-in-Polygon Demo</h2>
+    <div id="map" style="width: 500px; height: 300px"></div>
+  <p>Click on map (On the blue polyline or next to it) (Refresh to get new points)
+  <p>A Very Big Thank You to Marcelo and his <a href="http://maps.forum.nu/">Experiments with Google Maps</a>
+
+<br> and Scott Andrew and his <a href="http://www.scottandrew.com/weblog/jsjunk">Point in Polygon (inPoly) Javascript</a> 
+  </body>
+</html>
